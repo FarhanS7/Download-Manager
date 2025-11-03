@@ -42,3 +42,20 @@ It scans your Downloads directory, categorizes each file by type, moves them int
 
 ## 📁 Folder Structure
 
+DownloadsOrganizer/
+├── organize_downloads.py # Main script
+├── config.json # Configuration for categories & paths
+├── logs/ # Folder for logs
+│ ├── organize.log
+│ └── actions.jsonl
+└── README.md
+
+🚀 Usage
+1️⃣ Preview (safe dry-run)
+python organize_downloads.py --dry-run
+
+2️⃣ Run for real
+python organize_downloads.py
+
+3️⃣ Undo last 10 moves
+python organize_downloads.py --undo 10
