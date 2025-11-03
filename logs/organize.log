@@ -1,0 +1,1342 @@
+2025-11-03 01:18:55,327 | INFO | Found 667 files to inspect.
+2025-11-03 01:18:55,328 | INFO | [DRY RUN] 00001.png -> Images/
+2025-11-03 01:18:55,328 | INFO | [DRY RUN] 0966-email-summary-agent.json -> Others/
+2025-11-03 01:18:55,328 | INFO | [DRY RUN] 1 (11 files merged) (1).pdf -> Documents/
+2025-11-03 01:18:55,328 | INFO | [DRY RUN] 1 (11 files merged).pdf -> Documents/
+2025-11-03 01:18:55,328 | INFO | [DRY RUN] 1 Express JS.pdf -> Documents/
+2025-11-03 01:18:55,328 | INFO | [DRY RUN] 1. 30-Day AI Automation Agency Roadmap (1).pdf -> Documents/
+2025-11-03 01:18:55,329 | INFO | [DRY RUN] 1. 30-Day AI Automation Agency Roadmap.pdf -> Documents/
+2025-11-03 01:18:55,329 | INFO | [DRY RUN] 1.jpg -> Images/
+2025-11-03 01:18:55,329 | INFO | [DRY RUN] 10731837.jpg -> Images/
+2025-11-03 01:18:55,329 | INFO | [DRY RUN] 11192619.jpg -> Images/
+2025-11-03 01:18:55,330 | INFO | [DRY RUN] 1149776.jpg -> Images/
+2025-11-03 01:18:55,330 | INFO | [DRY RUN] 1149777.jpg -> Images/
+2025-11-03 01:18:55,330 | INFO | [DRY RUN] 15693365_MotionElements_software-promo-after-effects-template-aep.zip -> Archives/
+2025-11-03 01:18:55,330 | INFO | [DRY RUN] 1ec0cc88-82c1-4f18-8d37-f569070211bb.jpeg -> Images/
+2025-11-03 01:18:55,330 | INFO | [DRY RUN] 1_IirUWdu5_jw10pEb1oaLtg.webp -> Others/
+2025-11-03 01:18:55,330 | INFO | [DRY RUN] 2 ডেটা টাইপ মিউটেবল ইমিউটেবল ও কনভার্সন.pdf -> Documents/
+2025-11-03 01:18:55,330 | INFO | [DRY RUN] 2020-11-04.jpg -> Images/
+2025-11-03 01:18:55,330 | INFO | [DRY RUN] 2024-03-30T20-04-46.275Z-Archive (2).zip -> Archives/
+2025-11-03 01:18:55,331 | INFO | [DRY RUN] 2024-08-14T05-41-00.378Z-2024-02-09T18-04-04.676Z-Express Project Structure & Practice (3).pptx -> Documents/
+2025-11-03 01:18:55,331 | INFO | [DRY RUN] 2024-08-29T18-37-11.912Z-mongoDB_Practice.zip -> Archives/
+2025-11-03 01:18:55,331 | INFO | [DRY RUN] 2024-08-31T17-52-01.320Z-mongoDB_Practice.zip -> Archives/
+2025-11-03 01:18:55,331 | INFO | [DRY RUN] 2024-08-31T17-52-50.238Z-Master (1).pptx -> Documents/
+2025-11-03 01:18:55,331 | INFO | [DRY RUN] 2024-08-31T17-52-50.238Z-Master.pptx -> Documents/
+2025-11-03 01:18:55,331 | INFO | [DRY RUN] 2024-09-05T18-21-34.903Z-Task-Manager-API (1).zip -> Archives/
+2025-11-03 01:18:55,331 | INFO | [DRY RUN] 2024-09-05T18-21-34.903Z-Task-Manager-API.zip -> Archives/
+2025-11-03 01:18:55,331 | INFO | [DRY RUN] 2024-09-07T18-06-04.595Z-Task-Manager-API (1).zip -> Archives/
+2025-11-03 01:18:55,332 | INFO | [DRY RUN] 2024-09-07T18-06-04.595Z-Task-Manager-API.zip -> Archives/
+2025-11-03 01:18:55,332 | INFO | [DRY RUN] 2024-09-10T16-02-32.427Z-file.zip -> Archives/
+2025-11-03 01:18:55,332 | INFO | [DRY RUN] 2024-09-12T18-41-40.806Z-Ecommerce-Back End-Class-01.zip -> Archives/
+2025-11-03 01:18:55,332 | INFO | [DRY RUN] 2024-09-12T19-32-58.632Z-According to Pre-Recorded Ecommerce Complete Project Back End + Front End (1).zip -> Archives/
+2025-11-03 01:18:55,332 | INFO | [DRY RUN] 2024-09-12T19-32-58.632Z-According to Pre-Recorded Ecommerce Complete Project Back End + Front End.zip -> Archives/
+2025-11-03 01:18:55,332 | INFO | [DRY RUN] 2024-09-14T18-05-40.475Z-Ecommerce-Back End-Class-02.zip -> Archives/
+2025-11-03 01:18:55,332 | INFO | [DRY RUN] 2024-09-19T17-59-33.926Z-Ecommerce-Back End-Class-03.zip -> Archives/
+2025-11-03 01:18:55,332 | INFO | [DRY RUN] 2024-09-21T16-57-01.418Z-Ecommerce-Back End-Class-04.zip -> Archives/
+2025-11-03 01:18:55,333 | INFO | [DRY RUN] 2024-10-17T16-06-56.281Z-Archive.zip -> Archives/
+2025-11-03 01:18:55,333 | INFO | [DRY RUN] 2024-10-19T15-58-44.143Z-React Class 02 (1).zip -> Archives/
+2025-11-03 01:18:55,333 | INFO | [DRY RUN] 2024-10-19T15-58-44.143Z-React Class 02.zip -> Archives/
+2025-11-03 01:18:55,333 | INFO | [DRY RUN] 2024-10-24T16-13-05.851Z-vite-project.zip -> Archives/
+2025-11-03 01:18:55,333 | INFO | [DRY RUN] 2024-10-26T16-04-54.781Z-my-app.zip -> Archives/
+2025-11-03 01:18:55,333 | INFO | [DRY RUN] 2024-11-02T17-56-51.040Z-my-app.zip -> Archives/
+2025-11-03 01:18:55,334 | INFO | [DRY RUN] 2024-11-09T14-19-58.482Z-Front-End HTML Resources.zip -> Archives/
+2025-11-03 01:18:55,334 | INFO | [DRY RUN] 2024-11-09T14-21-36.806Z-Ecom Recored.zip -> Archives/
+2025-11-03 01:18:55,334 | INFO | [DRY RUN] 2210010 Assignment no. 03.ipynb -> Others/
+2025-11-03 01:18:55,334 | INFO | [DRY RUN] 2210010(Final Quiz).zip -> Archives/
+2025-11-03 01:18:55,334 | INFO | [DRY RUN] 2210010-Assignment.xlsx -> Documents/
+2025-11-03 01:18:55,334 | INFO | [DRY RUN] 2210010_Assignment-06.ipynb -> Others/
+2025-11-03 01:18:55,334 | INFO | [DRY RUN] 2210010_Assignment_02 (1).ipynb -> Others/
+2025-11-03 01:18:55,334 | INFO | [DRY RUN] 2210010_Assignment_02 (4).ipynb -> Others/
+2025-11-03 01:18:55,335 | INFO | [DRY RUN] 2210010_Assignment_02.ipynb -> Others/
+2025-11-03 01:18:55,335 | INFO | [DRY RUN] 26.png -> Images/
+2025-11-03 01:18:55,335 | INFO | [DRY RUN] 277027878_1805024069690900_2054090741246605674_n.jpg -> Images/
+2025-11-03 01:18:55,335 | INFO | [DRY RUN] 277150900_499383591666945_7188881707820177462_n.jpg -> Images/
+2025-11-03 01:18:55,335 | INFO | [DRY RUN] 2902-financial-tracker-bot.json -> Others/
+2025-11-03 01:18:55,336 | INFO | [DRY RUN] 2930.jpg -> Images/
+2025-11-03 01:18:55,336 | INFO | [DRY RUN] 2965-instagram-content-generator.json -> Others/
+2025-11-03 01:18:55,336 | INFO | [DRY RUN] 30_day_calendar_notion.md -> Others/
+2025-11-03 01:18:55,336 | INFO | [DRY RUN] 30_day_facebook_calendar.pdf -> Documents/
+2025-11-03 01:18:55,336 | INFO | [DRY RUN] 3205404.jpg -> Images/
+2025-11-03 01:18:55,336 | INFO | [DRY RUN] 33.png -> Images/
+2025-11-03 01:18:55,336 | INFO | [DRY RUN] 349380-3840x2160-desktop-4k-black-widow-background-image.jpg -> Images/
+2025-11-03 01:18:55,337 | INFO | [DRY RUN] 349383-3840x2160-desktop-4k-black-widow-wallpaper-image.jpg -> Images/
+2025-11-03 01:18:55,337 | INFO | [DRY RUN] 3D-Appshowcase-main.zip -> Archives/
+2025-11-03 01:18:55,337 | INFO | [DRY RUN] 3D-Landing-page-for-Apple-iPhone-main.zip -> Archives/
+2025-11-03 01:18:55,337 | INFO | [DRY RUN] 3d-portfolio-main.zip -> Archives/
+2025-11-03 01:18:55,337 | INFO | [DRY RUN] 3d-portfolio-website-master.zip -> Archives/
+2025-11-03 01:18:55,337 | INFO | [DRY RUN] 4113132.jpg -> Images/
+2025-11-03 01:18:55,338 | INFO | [DRY RUN] 412825736_351525804156723_2923231320498646287_n.jpg -> Images/
+2025-11-03 01:18:55,338 | INFO | [DRY RUN] 448407039_7789162424465129_4675031572151999555_n.png -> Images/
+2025-11-03 01:18:55,338 | INFO | [DRY RUN] 480905237_913285257687599_1531013743163853159_n.jpg -> Images/
+2025-11-03 01:18:55,338 | INFO | [DRY RUN] 493074390_1054553316767698_5625757167932662377_n.jpg -> Images/
+2025-11-03 01:18:55,338 | INFO | [DRY RUN] 493091817_1054553300101033_7658858027040654658_n.jpg -> Images/
+2025-11-03 01:18:55,338 | INFO | [DRY RUN] 493322566_1054553343434362_2559789886574084219_n.jpg -> Images/
+2025-11-03 01:18:55,338 | INFO | [DRY RUN] 493816820_2068698403626709_7381215023151354417_n.jpg -> Images/
+2025-11-03 01:18:55,339 | INFO | [DRY RUN] 504998247_122115598808863582_8352896443947589273_n.jpg -> Images/
+2025-11-03 01:18:55,339 | INFO | [DRY RUN] 510279531_4111386659184291_5880862298192295242_n.jpg -> Images/
+2025-11-03 01:18:55,339 | INFO | [DRY RUN] 514274893_2243784269404250_4690564221375833504_n.jpg -> Images/
+2025-11-03 01:18:55,339 | INFO | [DRY RUN] 518287087_122187159590330539_3344490337552546794_n.jpg -> Images/
+2025-11-03 01:18:55,339 | INFO | [DRY RUN] 521644497_742041362151855_4132519562525044604_n.jpg -> Images/
+2025-11-03 01:18:55,339 | INFO | [DRY RUN] 526079272_676771232079096_613770347949152376_n.jpg -> Images/
+2025-11-03 01:18:55,339 | INFO | [DRY RUN] 536426.png -> Images/
+2025-11-03 01:18:55,339 | INFO | [DRY RUN] 597965.jpg -> Images/
+2025-11-03 01:18:55,340 | INFO | [DRY RUN] 699057(1).png -> Images/
+2025-11-03 01:18:55,340 | INFO | [DRY RUN] 699057.png -> Images/
+2025-11-03 01:18:55,340 | INFO | [DRY RUN] 716485.jpg -> Images/
+2025-11-03 01:18:55,341 | INFO | [DRY RUN] 7188504.jpg -> Images/
+2025-11-03 01:18:55,341 | INFO | [DRY RUN] a-modern-bold-poster-design-for-a-web-de_isR7_al1SdWYHTT4UpqDQQ_3kqtg5CKT5uEnpChjV___g.jpeg -> Images/
+2025-11-03 01:18:55,341 | INFO | [DRY RUN] a-modern-poster-design-for-autozen-dev-a_gIEW1EzXQaq9IwU0l7Afpw_3kqtg5CKT5uEnpChjV___g.jpeg -> Images/
+2025-11-03 01:18:55,342 | INFO | [DRY RUN] Abstract (Hult Prize) (3) (2) (1).pdf -> Documents/
+2025-11-03 01:18:55,343 | INFO | [DRY RUN] Abstract (Hult Prize) (3) (2).pdf -> Documents/
+2025-11-03 01:18:55,343 | INFO | [DRY RUN] acad.exe -> Installers/
+2025-11-03 01:18:55,343 | INFO | [DRY RUN] Accounting Introduction (Autosaved).doc -> Documents/
+2025-11-03 01:18:55,343 | INFO | [DRY RUN] Advanced React_Next.js Portfolio Project Ideas (2025).pdf -> Documents/
+2025-11-03 01:18:55,344 | INFO | [DRY RUN] Aggregate blending.pptx -> Documents/
+2025-11-03 01:18:55,344 | INFO | [DRY RUN] ai-car-marketplace-main (1).zip -> Archives/
+2025-11-03 01:18:55,344 | INFO | [DRY RUN] ai-car-marketplace-main.zip -> Archives/
+2025-11-03 01:18:55,344 | INFO | [DRY RUN] ai-career-coach-master.zip -> Archives/
+2025-11-03 01:18:55,345 | INFO | [DRY RUN] ai-engineer-roadmap-2025.zip -> Archives/
+2025-11-03 01:18:55,345 | INFO | [DRY RUN] Alex Banks & Eve Porcello - Learning React_ Learning React Modern Patterns for Developing React Apps - O′Reilly (2020).pdf -> Documents/
+2025-11-03 01:18:55,345 | INFO | [DRY RUN] amazon-web-services-2.svg -> Images/
+2025-11-03 01:18:55,345 | INFO | [DRY RUN] animated-landing.zip -> Archives/
+2025-11-03 01:18:55,345 | INFO | [DRY RUN] anon-ecommerce-website-master.zip -> Archives/
+2025-11-03 01:18:55,346 | INFO | [DRY RUN] api_carousel_slide_1.png -> Images/
+2025-11-03 01:18:55,346 | INFO | [DRY RUN] api_carousel_slide_2.png -> Images/
+2025-11-03 01:18:55,346 | INFO | [DRY RUN] api_carousel_slide_3.png -> Images/
+2025-11-03 01:18:55,346 | INFO | [DRY RUN] api_carousel_slide_4.png -> Images/
+2025-11-03 01:18:55,346 | INFO | [DRY RUN] api_optimization_cover.png -> Images/
+2025-11-03 01:18:55,346 | INFO | [DRY RUN] artificial-intelligence-concept-facebook-cover.zip -> Archives/
+2025-11-03 01:18:55,347 | INFO | [DRY RUN] Assignment cover BW.pdf -> Documents/
+2025-11-03 01:18:55,347 | INFO | [DRY RUN] Assignment-06(Function) (1).ipynb -> Others/
+2025-11-03 01:18:55,347 | INFO | [DRY RUN] assignments-master.zip -> Archives/
+2025-11-03 01:18:55,347 | INFO | [DRY RUN] astronomy-concept-with-retro-science-cartoon-icons-set.zip -> Archives/
+2025-11-03 01:18:55,347 | INFO | [DRY RUN] att.SWNrmJEclGjHhGz-PdFOiOlNEa0PdbJNRNqlbGk1OzE.dat -> Others/
+2025-11-03 01:18:55,347 | INFO | [DRY RUN] auto-mind-main.zip -> Archives/
+2025-11-03 01:18:55,348 | INFO | [DRY RUN] AutoCAD_2021_English_Win_64bit_dlm.sfx.exe -> Installers/
+2025-11-03 01:18:55,348 | INFO | [DRY RUN] AutoMind-logo.zip -> Archives/
+2025-11-03 01:18:55,348 | INFO | [DRY RUN] AWS-Logo.png -> Images/
+2025-11-03 01:18:55,348 | INFO | [DRY RUN] aws-svgrepo-com.svg -> Images/
+2025-11-03 01:18:55,348 | INFO | [DRY RUN] B-9 A-7  Requirement Doc.pdf -> Documents/
+2025-11-03 01:18:55,348 | INFO | [DRY RUN] B9 A8 Requirements.pdf -> Documents/
+2025-11-03 01:18:55,349 | INFO | [DRY RUN] B9-react-knowledge-cafe-main.zip -> Archives/
+2025-11-03 01:18:55,349 | INFO | [DRY RUN] B9A7-CHEFS-TABLE-main.zip -> Archives/
+2025-11-03 01:18:55,349 | INFO | [DRY RUN] backend_cover_photo.png -> Images/
+2025-11-03 01:18:55,349 | INFO | [DRY RUN] Basic Concepts of Probability.pdf -> Documents/
+2025-11-03 01:18:55,349 | INFO | [DRY RUN] batch-3-assignment-1-agency-landing-page-FarhanS7-main.zip -> Archives/
+2025-11-03 01:18:55,350 | INFO | [DRY RUN] Beam Deflection © PIASH_1801001.pdf -> Documents/
+2025-11-03 01:18:55,350 | INFO | [DRY RUN] Beam,column,footing layout.bak -> Others/
+2025-11-03 01:18:55,350 | INFO | [DRY RUN] Beam,column,footing layout.dwg -> Others/
+2025-11-03 01:18:55,350 | INFO | [DRY RUN] Beige Minimalist Weekly Planner (1).pdf -> Documents/
+2025-11-03 01:18:55,350 | INFO | [DRY RUN] Beige Minimalist Weekly Planner.pdf -> Documents/
+2025-11-03 01:18:55,351 | INFO | [DRY RUN] bewidgets-0-13-7-0.appxbundle -> Others/
+2025-11-03 01:18:55,351 | INFO | [DRY RUN] big-data-visualization-futuristic-infographic-information-aesthetic-design-visual-data-complexity-co.zip -> Archives/
+2025-11-03 01:18:55,351 | INFO | [DRY RUN] Black Minimal Business Personal Profile Linkedin Banner (1).png -> Images/
+2025-11-03 01:18:55,351 | INFO | [DRY RUN] Black Minimal Business Personal Profile Linkedin Banner.png -> Images/
+2025-11-03 01:18:55,351 | INFO | [DRY RUN] blog-admin-panel-master.zip -> Archives/
+2025-11-03 01:18:55,352 | INFO | [DRY RUN] blog-website.zip -> Archives/
+2025-11-03 01:18:55,352 | INFO | [DRY RUN] blog_cover_design_brief.pdf -> Documents/
+2025-11-03 01:18:55,352 | INFO | [DRY RUN] BlueStacks10Installer_10.42.75.2001_native_480b9f29f563b993aa911bc70c7eb9d9_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=_RG93bmxvYWQgQXBr.exe -> Installers/
+2025-11-03 01:18:55,352 | INFO | [DRY RUN] bonjourr-20.4.2 2025-05-09 14_05_59.json -> Others/
+2025-11-03 01:18:55,353 | INFO | [DRY RUN] bootstrap-5.3.2-dist.zip -> Archives/
+2025-11-03 01:18:55,353 | INFO | [DRY RUN] Boris Cherny - Programming TypeScript_ Making Your JavaScript Applications Scale - O′Reilly (2019).pdf -> Documents/
+2025-11-03 01:18:55,353 | INFO | [DRY RUN] BraveBrowserSetup-BRV010.exe -> Installers/
+2025-11-03 01:18:55,353 | INFO | [DRY RUN] brooke-cagle--uHVRvDr7pg-unsplash.jpg -> Images/
+2025-11-03 01:18:55,353 | INFO | [DRY RUN] burger-landing-page-main.zip -> Archives/
+2025-11-03 01:18:55,354 | INFO | [DRY RUN] CamScanner 01-25-2024 23.35 (1).pdf -> Documents/
+2025-11-03 01:18:55,354 | INFO | [DRY RUN] Center-of-Pressure_Updated.pdf -> Documents/
+2025-11-03 01:18:55,354 | INFO | [DRY RUN] ChatGPT Image Apr 4, 2025, 02_36_29 PM.png -> Images/
+2025-11-03 01:18:55,354 | INFO | [DRY RUN] ChatGPT Image Aug 7, 2025, 11_11_18 PM.png -> Images/
+2025-11-03 01:18:55,354 | INFO | [DRY RUN] ChatGPT Image Jul 12, 2025, 12_12_52 AM.png -> Images/
+2025-11-03 01:18:55,354 | INFO | [DRY RUN] ChatGPT Image Jul 18, 2025, 09_26_47 PM.png -> Images/
+2025-11-03 01:18:55,355 | INFO | [DRY RUN] ChatGPT Image Jul 3, 2025, 08_40_07 PM.png -> Images/
+2025-11-03 01:18:55,355 | INFO | [DRY RUN] ChatGPT Image Jul 3, 2025, 08_43_34 PM.png -> Images/
+2025-11-03 01:18:55,355 | INFO | [DRY RUN] ChatGPT Image Jul 30, 2025, 04_45_49 PM.png -> Images/
+2025-11-03 01:18:55,355 | INFO | [DRY RUN] ChatGPT Image Jul 5, 2025, 05_09_08 PM.png -> Images/
+2025-11-03 01:18:55,355 | INFO | [DRY RUN] ChicMotion.zip -> Archives/
+2025-11-03 01:18:55,355 | INFO | [DRY RUN] chittagong-university-of-engineering-and-technolog-seeklogo.ai -> Others/
+2025-11-03 01:18:55,356 | INFO | [DRY RUN] chittagong-university-of-engineering-and-technolog-seeklogo.png -> Images/
+2025-11-03 01:18:55,356 | INFO | [DRY RUN] ChromeSetup.exe -> Installers/
+2025-11-03 01:18:55,356 | INFO | [DRY RUN] chunks.m3u8 -> Others/
+2025-11-03 01:18:55,357 | INFO | [DRY RUN] climate-data-sealevel-global.csv -> Others/
+2025-11-03 01:18:55,357 | INFO | [DRY RUN] CODEX no bg.png -> Images/
+2025-11-03 01:18:55,357 | INFO | [DRY RUN] Colorful Retro Cartoon Illustrated Festival Market Animated Presentation.jpg -> Images/
+2025-11-03 01:18:55,357 | INFO | [DRY RUN] Colorful Retro Cartoon Illustrated Festival Market Animated Presentation.zip -> Archives/
+2025-11-03 01:18:55,357 | INFO | [DRY RUN] comet_installer_latest.exe -> Installers/
+2025-11-03 01:18:55,357 | INFO | [DRY RUN] ComplementaryUnbound_r5.3.zip -> Archives/
+2025-11-03 01:18:55,358 | INFO | [DRY RUN] Cosmic-Ventures-main.zip -> Archives/
+2025-11-03 01:18:55,358 | INFO | [DRY RUN] Cost sheet.pdf -> Documents/
+2025-11-03 01:18:55,358 | INFO | [DRY RUN] course-fizzi-next-main.zip -> Archives/
+2025-11-03 01:18:55,358 | INFO | [DRY RUN] cozycommerce-lite-main.zip -> Archives/
+2025-11-03 01:18:55,358 | INFO | [DRY RUN] cross_drainage_works.pdf -> Documents/
+2025-11-03 01:18:55,358 | INFO | [DRY RUN] cuet.zip -> Archives/
+2025-11-03 01:18:55,359 | INFO | [DRY RUN] CursorUserSetup-x64-0.48.9.exe -> Installers/
+2025-11-03 01:18:55,359 | INFO | [DRY RUN] curve surveying data sheet.pdf -> Documents/
+2025-11-03 01:18:55,359 | INFO | [DRY RUN] czs-backend-main.zip -> Archives/
+2025-11-03 01:18:55,359 | INFO | [DRY RUN] Data Flow in Todo API Diagram.png -> Images/
+2025-11-03 01:18:55,360 | INFO | [DRY RUN] David Flanagan - JavaScript - The Definitive Guide_ Master the Worlds Most-Used Programming Language - O′Reilly (2020).pdf -> Documents/
+2025-11-03 01:18:55,360 | INFO | [DRY RUN] debug.log -> Others/
+2025-11-03 01:18:55,360 | INFO | [DRY RUN] Depreciation.doc -> Documents/
+2025-11-03 01:18:55,360 | INFO | [DRY RUN] Desktop - 13.png -> Images/
+2025-11-03 01:18:55,360 | INFO | [DRY RUN] Desktop - Shortcut.lnk -> Others/
+2025-11-03 01:18:55,360 | INFO | [DRY RUN] desktop-wallpaper-mountains-passes-clouds-mist-haze-hover.jpg -> Images/
+2025-11-03 01:18:55,361 | INFO | [DRY RUN] desktop.ini -> Others/
+2025-11-03 01:18:55,361 | INFO | [DRY RUN] devflow_public.zip -> Archives/
+2025-11-03 01:18:55,361 | INFO | [DRY RUN] DiscordSetup.exe -> Installers/
+2025-11-03 01:18:55,361 | INFO | [DRY RUN] Divine Dine.png -> Images/
+2025-11-03 01:18:55,361 | INFO | [DRY RUN] Divine_Dine-removebg-preview.png -> Images/
+2025-11-03 01:18:55,361 | INFO | [DRY RUN] django-icon-svgrepo-com.svg -> Images/
+2025-11-03 01:18:55,361 | INFO | [DRY RUN] doc.pdf -> Documents/
+2025-11-03 01:18:55,361 | INFO | [DRY RUN] doc1.pdf -> Documents/
+2025-11-03 01:18:55,362 | INFO | [DRY RUN] Docker Desktop Installer.exe -> Installers/
+2025-11-03 01:18:55,362 | INFO | [DRY RUN] docker-svgrepo-com.svg -> Images/
+2025-11-03 01:18:55,362 | INFO | [DRY RUN] download.htm -> Others/
+2025-11-03 01:18:55,362 | INFO | [DRY RUN] download.jpeg -> Images/
+2025-11-03 01:18:55,362 | INFO | [DRY RUN] DS_Store -> Others/
+2025-11-03 01:18:55,362 | INFO | [DRY RUN] Ecom Full code.zip -> Archives/
+2025-11-03 01:18:55,362 | INFO | [DRY RUN] ecommerce-template-master.zip -> Archives/
+2025-11-03 01:18:55,362 | INFO | [DRY RUN] edust-dev.zip -> Archives/
+2025-11-03 01:18:55,363 | INFO | [DRY RUN] environmental-pollution-round-concept.zip -> Archives/
+2025-11-03 01:18:55,363 | INFO | [DRY RUN] f.pdf -> Documents/
+2025-11-03 01:18:55,363 | INFO | [DRY RUN] Farhan Resume(Main).pdf -> Documents/
+2025-11-03 01:18:55,364 | INFO | [DRY RUN] Farhan Resume.docx -> Documents/
+2025-11-03 01:18:55,364 | INFO | [DRY RUN] Farhan Resume.pdf -> Documents/
+2025-11-03 01:18:55,364 | INFO | [DRY RUN] Farhan Shahriar (1).pdf -> Documents/
+2025-11-03 01:18:55,364 | INFO | [DRY RUN] Farhan Shahriar Resume(Main).pdf -> Documents/
+2025-11-03 01:18:55,365 | INFO | [DRY RUN] Farhan Shahriar Resume(Main).pdf (1) (1).pdf -> Documents/
+2025-11-03 01:18:55,365 | INFO | [DRY RUN] Farhan Shahriar Resume(Main).pdf (1).pdf -> Documents/
+2025-11-03 01:18:55,365 | INFO | [DRY RUN] Farhan Shahriar Resume(Main).pdf.pdf -> Documents/
+2025-11-03 01:18:55,365 | INFO | [DRY RUN] Farhan Shahriar Resume.pdf -> Documents/
+2025-11-03 01:18:55,366 | INFO | [DRY RUN] Farhan Shahriar-mernstack 6-A19924 (1).pdf -> Documents/
+2025-11-03 01:18:55,366 | INFO | [DRY RUN] Farhan Shahriar-mernstack 6-A19924.pdf -> Documents/
+2025-11-03 01:18:55,366 | INFO | [DRY RUN] Farhan Shahriar-mernstack 6-C19933.pdf -> Documents/
+2025-11-03 01:18:55,366 | INFO | [DRY RUN] Farhan Shahriar.pdf -> Documents/
+2025-11-03 01:18:55,366 | INFO | [DRY RUN] Farhan Shahriar_CV_Ostad_CV_Builder_2025-01-21 (1).pdf -> Documents/
+2025-11-03 01:18:55,366 | INFO | [DRY RUN] Farhan Shahriar_CV_Ostad_CV_Builder_2025-01-21 (2).pdf -> Documents/
+2025-11-03 01:18:55,366 | INFO | [DRY RUN] Farhan-Shahriar-1.pdf -> Documents/
+2025-11-03 01:18:55,366 | INFO | [DRY RUN] Farhan.mp4 -> Videos/
+2025-11-03 01:18:55,366 | INFO | [DRY RUN] FarhanShahriarResume.pdf -> Documents/
+2025-11-03 01:18:55,367 | INFO | [DRY RUN] Farhan_-_reactive-accelerator.png -> Images/
+2025-11-03 01:18:55,367 | INFO | [DRY RUN] Farhan_Shahriar_Resume_.pdf -> Documents/
+2025-11-03 01:18:55,367 | INFO | [DRY RUN] Farhan_Shahriar_Resume_.pdf.pdf -> Documents/
+2025-11-03 01:18:55,367 | INFO | [DRY RUN] Farhan_Shahriar_Resume_2 (1).pdf -> Documents/
+2025-11-03 01:18:55,367 | INFO | [DRY RUN] Farhan_Shahriar_Resume_2.docx -> Documents/
+2025-11-03 01:18:55,367 | INFO | [DRY RUN] Farhan_Shahriar_Resume_2.pdf -> Documents/
+2025-11-03 01:18:55,368 | INFO | [DRY RUN] Farhan_Shahriar_Resume_2.txt -> Documents/
+2025-11-03 01:18:55,368 | INFO | [DRY RUN] FashionVista.zip -> Archives/
+2025-11-03 01:18:55,368 | INFO | [DRY RUN] favicon_io.zip -> Archives/
+2025-11-03 01:18:55,368 | INFO | [DRY RUN] FeastFlow.zip -> Archives/
+2025-11-03 01:18:55,368 | INFO | [DRY RUN] Final Quiz.zip -> Archives/
+2025-11-03 01:18:55,368 | INFO | [DRY RUN] Firefox Installer.exe -> Installers/
+2025-11-03 01:18:55,368 | INFO | [DRY RUN] flask-svgrepo-com.svg -> Images/
+2025-11-03 01:18:55,368 | INFO | [DRY RUN] form-master-main.zip -> Archives/
+2025-11-03 01:18:55,369 | INFO | [DRY RUN] Framew 2.png -> Images/
+2025-11-03 01:18:55,369 | INFO | [DRY RUN] freepik__adjust__17871.png -> Images/
+2025-11-03 01:18:55,369 | INFO | [DRY RUN] frontline_workforce_leads_batch_expanded (1).csv -> Others/
+2025-11-03 01:18:55,369 | INFO | [DRY RUN] frontline_workforce_leads_batch_expanded.csv -> Others/
+2025-11-03 01:18:55,369 | INFO | [DRY RUN] full-stack-blog-starter.zip -> Archives/
+2025-11-03 01:18:55,369 | INFO | [DRY RUN] Fullstack_Interview_Handbook.pdf -> Documents/
+2025-11-03 01:18:55,369 | INFO | [DRY RUN] Fustat.zip -> Archives/
+2025-11-03 01:18:55,369 | INFO | [DRY RUN] fustat_5.2.6.zip -> Archives/
+2025-11-03 01:18:55,370 | INFO | [DRY RUN] Gemini_Generated_Image_ar82dqar82dqar82.png -> Images/
+2025-11-03 01:18:55,370 | INFO | [DRY RUN] Gemini_Generated_Image_k6wqaxk6wqaxk6wq.png -> Images/
+2025-11-03 01:18:55,370 | INFO | [DRY RUN] Gemini_Generated_Image_phbmykphbmykphbm.png -> Images/
+2025-11-03 01:18:55,371 | INFO | [DRY RUN] gen-ai-roadmap-for-beginners.zip -> Archives/
+2025-11-03 01:18:55,371 | INFO | [DRY RUN] generate-a-web-development-agency-poster_0GdtTkESQsObjJ4dy0tq9w_3kqtg5CKT5uEnpChjV___g.jpeg -> Images/
+2025-11-03 01:18:55,371 | INFO | [DRY RUN] Generated Image September 17, 2025 - 11_57PM.png -> Images/
+2025-11-03 01:18:55,371 | INFO | [DRY RUN] Generated Image September 18, 2025 - 12_02AM.png -> Images/
+2025-11-03 01:18:55,371 | INFO | [DRY RUN] Generated Image September 18, 2025 - 12_19AM.png -> Images/
+2025-11-03 01:18:55,372 | INFO | [DRY RUN] gig.jpg -> Images/
+2025-11-03 01:18:55,372 | INFO | [DRY RUN] Git-2.43.0-64-bit.exe -> Installers/
+2025-11-03 01:18:55,372 | INFO | [DRY RUN] Git-2.44.0-64-bit.exe -> Installers/
+2025-11-03 01:18:55,372 | INFO | [DRY RUN] github-recovery-codes.txt -> Documents/
+2025-11-03 01:18:55,373 | INFO | [DRY RUN] GitHubDesktopSetup-x64 (1).exe -> Installers/
+2025-11-03 01:18:55,373 | INFO | [DRY RUN] GitHubDesktopSetup-x64.exe -> Installers/
+2025-11-03 01:18:55,373 | INFO | [DRY RUN] GLP_installer_900223150_market.exe -> Installers/
+2025-11-03 01:18:55,373 | INFO | [DRY RUN] google5972043b33c7864a.html -> Others/
+2025-11-03 01:18:55,373 | INFO | [DRY RUN] gradient-ai-template-design.zip -> Archives/
+2025-11-03 01:18:55,373 | INFO | [DRY RUN] gradient-artificial-intelligence-twitter-header.zip -> Archives/
+2025-11-03 01:18:55,374 | INFO | [DRY RUN] gradient-responsive-website-design.zip -> Archives/
+2025-11-03 01:18:55,374 | INFO | [DRY RUN] Group 2.png -> Images/
+2025-11-03 01:18:55,374 | INFO | [DRY RUN] gsap-projects-master.zip -> Archives/
+2025-11-03 01:18:55,374 | INFO | [DRY RUN] Hailuo_Video_You are a seasoned professiona_424789070492073991.mp4 -> Videos/
+2025-11-03 01:18:55,374 | INFO | [DRY RUN] handling_appointment_leads_with_twilio__cal_com_and_ai.json -> Others/
+2025-11-03 01:18:55,374 | INFO | [DRY RUN] heyzine.pdf -> Documents/
+2025-11-03 01:18:55,374 | INFO | [DRY RUN] High-Potential Niches for Custom Web Development (EU & USA).pdf -> Documents/
+2025-11-03 01:18:55,374 | INFO | [DRY RUN] horizone.png -> Images/
+2025-11-03 01:18:55,375 | INFO | [DRY RUN] https_www_facebook_com_profile_php_id_61572512364856.png -> Images/
+2025-11-03 01:18:55,375 | INFO | [DRY RUN] hunyuan-image-3.0_You_are_a_seasoned_g.png -> Images/
+2025-11-03 01:18:55,375 | INFO | [DRY RUN] hwmonitor_1.55.exe -> Installers/
+2025-11-03 01:18:55,375 | INFO | [DRY RUN] HyperHorizon-main.zip -> Archives/
+2025-11-03 01:18:55,375 | INFO | [DRY RUN] Id card.jpg -> Images/
+2025-11-03 01:18:55,375 | INFO | [DRY RUN] iloveimg-resized (1).zip -> Archives/
+2025-11-03 01:18:55,375 | INFO | [DRY RUN] iloveimg-resized.zip -> Archives/
+2025-11-03 01:18:55,376 | INFO | [DRY RUN] Image Market_ Student Council T Shirts, Senior Custom T-Shirts, High School Club TShirts.jpeg -> Images/
+2025-11-03 01:18:55,376 | INFO | [DRY RUN] image0.png -> Images/
+2025-11-03 01:18:55,376 | INFO | [DRY RUN] image1.png -> Images/
+2025-11-03 01:18:55,376 | INFO | [DRY RUN] images.jpeg -> Images/
+2025-11-03 01:18:55,376 | INFO | [DRY RUN] IMG-20250116-WA0001 (1).png -> Images/
+2025-11-03 01:18:55,376 | INFO | [DRY RUN] IMG-20250116-WA0001.jpg -> Images/
+2025-11-03 01:18:55,377 | INFO | [DRY RUN] IMG-20250116-WA0001.png -> Images/
+2025-11-03 01:18:55,377 | INFO | [DRY RUN] IMG_1145.HEIC -> Others/
+2025-11-03 01:18:55,377 | INFO | [DRY RUN] IMG_1146.HEIC -> Others/
+2025-11-03 01:18:55,378 | INFO | [DRY RUN] IMG_1181.HEIC -> Others/
+2025-11-03 01:18:55,378 | INFO | [DRY RUN] IMG_1233.HEIC -> Others/
+2025-11-03 01:18:55,378 | INFO | [DRY RUN] IMG_1235.HEIC -> Others/
+2025-11-03 01:18:55,379 | INFO | [DRY RUN] IMG_2292.jpg -> Images/
+2025-11-03 01:18:55,379 | INFO | [DRY RUN] IMG_3236.png -> Images/
+2025-11-03 01:18:55,379 | INFO | [DRY RUN] IMG_32361.jpg -> Images/
+2025-11-03 01:18:55,379 | INFO | [DRY RUN] IMG_32361.png -> Images/
+2025-11-03 01:18:55,379 | INFO | [DRY RUN] IMG_3612.jpeg -> Images/
+2025-11-03 01:18:55,380 | INFO | [DRY RUN] IMG_3613.jpg -> Images/
+2025-11-03 01:18:55,380 | INFO | [DRY RUN] IMG_6096.jpg -> Images/
+2025-11-03 01:18:55,380 | INFO | [DRY RUN] IMG_E3900.HEIC -> Others/
+2025-11-03 01:18:55,380 | INFO | [DRY RUN] instagram_brands.csv -> Others/
+2025-11-03 01:18:55,380 | INFO | [DRY RUN] instagram_brands_merged_updated.csv -> Others/
+2025-11-03 01:18:55,380 | INFO | [DRY RUN] Install VALORANT.exe -> Installers/
+2025-11-03 01:18:55,380 | INFO | [DRY RUN] Interactive Shoe Website UI Design_ Figma Web Design Tutorial [Step-by-Step] (Community).zip -> Archives/
+2025-11-03 01:18:55,381 | INFO | [DRY RUN] Introduction to Backend Development-Part 1 - visual selection (1).png -> Images/
+2025-11-03 01:18:55,381 | INFO | [DRY RUN] Introduction to Backend Development-Part 1 - visual selection (2).png -> Images/
+2025-11-03 01:18:55,381 | INFO | [DRY RUN] Introduction to Backend Development-Part 1 - visual selection.png -> Images/
+2025-11-03 01:18:55,381 | INFO | [DRY RUN] jakob-owens-WUmb_eBrpjs-unsplash.jpg -> Images/
+2025-11-03 01:18:55,381 | INFO | [DRY RUN] JavaScript Bangla PDF By SAFA Blog.pdf -> Documents/
+2025-11-03 01:18:55,381 | INFO | [DRY RUN] javascript-svgrepo-com.svg -> Images/
+2025-11-03 01:18:55,381 | INFO | [DRY RUN] JavaSetup8u431.exe -> Installers/
+2025-11-03 01:18:55,382 | INFO | [DRY RUN] JDownloaderSetup.exe -> Installers/
+2025-11-03 01:18:55,382 | INFO | [DRY RUN] Jobs_Applier_AI_Agent_AIHawk-main.zip -> Archives/
+2025-11-03 01:18:55,382 | INFO | [DRY RUN] Journal 2.doc -> Documents/
+2025-11-03 01:18:55,382 | INFO | [DRY RUN] Journal 3.doc -> Documents/
+2025-11-03 01:18:55,382 | INFO | [DRY RUN] Journal.doc -> Documents/
+2025-11-03 01:18:55,382 | INFO | [DRY RUN] jpegmini_optimized (1).zip -> Archives/
+2025-11-03 01:18:55,382 | INFO | [DRY RUN] jpegmini_optimized.zip -> Archives/
+2025-11-03 01:18:55,382 | INFO | [DRY RUN] jsm_gta_vi_landing-main.zip -> Archives/
+2025-11-03 01:18:55,383 | INFO | [DRY RUN] js_roadmap.pdf -> Documents/
+2025-11-03 01:18:55,383 | INFO | [DRY RUN] k72-main.zip -> Archives/
+2025-11-03 01:18:55,383 | INFO | [DRY RUN] kindpng_1194758.png -> Images/
+2025-11-03 01:18:55,383 | INFO | [DRY RUN] KINETICAI-main.zip -> Archives/
+2025-11-03 01:18:55,383 | INFO | [DRY RUN] lazarev-main.zip -> Archives/
+2025-11-03 01:18:55,383 | INFO | [DRY RUN] Lecture -2.pdf -> Documents/
+2025-11-03 01:18:55,383 | INFO | [DRY RUN] Lecture 1 (Introduction).pptx -> Documents/
+2025-11-03 01:18:55,383 | INFO | [DRY RUN] Lecture 2 (River Classification).pptx -> Documents/
+2025-11-03 01:18:55,384 | INFO | [DRY RUN] Lecture 3 (Drainage System).pptx -> Documents/
+2025-11-03 01:18:55,384 | INFO | [DRY RUN] Lecture 4 (Landforms Study).pptx -> Documents/
+2025-11-03 01:18:55,384 | INFO | [DRY RUN] Lecture 5 .pdf -> Documents/
+2025-11-03 01:18:55,384 | INFO | [DRY RUN] Lecture 6.pdf -> Documents/
+2025-11-03 01:18:55,384 | INFO | [DRY RUN] Lecture 7-Earthquake.pdf -> Documents/
+2025-11-03 01:18:55,385 | INFO | [DRY RUN] Lecture 7.pdf -> Documents/
+2025-11-03 01:18:55,385 | INFO | [DRY RUN] lecture 8.pdf -> Documents/
+2025-11-03 01:18:55,385 | INFO | [DRY RUN] Lecture 9.pdf -> Documents/
+2025-11-03 01:18:55,385 | INFO | [DRY RUN] Lecture-01(Introduction).pdf -> Documents/
+2025-11-03 01:18:55,386 | INFO | [DRY RUN] Lecture-02.pdf -> Documents/
+2025-11-03 01:18:55,386 | INFO | [DRY RUN] Lecture-04(Loop).zip -> Archives/
+2025-11-03 01:18:55,386 | INFO | [DRY RUN] Lecture-05(Data structure).zip -> Archives/
+2025-11-03 01:18:55,386 | INFO | [DRY RUN] Lecture-06 (Function).zip -> Archives/
+2025-11-03 01:18:55,386 | INFO | [DRY RUN] Lecture-07(Part-01,2).zip -> Archives/
+2025-11-03 01:18:55,386 | INFO | [DRY RUN] Lecture-08(Pandas).zip -> Archives/
+2025-11-03 01:18:55,386 | INFO | [DRY RUN] Lecture-3.pptx -> Documents/
+2025-11-03 01:18:55,387 | INFO | [DRY RUN] Lecture-4.pptx -> Documents/
+2025-11-03 01:18:55,387 | INFO | [DRY RUN] Lecture2(cdsapi).ipynb -> Others/
+2025-11-03 01:18:55,387 | INFO | [DRY RUN] Lecture_07_(Part_02)_Numpy.ipynb -> Others/
+2025-11-03 01:18:55,387 | INFO | [DRY RUN] logo (2).png -> Images/
+2025-11-03 01:18:55,387 | INFO | [DRY RUN] logo png 2(1).png -> Images/
+2025-11-03 01:18:55,387 | INFO | [DRY RUN] logo png 2.png -> Images/
+2025-11-03 01:18:55,387 | INFO | [DRY RUN] logo-black.png -> Images/
+2025-11-03 01:18:55,388 | INFO | [DRY RUN] logo.jpg -> Images/
+2025-11-03 01:18:55,388 | INFO | [DRY RUN] logo.png -> Images/
+2025-11-03 01:18:55,388 | INFO | [DRY RUN] LynxExplorer-arm64.app.tar.gz -> Archives/
+2025-11-03 01:18:55,388 | INFO | [DRY RUN] LynxExplorer-x86_64.app.tar.gz -> Archives/
+2025-11-03 01:18:55,388 | INFO | [DRY RUN] Mario Casciaro & Luciano Mammino - Node.js Design Patterns_ Design and implement production-grade Node.js applications using proven patterns and techniques - Packt Publishing (2020).pdf -> Documents/
+2025-11-03 01:18:55,388 | INFO | [DRY RUN] MBSetup.exe -> Installers/
+2025-11-03 01:18:55,388 | INFO | [DRY RUN] MD. FARHAN SHAHRIAR 2210010 - Assignment on River Engineering & Basin Management.docx -> Documents/
+2025-11-03 01:18:55,388 | INFO | [DRY RUN] merakist-CNbRsQj8mHQ-unsplash.jpg -> Images/
+2025-11-03 01:18:55,388 | INFO | [DRY RUN] merged (1).pdf -> Documents/
+2025-11-03 01:18:55,388 | INFO | [DRY RUN] merged-final.pdf -> Documents/
+2025-11-03 01:18:55,388 | INFO | [DRY RUN] merged.pdf -> Documents/
+2025-11-03 01:18:55,389 | INFO | [DRY RUN] Microsoft Sticky Notes Installer.exe -> Installers/
+2025-11-03 01:18:55,389 | INFO | [DRY RUN] mingw-get-setup.exe -> Installers/
+2025-11-03 01:18:55,389 | INFO | [DRY RUN] modern-landing-page-main.zip -> Archives/
+2025-11-03 01:18:55,389 | INFO | [DRY RUN] money_receipt.pdf -> Documents/
+2025-11-03 01:18:55,389 | INFO | [DRY RUN] mongodb-compass-1.44.3-win32-x64.exe -> Installers/
+2025-11-03 01:18:55,389 | INFO | [DRY RUN] mongodb-svgrepo-com.svg -> Images/
+2025-11-03 01:18:55,389 | INFO | [DRY RUN] mongodb-windows-x86_64-7.0.14-signed.msi -> Installers/
+2025-11-03 01:18:55,389 | INFO | [DRY RUN] MontserratExtrabold-qZ7Rx.otf -> Others/
+2025-11-03 01:18:55,390 | INFO | [DRY RUN] moody-food-restaurant-concept-mock-up.zip -> Archives/
+2025-11-03 01:18:55,390 | INFO | [DRY RUN] moonhouse-font.zip -> Archives/
+2025-11-03 01:18:55,390 | INFO | [DRY RUN] MovaviVideoConverterSetupF_W9yvqv1_.exe -> Installers/
+2025-11-03 01:18:55,390 | INFO | [DRY RUN] msys2-x86_64-20240113.exe -> Installers/
+2025-11-03 01:18:55,390 | INFO | [DRY RUN] Mynuddin-chisty-resume.pdf -> Documents/
+2025-11-03 01:18:55,390 | INFO | [DRY RUN] nano-banana-2025-09-17T18-30-19.png -> Images/
+2025-11-03 01:18:55,390 | INFO | [DRY RUN] NayyarShaikh-Blog2025.zip -> Archives/
+2025-11-03 01:18:55,391 | INFO | [DRY RUN] NayyarShaikh-eComm2022.zip -> Archives/
+2025-11-03 01:18:55,391 | INFO | [DRY RUN] New Portfolio 2.zip -> Archives/
+2025-11-03 01:18:55,391 | INFO | [DRY RUN] New Portfolio.zip -> Archives/
+2025-11-03 01:18:55,392 | INFO | [DRY RUN] new_nid_form_2.pdf -> Documents/
+2025-11-03 01:18:55,392 | INFO | [DRY RUN] next-blog-main.zip -> Archives/
+2025-11-03 01:18:55,392 | INFO | [DRY RUN] next-e-commerce-master.zip -> Archives/
+2025-11-03 01:18:55,392 | INFO | [DRY RUN] next-ecommerce-shopco-main.zip -> Archives/
+2025-11-03 01:18:55,392 | INFO | [DRY RUN] next.svg -> Images/
+2025-11-03 01:18:55,392 | INFO | [DRY RUN] nextjs-ecommerce-template-main.zip -> Archives/
+2025-11-03 01:18:55,393 | INFO | [DRY RUN] nimbus-keyboards-main.zip -> Archives/
+2025-11-03 01:18:55,393 | INFO | [DRY RUN] node-express-course-main.zip -> Archives/
+2025-11-03 01:18:55,393 | INFO | [DRY RUN] node-v20.11.1-x64.msi -> Installers/
+2025-11-03 01:18:55,393 | INFO | [DRY RUN] node-v22.17.1-x64.msi -> Installers/
+2025-11-03 01:18:55,393 | INFO | [DRY RUN] nodejs-svgrepo-com.svg -> Images/
+2025-11-03 01:18:55,393 | INFO | [DRY RUN] NotebookLM Mind Map (1).png -> Images/
+2025-11-03 01:18:55,394 | INFO | [DRY RUN] NotebookLM Mind Map (2).png -> Images/
+2025-11-03 01:18:55,394 | INFO | [DRY RUN] NotebookLM Mind Map (3).png -> Images/
+2025-11-03 01:18:55,394 | INFO | [DRY RUN] NotebookLM Mind Map (4).png -> Images/
+2025-11-03 01:18:55,394 | INFO | [DRY RUN] NotebookLM Mind Map.png -> Images/
+2025-11-03 01:18:55,394 | INFO | [DRY RUN] NoteGPT_MindMap_1751749718731.png -> Images/
+2025-11-03 01:18:55,394 | INFO | [DRY RUN] NoteGPT_MindMap_1754576470237.png -> Images/
+2025-11-03 01:18:55,394 | INFO | [DRY RUN] Notion Setup 3.1.0.exe -> Installers/
+2025-11-03 01:18:55,394 | INFO | [DRY RUN] Obsidian.1.5.12.exe -> Installers/
+2025-11-03 01:18:55,394 | INFO | [DRY RUN] Obyss-Agency-main.zip -> Archives/
+2025-11-03 01:18:55,395 | INFO | [DRY RUN] OOP.zip -> Archives/
+2025-11-03 01:18:55,395 | INFO | [DRY RUN] OperaGXSetup.exe -> Installers/
+2025-11-03 01:18:55,395 | INFO | [DRY RUN] OQ71WM0.jpg -> Images/
+2025-11-03 01:18:55,395 | INFO | [DRY RUN] page-animation-ft-juice-main.zip -> Archives/
+2025-11-03 01:18:55,395 | INFO | [DRY RUN] parallex-website-02-main.zip -> Archives/
+2025-11-03 01:18:55,395 | INFO | [DRY RUN] pexels-cesarperez209-733745 (1).jpg -> Images/
+2025-11-03 01:18:55,395 | INFO | [DRY RUN] pexels-cesarperez209-733745.jpg -> Images/
+2025-11-03 01:18:55,396 | INFO | [DRY RUN] pexels-cesarperez209-762911.jpg -> Images/
+2025-11-03 01:18:55,396 | INFO | [DRY RUN] Pic.xyz-20250804T170040Z-1-001.zip -> Archives/
+2025-11-03 01:18:55,396 | INFO | [DRY RUN] PiXO (1).png -> Images/
+2025-11-03 01:18:55,396 | INFO | [DRY RUN] PiXO.png -> Images/
+2025-11-03 01:18:55,396 | INFO | [DRY RUN] plan 2.pdf -> Documents/
+2025-11-03 01:18:55,397 | INFO | [DRY RUN] platformlift_for_disabled_people.dwg -> Others/
+2025-11-03 01:18:55,397 | INFO | [DRY RUN] pm-ec2-keypair.pem -> Others/
+2025-11-03 01:18:55,397 | INFO | [DRY RUN] png2pdf (1).pdf -> Documents/
+2025-11-03 01:18:55,397 | INFO | [DRY RUN] png2pdf (2).pdf -> Documents/
+2025-11-03 01:18:55,397 | INFO | [DRY RUN] png2pdf (3).pdf -> Documents/
+2025-11-03 01:18:55,398 | INFO | [DRY RUN] png2pdf (4).pdf -> Documents/
+2025-11-03 01:18:55,398 | INFO | [DRY RUN] png2pdf (5).pdf -> Documents/
+2025-11-03 01:18:55,398 | INFO | [DRY RUN] png2pdf.pdf -> Documents/
+2025-11-03 01:18:55,398 | INFO | [DRY RUN] PngItem_3722143.png -> Images/
+2025-11-03 01:18:55,399 | INFO | [DRY RUN] PngItem_985756.png -> Images/
+2025-11-03 01:18:55,399 | INFO | [DRY RUN] portfolio-main.zip -> Archives/
+2025-11-03 01:18:55,399 | INFO | [DRY RUN] portfolio-master (1).zip -> Archives/
+2025-11-03 01:18:55,400 | INFO | [DRY RUN] portfolio-master.zip -> Archives/
+2025-11-03 01:18:55,400 | INFO | [DRY RUN] portfolio.zip -> Archives/
+2025-11-03 01:18:55,400 | INFO | [DRY RUN] PortfolioBut3D-main.zip -> Archives/
+2025-11-03 01:18:55,400 | INFO | [DRY RUN] Poster-1.jpg -> Images/
+2025-11-03 01:18:55,400 | INFO | [DRY RUN] Poster-2.jpg -> Images/
+2025-11-03 01:18:55,401 | INFO | [DRY RUN] Poster-3.jpg -> Images/
+2025-11-03 01:18:55,401 | INFO | [DRY RUN] Poster-4.jpg -> Images/
+2025-11-03 01:18:55,401 | INFO | [DRY RUN] Poster.pdf -> Documents/
+2025-11-03 01:18:55,401 | INFO | [DRY RUN] postgresql-17.6-1-windows-x64.exe -> Installers/
+2025-11-03 01:18:55,402 | INFO | [DRY RUN] Postman-win64-Setup.exe -> Installers/
+2025-11-03 01:18:55,402 | INFO | [DRY RUN] preview_OptiFine_1.21_HD_U_J1_pre9.jar -> Others/
+2025-11-03 01:18:55,402 | INFO | [DRY RUN] prisma-svgrepo-com.svg -> Images/
+2025-11-03 01:18:55,402 | INFO | [DRY RUN] Professional Web Designer - Made with PosterMyWall.jpg -> Images/
+2025-11-03 01:18:55,402 | INFO | [DRY RUN] profile.jpeg -> Images/
+2025-11-03 01:18:55,402 | INFO | [DRY RUN] profile.jpg -> Images/
+2025-11-03 01:18:55,403 | INFO | [DRY RUN] Profile.pdf -> Documents/
+2025-11-03 01:18:55,403 | INFO | [DRY RUN] programming-exam-platform.zip -> Archives/
+2025-11-03 01:18:55,403 | INFO | [DRY RUN] project-bolt-sb1-6bjv7has.zip -> Archives/
+2025-11-03 01:18:55,403 | INFO | [DRY RUN] project-management-master.zip -> Archives/
+2025-11-03 01:18:55,403 | INFO | [DRY RUN] Projects-for-Instagram-main.zip -> Archives/
+2025-11-03 01:18:55,404 | INFO | [DRY RUN] Promo-1.mp4 -> Videos/
+2025-11-03 01:18:55,404 | INFO | [DRY RUN] Promo.mp4 -> Videos/
+2025-11-03 01:18:55,404 | INFO | [DRY RUN] Pure Advantage Theory (Dominick Salvatore).pdf -> Documents/
+2025-11-03 01:18:55,404 | INFO | [DRY RUN] python-3.12.6-amd64.exe -> Installers/
+2025-11-03 01:18:55,405 | INFO | [DRY RUN] python-svgrepo-com.svg -> Images/
+2025-11-03 01:18:55,405 | INFO | [DRY RUN] Python_ChapterWise_Notes.zip -> Archives/
+2025-11-03 01:18:55,406 | INFO | [DRY RUN] qbittorrent_4.6.7_x64_setup.exe -> Installers/
+2025-11-03 01:18:55,406 | INFO | [DRY RUN] qbittorrent_5.0.0_x64_setup.exe -> Installers/
+2025-11-03 01:18:55,406 | INFO | [DRY RUN] qualifying_appointment_requests_with_ai___n8n_forms.json -> Others/
+2025-11-03 01:18:55,406 | INFO | [DRY RUN] qualify_new_leads_in_google_sheets_via_openai_s_gpt_4.json -> Others/
+2025-11-03 01:18:55,407 | INFO | [DRY RUN] qualify_replies_from_pipedrive_persons_with_ai.json -> Others/
+2025-11-03 01:18:55,407 | INFO | [DRY RUN] quick_chat-main.zip -> Archives/
+2025-11-03 01:18:55,407 | INFO | [DRY RUN] Quiz(2210010).ipynb -> Others/
+2025-11-03 01:18:55,407 | INFO | [DRY RUN] react-bangla-tutorial-01.pdf -> Documents/
+2025-11-03 01:18:55,408 | INFO | [DRY RUN] react-javascript-js-framework-facebook-svgrepo-com.svg -> Images/
+2025-11-03 01:18:55,408 | INFO | [DRY RUN] react-parallax-main.zip -> Archives/
+2025-11-03 01:18:55,408 | INFO | [DRY RUN] react-rest-countries-main.zip -> Archives/
+2025-11-03 01:18:55,408 | INFO | [DRY RUN] React-Theme-Switcher-Note.md -> Others/
+2025-11-03 01:18:55,408 | INFO | [DRY RUN] README.md -> Others/
+2025-11-03 01:18:55,409 | INFO | [DRY RUN] receipt_46.pdf -> Documents/
+2025-11-03 01:18:55,409 | INFO | [DRY RUN] Remote Job Prep - 2025.pdf -> Documents/
+2025-11-03 01:18:55,409 | INFO | [DRY RUN] Resume (2).pdf -> Documents/
+2025-11-03 01:18:55,409 | INFO | [DRY RUN] Resume for Raintor LTD.pdf -> Documents/
+2025-11-03 01:18:55,409 | INFO | [DRY RUN] resume.pdf -> Documents/
+2025-11-03 01:18:55,410 | INFO | [DRY RUN] revosetup.exe -> Installers/
+2025-11-03 01:18:55,410 | INFO | [DRY RUN] RK_Keyboard_Software_Setup_V4.5 20240718.exe -> Installers/
+2025-11-03 01:18:55,410 | INFO | [DRY RUN] rnext-assignment-1-batch-3.zip -> Archives/
+2025-11-03 01:18:55,410 | INFO | [DRY RUN] rnext-assignment-2-batch-3.zip -> Archives/
+2025-11-03 01:18:55,410 | INFO | [DRY RUN] Rolex.png.png -> Images/
+2025-11-03 01:18:55,410 | INFO | [DRY RUN] rpc_15_input_file.zip -> Archives/
+2025-11-03 01:18:55,411 | INFO | [DRY RUN] Sales Project Kickoff (1).png -> Images/
+2025-11-03 01:18:55,411 | INFO | [DRY RUN] Sales Project Kickoff.png -> Images/
+2025-11-03 01:18:55,411 | INFO | [DRY RUN] Screenshot 2025-02-04 200247.png -> Images/
+2025-11-03 01:18:55,411 | INFO | [DRY RUN] Screenshot 2025-02-04 200301.png -> Images/
+2025-11-03 01:18:55,411 | INFO | [DRY RUN] Screenshot 2025-02-04 200639.png -> Images/
+2025-11-03 01:18:55,412 | INFO | [DRY RUN] Screenshot 2025-02-13 233236.png -> Images/
+2025-11-03 01:18:55,412 | INFO | [DRY RUN] Screenshot 2025-02-13 233242.png -> Images/
+2025-11-03 01:18:55,412 | INFO | [DRY RUN] Screenshot 2025-02-13 233248.png -> Images/
+2025-11-03 01:18:55,413 | INFO | [DRY RUN] Screenshot 2025-02-13 233254.png -> Images/
+2025-11-03 01:18:55,413 | INFO | [DRY RUN] Screenshot 2025-02-13 233259.png -> Images/
+2025-11-03 01:18:55,413 | INFO | [DRY RUN] Screenshot 2025-02-13 235649 (1).png -> Images/
+2025-11-03 01:18:55,413 | INFO | [DRY RUN] Screenshot 2025-02-13 235649.png -> Images/
+2025-11-03 01:18:55,413 | INFO | [DRY RUN] Screenshot 2025-07-02 223657.pdf -> Documents/
+2025-11-03 01:18:55,413 | INFO | [DRY RUN] Screenshot 2025-10-09 211252.pdf -> Documents/
+2025-11-03 01:18:55,414 | INFO | [DRY RUN] Select property type- Landlord(owner of the property) (1).jpg -> Images/
+2025-11-03 01:18:55,414 | INFO | [DRY RUN] Select property type- Landlord(owner of the property).jpg -> Images/
+2025-11-03 01:18:55,414 | INFO | [DRY RUN] set-space-games.zip -> Archives/
+2025-11-03 01:18:55,414 | INFO | [DRY RUN] setup_avrokeyboard_5.6.0.exe -> Installers/
+2025-11-03 01:18:55,414 | INFO | [DRY RUN] ShohidTahmidTamin.zip -> Archives/
+2025-11-03 01:18:55,415 | INFO | [DRY RUN] signature.png -> Images/
+2025-11-03 01:18:55,415 | INFO | [DRY RUN] Slide-2 (DC generator).pptx -> Documents/
+2025-11-03 01:18:55,415 | INFO | [DRY RUN] sofa-5-svgrepo-com.svg -> Images/
+2025-11-03 01:18:55,415 | INFO | [DRY RUN] solar-system-science-education.zip -> Archives/
+2025-11-03 01:18:55,415 | INFO | [DRY RUN] space-portfolio-main.zip -> Archives/
+2025-11-03 01:18:55,415 | INFO | [DRY RUN] stairs_dynamic_blocks.dwg -> Others/
+2025-11-03 01:18:55,415 | INFO | [DRY RUN] Startup Launch Checklist_ Solo Tech Agency (Web, AI, UI_UX).pdf -> Documents/
+2025-11-03 01:18:55,416 | INFO | [DRY RUN] Statamic_Laravel Developer assessment (1) (1).pdf -> Documents/
+2025-11-03 01:18:55,416 | INFO | [DRY RUN] STATISTICS_A_comprehensive_text_book_Abhijit_Kumar_Misra,_Barbara.pdf -> Documents/
+2025-11-03 01:18:55,416 | INFO | [DRY RUN] SteamSetup (1).exe -> Installers/
+2025-11-03 01:18:55,416 | INFO | [DRY RUN] SteamSetup (2).exe -> Installers/
+2025-11-03 01:18:55,416 | INFO | [DRY RUN] SteamSetup.exe -> Installers/
+2025-11-03 01:18:55,416 | INFO | [DRY RUN] stream-336303_lsd.m3u8 -> Others/
+2025-11-03 01:18:55,416 | INFO | [DRY RUN] stream-499765_lhd.m3u8 -> Others/
+2025-11-03 01:18:55,416 | INFO | [DRY RUN] suburbia-main.zip -> Archives/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] Surveying Instrument.docx -> Documents/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] sus-tire.vercel.app_ (1).png -> Images/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] sus-tire.vercel.app_.png -> Images/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] SusTire.png -> Images/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] System Design.pdf -> Documents/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] tailwind-landing-page-master.zip -> Archives/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] text-1757597137273.png -> Images/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] text-1757597301318.png -> Images/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] The-Art-of-Thinking-Clearly.pdf -> Documents/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] The_Duolingo_Handbook.pdf -> Documents/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] TO-DO-1.pdf -> Documents/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] toa-heftiba-6bKpHAun4d8-unsplash.jpg -> Images/
+2025-11-03 01:18:55,417 | INFO | [DRY RUN] u854129678_walton.sql -> Others/
+2025-11-03 01:18:55,418 | INFO | [DRY RUN] UbisoftConnectInstaller.exe -> Installers/
+2025-11-03 01:18:55,418 | INFO | [DRY RUN] undefined_You_are_a_seasoned_d.png -> Images/
+2025-11-03 01:18:55,418 | INFO | [DRY RUN] uninstall.exe -> Installers/
+2025-11-03 01:18:55,418 | INFO | [DRY RUN] unnamed.jpg -> Images/
+2025-11-03 01:18:55,419 | INFO | [DRY RUN] Untitled document.docx -> Documents/
+2025-11-03 01:18:55,419 | INFO | [DRY RUN] Untitled Project (1).zip -> Archives/
+2025-11-03 01:18:55,419 | INFO | [DRY RUN] Untitled Project - Artboard 1.png -> Images/
+2025-11-03 01:18:55,419 | INFO | [DRY RUN] Untitled Project - Frost Tactical Sphere - Gaming.png -> Images/
+2025-11-03 01:18:55,420 | INFO | [DRY RUN] Untitled Project - Stars - Minimal Digital Media.png -> Images/
+2025-11-03 01:18:55,420 | INFO | [DRY RUN] Untitled Project.png -> Images/
+2025-11-03 01:18:55,420 | INFO | [DRY RUN] Untitled Project.zip -> Archives/
+2025-11-03 01:18:55,420 | INFO | [DRY RUN] Untitled Project_transparent_Craiyon.png -> Images/
+2025-11-03 01:18:55,421 | INFO | [DRY RUN] Untitled spreadsheet - Sheet1 (1).pdf -> Documents/
+2025-11-03 01:18:55,421 | INFO | [DRY RUN] Untitled spreadsheet - Sheet1.pdf -> Documents/
+2025-11-03 01:18:55,421 | INFO | [DRY RUN] Untitled video - Made with Clipchamp.mp4 -> Videos/
+2025-11-03 01:18:55,421 | INFO | [DRY RUN] Untitled-1 (1) (1).png -> Images/
+2025-11-03 01:18:55,421 | INFO | [DRY RUN] Untitled-1 (1).png -> Images/
+2025-11-03 01:18:55,422 | INFO | [DRY RUN] Untitled-1.png -> Images/
+2025-11-03 01:18:55,422 | INFO | [DRY RUN] Untitled-111 (1).png -> Images/
+2025-11-03 01:18:55,422 | INFO | [DRY RUN] Untitled-111.png -> Images/
+2025-11-03 01:18:55,422 | INFO | [DRY RUN] Untitled-2025-08-09-1913.excalidraw -> Others/
+2025-11-03 01:18:55,422 | INFO | [DRY RUN] Untitled-s1.jpg -> Images/
+2025-11-03 01:18:55,422 | INFO | [DRY RUN] Untitled-s11.jpg -> Images/
+2025-11-03 01:18:55,422 | INFO | [DRY RUN] Untitled.fig -> Others/
+2025-11-03 01:18:55,422 | INFO | [DRY RUN] Untitled.md -> Others/
+2025-11-03 01:18:55,422 | INFO | [DRY RUN] Untitled_Project_-_Stars_-_Minimal_Digital_Media-removebg.png -> Images/
+2025-11-03 01:18:55,423 | INFO | [DRY RUN] use_ai_to_organize_your_todoist_inbox.json -> Others/
+2025-11-03 01:18:55,423 | INFO | [DRY RUN] vercel.svg.png -> Images/
+2025-11-03 01:18:55,423 | INFO | [DRY RUN] Verify Files.bat -> Others/
+2025-11-03 01:18:55,423 | INFO | [DRY RUN] vibecode-playground-master.zip -> Archives/
+2025-11-03 01:18:55,423 | INFO | [DRY RUN] vMtNVt0P(1).txt -> Documents/
+2025-11-03 01:18:55,423 | INFO | [DRY RUN] vMtNVt0P.txt -> Documents/
+2025-11-03 01:18:55,423 | INFO | [DRY RUN] VSCodeUserSetup-x64-1.84.2.exe -> Installers/
+2025-11-03 01:18:55,423 | INFO | [DRY RUN] VTRL.exe -> Installers/
+2025-11-03 01:18:55,423 | INFO | [DRY RUN] VTRL_2.2.8_x64-setup.exe -> Installers/
+2025-11-03 01:18:55,424 | INFO | [DRY RUN] wallpaperflare.com_wallpaper(2).jpg -> Images/
+2025-11-03 01:18:55,424 | INFO | [DRY RUN] wallpaperflare.com_wallpaper(6).jpg -> Images/
+2025-11-03 01:18:55,424 | INFO | [DRY RUN] wallpaperflare.com_wallpaper(8).jpg -> Images/
+2025-11-03 01:18:55,424 | INFO | [DRY RUN] wallpaperflare.com_wallpaper.jpg -> Images/
+2025-11-03 01:18:55,424 | INFO | [DRY RUN] Web Dev Agency Launch Playbook (step‑by‑step).pdf -> Documents/
+2025-11-03 01:18:55,424 | INFO | [DRY RUN] Web Dev Syllabus (1).pdf -> Documents/
+2025-11-03 01:18:55,424 | INFO | [DRY RUN] Website Project Plan - CorbleyCo Robot Sales.docx -> Documents/
+2025-11-03 01:18:55,424 | INFO | [DRY RUN] Welcome to NEXITE.pdf -> Documents/
+2025-11-03 01:18:55,424 | INFO | [DRY RUN] WhatsApp Image 2024-10-15 at 23.36.59_218315eb.jpg -> Images/
+2025-11-03 01:18:55,424 | INFO | [DRY RUN] WhatsApp Image 2024-10-15 at 23.37.00_64e7f586.jpg -> Images/
+2025-11-03 01:18:55,424 | INFO | [DRY RUN] WhatsApp Image 2025-01-13 at 16.30.49_6ad556d7.jpg -> Images/
+2025-11-03 01:18:55,425 | INFO | [DRY RUN] WhatsApp Image 2025-07-06 at 19.07.17_ae7d8e99.jpg -> Images/
+2025-11-03 01:18:55,425 | INFO | [DRY RUN] WhatsApp Image 2025-07-06 at 19.07.18_0100a147.jpg -> Images/
+2025-11-03 01:18:55,425 | INFO | [DRY RUN] WhatsApp Image 2025-07-21 at 10.30.32_8cadf663.jpg -> Images/
+2025-11-03 01:18:55,425 | INFO | [DRY RUN] WhatsApp Image 2025-10-16 at 20.05.47_82a816ad.jpg -> Images/
+2025-11-03 01:18:55,425 | INFO | [DRY RUN] wiztree_4_25_setup.exe -> Installers/
+2025-11-03 01:18:55,425 | INFO | [DRY RUN] woostify.2.3.7 (1).zip -> Archives/
+2025-11-03 01:18:55,426 | INFO | [DRY RUN] Wordpress.png -> Images/
+2025-11-03 01:18:55,426 | INFO | [DRY RUN] wp7753575-simple-computer-wallpapers.jpg -> Images/
+2025-11-03 01:18:55,426 | INFO | [DRY RUN] WRE Class Routine 22 (L2T2).pdf -> Documents/
+2025-11-03 01:18:55,426 | INFO | [DRY RUN] WRE-104(G-2).csv -> Others/
+2025-11-03 01:18:55,427 | INFO | [DRY RUN] WRE-104(G-2).kml -> Others/
+2025-11-03 01:18:55,427 | INFO | [DRY RUN] wre-new-login.zip -> Archives/
+2025-11-03 01:18:55,427 | INFO | [DRY RUN] wrenotes-master.zip -> Archives/
+2025-11-03 01:18:55,427 | INFO | [DRY RUN] xampp-windows-x64-8.0.30-0-VS16-installer.exe -> Installers/
+2025-11-03 01:18:55,427 | INFO | [DRY RUN] Yellow and Red Bright and Playful YouTube Thumbnail (1).png -> Images/
+2025-11-03 01:18:55,428 | INFO | [DRY RUN] Yellow and Red Bright and Playful YouTube Thumbnail.png -> Images/
+2025-11-03 01:18:55,428 | INFO | [DRY RUN] ZoomInstallerFull.exe -> Installers/
+2025-11-03 01:18:55,428 | INFO | [DRY RUN] [TorrentBD]100xDevs - Live 0-100 Complete - Basics to Advanced MERN, Devops, System design cohort 2.0 [Last updated 01-07-2024].torrent -> Others/
+2025-11-03 01:18:55,428 | INFO | [DRY RUN] [TorrentBD]50 Days React Bootcamp Build 50 Real World React Projects _ Udemy.torrent -> Others/
+2025-11-03 01:18:55,428 | INFO | [DRY RUN] [TorrentBD]Adolescence S01 1080p NF WEB-DL DDP 5 1 Atmos DV HDR H 265-TeamSyndicate.torrent -> Others/
+2025-11-03 01:18:55,428 | INFO | [DRY RUN] [TorrentBD]After Effects 2024 _ Pre-Activated _ v24.4.1 Multilingual x64 _ May 2024 - Diakov.torrent -> Others/
+2025-11-03 01:18:55,428 | INFO | [DRY RUN] [TorrentBD]Algocamp - Backend in Spring Boot by Sanket Singh [Last Updated 032025] (1).torrent -> Others/
+2025-11-03 01:18:55,429 | INFO | [DRY RUN] [TorrentBD]Algocamp - Backend in Spring Boot by Sanket Singh [Last Updated 032025].torrent -> Others/
+2025-11-03 01:18:55,429 | INFO | [DRY RUN] [TorrentBD]Apna College - Delta Batch 1.0 - Full Stack Web Development Course [Complete Course].torrent -> Others/
+2025-11-03 01:18:55,429 | INFO | [DRY RUN] [TorrentBD]Data Structure and Algorithms Analysis - Job Interview [Update April 2020] _ Udemy.torrent -> Others/
+2025-11-03 01:18:55,429 | INFO | [DRY RUN] [TorrentBD]DevOps Beginners to Advanced _ DevOps with Projects - Udemy [Update 22025].torrent -> Others/
+2025-11-03 01:18:55,429 | INFO | [DRY RUN] [TorrentBD]Dhruv Rathee Academy - How to do a Million Things All At Once.torrent -> Others/
+2025-11-03 01:18:55,429 | INFO | [DRY RUN] [TorrentBD]Docker and Kubernetes The Complete Guide _ Udemy.torrent -> Others/
+2025-11-03 01:18:55,430 | INFO | [DRY RUN] [TorrentBD]Far Cry 5 (v1.4.0.0 - MULTi15) [FitGirl Repack].torrent -> Others/
+2025-11-03 01:18:55,430 | INFO | [DRY RUN] [TorrentBD]Fiverr Freelancing 2020 Sell Fiverr Gigs Like The Top 1_ -Udemy.torrent -> Others/
+2025-11-03 01:18:55,430 | INFO | [DRY RUN] [TorrentBD]Grand Theft Auto V GTA 5 v1.0.28021.64 Online - [FitGirl Repack].torrent -> Others/
+2025-11-03 01:18:55,430 | INFO | [DRY RUN] [TorrentBD]Harkirat - Open Source Cohort - Essential Training [Last updated 62023].torrent -> Others/
+2025-11-03 01:18:55,430 | INFO | [DRY RUN] [TorrentBD]JS Mastery - Web Animations Full Course  Build a GTA VI Website & Master GSAP (Last updated 62025).torrent -> Others/
+2025-11-03 01:18:55,430 | INFO | [DRY RUN] [TorrentBD]JsMastery Pro - Ultimate Next js 13 Course [Last updated 102023].torrent -> Others/
+2025-11-03 01:18:55,430 | INFO | [DRY RUN] [TorrentBD]Khadaan 2024 Bengali 1080p CAMRip AAC x264 - Mp4Moviez.torrent -> Others/
+2025-11-03 01:18:55,431 | INFO | [DRY RUN] [TorrentBD]Machine Learning A-Z™ AI, Python & R + ChatGPT Bonus [2023] [BestSeller] - Udemy [Updated 052023].torrent -> Others/
+2025-11-03 01:18:55,431 | INFO | [DRY RUN] [TorrentBD]Master WordPress by building 5 Real-World WordPress Projects - Udemy [82022].torrent -> Others/
+2025-11-03 01:18:55,431 | INFO | [DRY RUN] [TorrentBD]Mathworks Matlab R2016b MacOSX.torrent -> Others/
+2025-11-03 01:18:55,431 | INFO | [DRY RUN] [TorrentBD]NamasteDev – Namaste Frontend System Design [Last Update 2024-8].torrent -> Others/
+2025-11-03 01:18:55,431 | INFO | [DRY RUN] [TorrentBD]Next js Projects - 3 NextJS projects (Instagram, Google, ) _ Udemy [Updated 62022].torrent -> Others/
+2025-11-03 01:18:55,431 | INFO | [DRY RUN] [TorrentBD]PEAK [v1.6.b + Online Multiplayer] - [SuperDex Repack].torrent -> Others/
+2025-11-03 01:18:55,431 | INFO | [DRY RUN] [TorrentBD]React 18 Tutorial and Projects Course (2023) - Udemy [Updated 092023].torrent -> Others/
+2025-11-03 01:18:55,431 | INFO | [DRY RUN] [TorrentBD]Red Dead Redemption v1.0.40.57107 + Bonus Content [FitGirl Repack].torrent -> Others/
+2025-11-03 01:18:55,431 | INFO | [DRY RUN] [TorrentBD]Sanket Singh - Learn Backend from Scratch _ September Batch(1).torrent -> Others/
+2025-11-03 01:18:55,432 | INFO | [DRY RUN] [TorrentBD]Sanket Singh - Learn Backend from Scratch _ September Batch(2).torrent -> Others/
+2025-11-03 01:18:55,432 | INFO | [DRY RUN] [TorrentBD]Sanket Singh - Learn Backend from Scratch _ September Batch.torrent -> Others/
+2025-11-03 01:18:55,432 | INFO | [DRY RUN] [TorrentBD]SkillShare - UpWork Freelancing Your Guide to Finding Remote Freelance Jobs.torrent -> Others/
+2025-11-03 01:18:55,432 | INFO | [DRY RUN] [TorrentBD]SolidWorks 2023 SP2.1 Premium-SSQ.torrent -> Others/
+2025-11-03 01:18:55,432 | INFO | [DRY RUN] [TorrentBD]Solo Leveling S02E10 We Need a Hero 1080p CR WEB-DL AAC2 0 H 264-Draken02.torrent -> Others/
+2025-11-03 01:18:55,433 | INFO | [DRY RUN] [TorrentBD]Solo Leveling S02E12 Are You the King of Humans 1080p NF WEB-DL AAC 2 0 H 264-TeamSyndicate.torrent -> Others/
+2025-11-03 01:18:55,433 | INFO | [DRY RUN] [TorrentBD]UDCourse - Alex Berman - Agency Growth Masterclass.torrent -> Others/
+2025-11-03 01:18:55,433 | INFO | [DRY RUN] [TorrentBD]Udemy - 100 Days of Code The Complete Python Pro Bootcamp [Bestseller] [122024].torrent -> Others/
+2025-11-03 01:18:55,433 | INFO | [DRY RUN] [TorrentBD]Udemy - 30 Great Python Projects To Help You Master It In 2024 [112023].torrent -> Others/
+2025-11-03 01:18:55,433 | INFO | [DRY RUN] [TorrentBD]Udemy - 40 Real World Data Science, Machine Learning Projects 2023 [Last updated 112023].torrent -> Others/
+2025-11-03 01:18:55,434 | INFO | [DRY RUN] [TorrentBD]Udemy - Artificial Intelligence AI Marketing to Grow your Business (Bestseller) (Last updated 012025).torrent -> Others/
+2025-11-03 01:18:55,434 | INFO | [DRY RUN] [TorrentBD]Udemy - Build And Sell Advanced AI Agents [Last Updated2024-10].torrent -> Others/
+2025-11-03 01:18:55,434 | INFO | [DRY RUN] [TorrentBD]Udemy - Certified AI Engineering Masterclass From Zero to AI Hero [Update 2024-12].torrent -> Others/
+2025-11-03 01:18:55,434 | INFO | [DRY RUN] [TorrentBD]Udemy - ChatGPT for Product Management and Innovation.torrent -> Others/
+2025-11-03 01:18:55,435 | INFO | [DRY RUN] [TorrentBD]Udemy - Email Marketing For Everybody Make Money Writing Emails [Last Updated 2024-2].torrent -> Others/
+2025-11-03 01:18:55,435 | INFO | [DRY RUN] [TorrentBD]Udemy - Full stack web development and AI with Python (Django) [Last updated 72020].torrent -> Others/
+2025-11-03 01:18:55,435 | INFO | [DRY RUN] [TorrentBD]Udemy - JavaScript Interview Masterclass Top 300 Questions (2024) [Last updated 12024](1).torrent -> Others/
+2025-11-03 01:18:55,435 | INFO | [DRY RUN] [TorrentBD]Udemy - JavaScript Interview Masterclass Top 300 Questions (2024) [Last updated 12024](2).torrent -> Others/
+2025-11-03 01:18:55,435 | INFO | [DRY RUN] [TorrentBD]Udemy - JavaScript Interview Masterclass Top 300 Questions (2024) [Last updated 12024].torrent -> Others/
+2025-11-03 01:18:55,435 | INFO | [DRY RUN] [TorrentBD]Udemy - JavaScript Interview Questions - Coding Interview 2022.torrent -> Others/
+2025-11-03 01:18:55,435 | INFO | [DRY RUN] [TorrentBD]Udemy - Learn Figma UIUX Design Masterclass From Beginner to Pro [Last Update 32024].KS90k9QR.torrent.part -> Others/
+2025-11-03 01:18:55,435 | INFO | [DRY RUN] [TorrentBD]Udemy - Learn Figma UIUX Design Masterclass From Beginner to Pro [Last Update 32024].torrent -> Others/
+2025-11-03 01:18:55,436 | INFO | [DRY RUN] [TorrentBD]Udemy - Mastering Microservices Architecture and Design Patterns 2025-6.torrent -> Others/
+2025-11-03 01:18:55,436 | INFO | [DRY RUN] [TorrentBD]Udemy - Mastering Nodejs With Interview Questions 2024.torrent -> Others/
+2025-11-03 01:18:55,436 | INFO | [DRY RUN] [TorrentBD]Udemy - MERN stack projects Based Course Completely Redone [Last Updated 2024-8].torrent -> Others/
+2025-11-03 01:18:55,436 | INFO | [DRY RUN] [TorrentBD]Udemy - n8n - AI Agents, AI Automations & AI Voice Agents (No-code!) [2025-8] [Bestseller].torrent -> Others/
+2025-11-03 01:18:55,436 | INFO | [DRY RUN] [TorrentBD]Udemy - Next js Projects - 4 NextJS 13 projects (Instagram, Google ) [ Last updated 22023 ].torrent -> Others/
+2025-11-03 01:18:55,436 | INFO | [DRY RUN] [TorrentBD]Udemy - NodeJS Tutorial and Projects Course [Highest Rated].torrent -> Others/
+2025-11-03 01:18:55,436 | INFO | [DRY RUN] [TorrentBD]Udemy - Product Management Crash Course; IT Product Management (Last updated 2024-07-07).torrent -> Others/
+2025-11-03 01:18:55,436 | INFO | [DRY RUN] [TorrentBD]UDEMY - Professional Certificate Product Management and Development [Last updated 92024].torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy - Python and Django Full Stack Web Developer Bootcamp for 2023(1).torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy - Python and Django Full Stack Web Developer Bootcamp for 2023.torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy - Python Mega Course Build 20 Real-World Apps and AI Agents [Last updated 82025].torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy - Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps ( Bestseller ) ( Last updated 122024 ).torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy - RAG, AI Agents and Generative AI with Python and OpenAI 2025 (Last updated 2024-11-10).torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy - React Interview Masterclass Top 200 Questions (with PDF) [Published 12024].torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]UDEMY - React JS Masterclass Zero To Job Ready With 10 Projects (Last updated 12023) [Bestseller].torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy - The Complete Cold Email Course 2025 - B2B Lead Generation(Last updated 62025).torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy Django Masterclass Build 9 Real World Django Projects Last updated 12023.torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy – Advanced React Design System, Design Patterns, Performance [ 2025-1 ].torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy – The AI Engineer Course 2025 Complete AI Engineer Bootcamp [Last Update 12025].torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy- Devops Tools and AWS for Java Microservice Developers [Last updated 62023].torrent -> Others/
+2025-11-03 01:18:55,437 | INFO | [DRY RUN] [TorrentBD]Udemy-Ethical Hacking and Cybersecurity Analyst Bootcamp-[New][Last updated 42025].torrent -> Others/
+2025-11-03 01:18:55,438 | INFO | [DRY RUN] [TorrentBD]Udemy-Mastering React.js by answering top interview questions [Highest rated]- [Last updated 092023].torrent -> Others/
+2025-11-03 01:18:55,438 | INFO | [DRY RUN] [TorrentBD]Udemy-NextJS & OpenAI - 2024 Edition- [Last updated 012024].torrent -> Others/
+2025-11-03 01:18:55,438 | INFO | [DRY RUN] [TorrentBD]Web Automation and Scraping using Python - Udemy.torrent -> Others/
+2025-11-03 01:18:55,438 | INFO | [DRY RUN] [TorrentBD]WordPress Elementor 2021 - Beginner to Pro MasterClass [Udemy](1).torrent -> Others/
+2025-11-03 01:18:55,438 | INFO | [DRY RUN] [TorrentBD]WordPress Elementor 2021 - Beginner to Pro MasterClass [Udemy].torrent -> Others/
+2025-11-03 01:18:55,438 | INFO | [DRY RUN] [TorrentBD]Wordpress for Beginners - Master Wordpress Quickly - Udemy (Update March 2021).torrent -> Others/
+2025-11-03 01:18:55,438 | INFO | [DRY RUN] [TorrentBD]ZerotoMastery – AI Engineering Bootcamp Build, Train and Deploy Models with AWS SageMaker.torrent -> Others/
+2025-11-03 01:18:55,438 | INFO | [DRY RUN] [TorrentBD][Udemy] GitLab CI Pipelines, CICD and DevOps for Beginners ( Last updated 62023 ).torrent -> Others/
+2025-11-03 01:18:55,438 | INFO | [DRY RUN] ⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (1).png -> Images/
+2025-11-03 01:18:55,438 | INFO | [DRY RUN] ⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (2).png -> Images/
+2025-11-03 01:18:55,438 | INFO | [DRY RUN] ⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (3).png -> Images/
+2025-11-03 01:18:55,439 | INFO | [DRY RUN] ⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (4).png -> Images/
+2025-11-03 01:18:55,439 | INFO | [DRY RUN] ⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection.png -> Images/
+2025-11-03 01:18:55,439 | INFO | [DRY RUN] 🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection (1).png -> Images/
+2025-11-03 01:18:55,439 | INFO | [DRY RUN] 🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection (2).png -> Images/
+2025-11-03 01:18:55,440 | INFO | [DRY RUN] 🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection (3).png -> Images/
+2025-11-03 01:18:55,440 | INFO | [DRY RUN] 🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection.png -> Images/
+2025-11-03 01:18:55,440 | INFO | [DRY RUN] 🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” (1).pdf -> Documents/
+2025-11-03 01:18:55,440 | INFO | [DRY RUN] 🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” - visual selection (1).png -> Images/
+2025-11-03 01:18:55,440 | INFO | [DRY RUN] 🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” - visual selection (2).png -> Images/
+2025-11-03 01:18:55,441 | INFO | [DRY RUN] 🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” - visual selection.png -> Images/
+2025-11-03 01:18:55,441 | INFO | [DRY RUN] 🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run”.pdf -> Documents/
+2025-11-03 01:18:55,441 | INFO | Processed 667 files.
+2025-11-03 01:19:29,976 | INFO | Found 667 files to inspect.
+2025-11-03 01:19:29,981 | INFO | Moved: 00001.png -> E:\Downloadsx\Images\00001.png
+2025-11-03 01:19:29,982 | INFO | Moved: 0966-email-summary-agent.json -> E:\Downloadsx\Others\0966-email-summary-agent.json
+2025-11-03 01:19:29,983 | INFO | Moved: 1 (11 files merged) (1).pdf -> E:\Downloadsx\Documents\1 (11 files merged) (1).pdf
+2025-11-03 01:19:29,984 | INFO | Moved: 1 (11 files merged).pdf -> E:\Downloadsx\Documents\1 (11 files merged).pdf
+2025-11-03 01:19:29,985 | INFO | Moved: 1 Express JS.pdf -> E:\Downloadsx\Documents\1 Express JS.pdf
+2025-11-03 01:19:29,986 | INFO | Moved: 1. 30-Day AI Automation Agency Roadmap (1).pdf -> E:\Downloadsx\Documents\1. 30-Day AI Automation Agency Roadmap (1).pdf
+2025-11-03 01:19:29,990 | INFO | Moved: 1. 30-Day AI Automation Agency Roadmap.pdf -> E:\Downloadsx\Documents\1. 30-Day AI Automation Agency Roadmap.pdf
+2025-11-03 01:19:29,991 | INFO | Moved: 1.jpg -> E:\Downloadsx\Images\1.jpg
+2025-11-03 01:19:29,992 | INFO | Moved: 10731837.jpg -> E:\Downloadsx\Images\10731837.jpg
+2025-11-03 01:19:29,993 | INFO | Moved: 11192619.jpg -> E:\Downloadsx\Images\11192619.jpg
+2025-11-03 01:19:29,993 | INFO | Moved: 1149776.jpg -> E:\Downloadsx\Images\1149776.jpg
+2025-11-03 01:19:29,994 | INFO | Moved: 1149777.jpg -> E:\Downloadsx\Images\1149777.jpg
+2025-11-03 01:19:29,996 | INFO | Moved: 15693365_MotionElements_software-promo-after-effects-template-aep.zip -> E:\Downloadsx\Archives\15693365_MotionElements_software-promo-after-effects-template-aep.zip
+2025-11-03 01:19:29,997 | INFO | Moved: 1ec0cc88-82c1-4f18-8d37-f569070211bb.jpeg -> E:\Downloadsx\Images\1ec0cc88-82c1-4f18-8d37-f569070211bb.jpeg
+2025-11-03 01:19:29,999 | INFO | Moved: 1_IirUWdu5_jw10pEb1oaLtg.webp -> E:\Downloadsx\Others\1_IirUWdu5_jw10pEb1oaLtg.webp
+2025-11-03 01:19:30,001 | INFO | Moved: 2 ডেটা টাইপ মিউটেবল ইমিউটেবল ও কনভার্সন.pdf -> E:\Downloadsx\Documents\2 ডেটা টাইপ মিউটেবল ইমিউটেবল ও কনভার্সন.pdf
+2025-11-03 01:19:30,002 | INFO | Moved: 2020-11-04.jpg -> E:\Downloadsx\Images\2020-11-04.jpg
+2025-11-03 01:19:30,003 | INFO | Moved: 2024-03-30T20-04-46.275Z-Archive (2).zip -> E:\Downloadsx\Archives\2024-03-30T20-04-46.275Z-Archive (2).zip
+2025-11-03 01:19:30,005 | INFO | Moved: 2024-08-14T05-41-00.378Z-2024-02-09T18-04-04.676Z-Express Project Structure & Practice (3).pptx -> E:\Downloadsx\Documents\2024-08-14T05-41-00.378Z-2024-02-09T18-04-04.676Z-Express Project Structure & Practice (3).pptx
+2025-11-03 01:19:30,006 | INFO | Moved: 2024-08-29T18-37-11.912Z-mongoDB_Practice.zip -> E:\Downloadsx\Archives\2024-08-29T18-37-11.912Z-mongoDB_Practice.zip
+2025-11-03 01:19:30,009 | INFO | Moved: 2024-08-31T17-52-01.320Z-mongoDB_Practice.zip -> E:\Downloadsx\Archives\2024-08-31T17-52-01.320Z-mongoDB_Practice.zip
+2025-11-03 01:19:30,010 | INFO | Moved: 2024-08-31T17-52-50.238Z-Master (1).pptx -> E:\Downloadsx\Documents\2024-08-31T17-52-50.238Z-Master (1).pptx
+2025-11-03 01:19:30,012 | INFO | Moved: 2024-08-31T17-52-50.238Z-Master.pptx -> E:\Downloadsx\Documents\2024-08-31T17-52-50.238Z-Master.pptx
+2025-11-03 01:19:30,013 | INFO | Moved: 2024-09-05T18-21-34.903Z-Task-Manager-API (1).zip -> E:\Downloadsx\Archives\2024-09-05T18-21-34.903Z-Task-Manager-API (1).zip
+2025-11-03 01:19:30,014 | INFO | Moved: 2024-09-05T18-21-34.903Z-Task-Manager-API.zip -> E:\Downloadsx\Archives\2024-09-05T18-21-34.903Z-Task-Manager-API.zip
+2025-11-03 01:19:30,015 | INFO | Moved: 2024-09-07T18-06-04.595Z-Task-Manager-API (1).zip -> E:\Downloadsx\Archives\2024-09-07T18-06-04.595Z-Task-Manager-API (1).zip
+2025-11-03 01:19:30,016 | INFO | Moved: 2024-09-07T18-06-04.595Z-Task-Manager-API.zip -> E:\Downloadsx\Archives\2024-09-07T18-06-04.595Z-Task-Manager-API.zip
+2025-11-03 01:19:30,017 | INFO | Moved: 2024-09-10T16-02-32.427Z-file.zip -> E:\Downloadsx\Archives\2024-09-10T16-02-32.427Z-file.zip
+2025-11-03 01:19:30,017 | INFO | Moved: 2024-09-12T18-41-40.806Z-Ecommerce-Back End-Class-01.zip -> E:\Downloadsx\Archives\2024-09-12T18-41-40.806Z-Ecommerce-Back End-Class-01.zip
+2025-11-03 01:19:30,018 | INFO | Moved: 2024-09-12T19-32-58.632Z-According to Pre-Recorded Ecommerce Complete Project Back End + Front End (1).zip -> E:\Downloadsx\Archives\2024-09-12T19-32-58.632Z-According to Pre-Recorded Ecommerce Complete Project Back End + Front End (1).zip
+2025-11-03 01:19:30,019 | INFO | Moved: 2024-09-12T19-32-58.632Z-According to Pre-Recorded Ecommerce Complete Project Back End + Front End.zip -> E:\Downloadsx\Archives\2024-09-12T19-32-58.632Z-According to Pre-Recorded Ecommerce Complete Project Back End + Front End.zip
+2025-11-03 01:19:30,020 | INFO | Moved: 2024-09-14T18-05-40.475Z-Ecommerce-Back End-Class-02.zip -> E:\Downloadsx\Archives\2024-09-14T18-05-40.475Z-Ecommerce-Back End-Class-02.zip
+2025-11-03 01:19:30,020 | INFO | Moved: 2024-09-19T17-59-33.926Z-Ecommerce-Back End-Class-03.zip -> E:\Downloadsx\Archives\2024-09-19T17-59-33.926Z-Ecommerce-Back End-Class-03.zip
+2025-11-03 01:19:30,021 | INFO | Moved: 2024-09-21T16-57-01.418Z-Ecommerce-Back End-Class-04.zip -> E:\Downloadsx\Archives\2024-09-21T16-57-01.418Z-Ecommerce-Back End-Class-04.zip
+2025-11-03 01:19:30,022 | INFO | Moved: 2024-10-17T16-06-56.281Z-Archive.zip -> E:\Downloadsx\Archives\2024-10-17T16-06-56.281Z-Archive.zip
+2025-11-03 01:19:30,023 | INFO | Moved: 2024-10-19T15-58-44.143Z-React Class 02 (1).zip -> E:\Downloadsx\Archives\2024-10-19T15-58-44.143Z-React Class 02 (1).zip
+2025-11-03 01:19:30,024 | INFO | Moved: 2024-10-19T15-58-44.143Z-React Class 02.zip -> E:\Downloadsx\Archives\2024-10-19T15-58-44.143Z-React Class 02.zip
+2025-11-03 01:19:30,024 | INFO | Moved: 2024-10-24T16-13-05.851Z-vite-project.zip -> E:\Downloadsx\Archives\2024-10-24T16-13-05.851Z-vite-project.zip
+2025-11-03 01:19:30,025 | INFO | Moved: 2024-10-26T16-04-54.781Z-my-app.zip -> E:\Downloadsx\Archives\2024-10-26T16-04-54.781Z-my-app.zip
+2025-11-03 01:19:30,026 | INFO | Moved: 2024-11-02T17-56-51.040Z-my-app.zip -> E:\Downloadsx\Archives\2024-11-02T17-56-51.040Z-my-app.zip
+2025-11-03 01:19:30,027 | INFO | Moved: 2024-11-09T14-19-58.482Z-Front-End HTML Resources.zip -> E:\Downloadsx\Archives\2024-11-09T14-19-58.482Z-Front-End HTML Resources.zip
+2025-11-03 01:19:30,028 | INFO | Moved: 2024-11-09T14-21-36.806Z-Ecom Recored.zip -> E:\Downloadsx\Archives\2024-11-09T14-21-36.806Z-Ecom Recored.zip
+2025-11-03 01:19:30,029 | INFO | Moved: 2210010 Assignment no. 03.ipynb -> E:\Downloadsx\Others\2210010 Assignment no. 03.ipynb
+2025-11-03 01:19:30,030 | INFO | Moved: 2210010(Final Quiz).zip -> E:\Downloadsx\Archives\2210010(Final Quiz).zip
+2025-11-03 01:19:30,031 | INFO | Moved: 2210010-Assignment.xlsx -> E:\Downloadsx\Documents\2210010-Assignment.xlsx
+2025-11-03 01:19:30,032 | INFO | Moved: 2210010_Assignment-06.ipynb -> E:\Downloadsx\Others\2210010_Assignment-06.ipynb
+2025-11-03 01:19:30,033 | INFO | Moved: 2210010_Assignment_02 (1).ipynb -> E:\Downloadsx\Others\2210010_Assignment_02 (1).ipynb
+2025-11-03 01:19:30,034 | INFO | Moved: 2210010_Assignment_02 (4).ipynb -> E:\Downloadsx\Others\2210010_Assignment_02 (4).ipynb
+2025-11-03 01:19:30,036 | INFO | Moved: 2210010_Assignment_02.ipynb -> E:\Downloadsx\Others\2210010_Assignment_02.ipynb
+2025-11-03 01:19:30,040 | INFO | Moved: 26.png -> E:\Downloadsx\Images\26.png
+2025-11-03 01:19:30,041 | INFO | Moved: 277027878_1805024069690900_2054090741246605674_n.jpg -> E:\Downloadsx\Images\277027878_1805024069690900_2054090741246605674_n.jpg
+2025-11-03 01:19:30,042 | INFO | Moved: 277150900_499383591666945_7188881707820177462_n.jpg -> E:\Downloadsx\Images\277150900_499383591666945_7188881707820177462_n.jpg
+2025-11-03 01:19:30,043 | INFO | Moved: 2902-financial-tracker-bot.json -> E:\Downloadsx\Others\2902-financial-tracker-bot.json
+2025-11-03 01:19:30,045 | INFO | Moved: 2930.jpg -> E:\Downloadsx\Images\2930.jpg
+2025-11-03 01:19:30,047 | INFO | Moved: 2965-instagram-content-generator.json -> E:\Downloadsx\Others\2965-instagram-content-generator.json
+2025-11-03 01:19:30,047 | INFO | Moved: 30_day_calendar_notion.md -> E:\Downloadsx\Others\30_day_calendar_notion.md
+2025-11-03 01:19:30,048 | INFO | Moved: 30_day_facebook_calendar.pdf -> E:\Downloadsx\Documents\30_day_facebook_calendar.pdf
+2025-11-03 01:19:30,049 | INFO | Moved: 3205404.jpg -> E:\Downloadsx\Images\3205404.jpg
+2025-11-03 01:19:30,050 | INFO | Moved: 33.png -> E:\Downloadsx\Images\33.png
+2025-11-03 01:19:30,052 | INFO | Moved: 349380-3840x2160-desktop-4k-black-widow-background-image.jpg -> E:\Downloadsx\Images\349380-3840x2160-desktop-4k-black-widow-background-image.jpg
+2025-11-03 01:19:30,053 | INFO | Moved: 349383-3840x2160-desktop-4k-black-widow-wallpaper-image.jpg -> E:\Downloadsx\Images\349383-3840x2160-desktop-4k-black-widow-wallpaper-image.jpg
+2025-11-03 01:19:30,053 | INFO | Moved: 3D-Appshowcase-main.zip -> E:\Downloadsx\Archives\3D-Appshowcase-main.zip
+2025-11-03 01:19:30,054 | INFO | Moved: 3D-Landing-page-for-Apple-iPhone-main.zip -> E:\Downloadsx\Archives\3D-Landing-page-for-Apple-iPhone-main.zip
+2025-11-03 01:19:30,055 | INFO | Moved: 3d-portfolio-main.zip -> E:\Downloadsx\Archives\3d-portfolio-main.zip
+2025-11-03 01:19:30,055 | INFO | Moved: 3d-portfolio-website-master.zip -> E:\Downloadsx\Archives\3d-portfolio-website-master.zip
+2025-11-03 01:19:30,057 | INFO | Moved: 4113132.jpg -> E:\Downloadsx\Images\4113132.jpg
+2025-11-03 01:19:30,059 | INFO | Moved: 412825736_351525804156723_2923231320498646287_n.jpg -> E:\Downloadsx\Images\412825736_351525804156723_2923231320498646287_n.jpg
+2025-11-03 01:19:30,060 | INFO | Moved: 448407039_7789162424465129_4675031572151999555_n.png -> E:\Downloadsx\Images\448407039_7789162424465129_4675031572151999555_n.png
+2025-11-03 01:19:30,061 | INFO | Moved: 480905237_913285257687599_1531013743163853159_n.jpg -> E:\Downloadsx\Images\480905237_913285257687599_1531013743163853159_n.jpg
+2025-11-03 01:19:30,062 | INFO | Moved: 493074390_1054553316767698_5625757167932662377_n.jpg -> E:\Downloadsx\Images\493074390_1054553316767698_5625757167932662377_n.jpg
+2025-11-03 01:19:30,063 | INFO | Moved: 493091817_1054553300101033_7658858027040654658_n.jpg -> E:\Downloadsx\Images\493091817_1054553300101033_7658858027040654658_n.jpg
+2025-11-03 01:19:30,064 | INFO | Moved: 493322566_1054553343434362_2559789886574084219_n.jpg -> E:\Downloadsx\Images\493322566_1054553343434362_2559789886574084219_n.jpg
+2025-11-03 01:19:30,066 | INFO | Moved: 493816820_2068698403626709_7381215023151354417_n.jpg -> E:\Downloadsx\Images\493816820_2068698403626709_7381215023151354417_n.jpg
+2025-11-03 01:19:30,067 | INFO | Moved: 504998247_122115598808863582_8352896443947589273_n.jpg -> E:\Downloadsx\Images\504998247_122115598808863582_8352896443947589273_n.jpg
+2025-11-03 01:19:30,069 | INFO | Moved: 510279531_4111386659184291_5880862298192295242_n.jpg -> E:\Downloadsx\Images\510279531_4111386659184291_5880862298192295242_n.jpg
+2025-11-03 01:19:30,070 | INFO | Moved: 514274893_2243784269404250_4690564221375833504_n.jpg -> E:\Downloadsx\Images\514274893_2243784269404250_4690564221375833504_n.jpg
+2025-11-03 01:19:30,072 | INFO | Moved: 518287087_122187159590330539_3344490337552546794_n.jpg -> E:\Downloadsx\Images\518287087_122187159590330539_3344490337552546794_n.jpg
+2025-11-03 01:19:30,074 | INFO | Moved: 521644497_742041362151855_4132519562525044604_n.jpg -> E:\Downloadsx\Images\521644497_742041362151855_4132519562525044604_n.jpg
+2025-11-03 01:19:30,075 | INFO | Moved: 526079272_676771232079096_613770347949152376_n.jpg -> E:\Downloadsx\Images\526079272_676771232079096_613770347949152376_n.jpg
+2025-11-03 01:19:30,076 | INFO | Moved: 536426.png -> E:\Downloadsx\Images\536426.png
+2025-11-03 01:19:30,076 | INFO | Moved: 597965.jpg -> E:\Downloadsx\Images\597965.jpg
+2025-11-03 01:19:30,077 | INFO | Moved: 699057(1).png -> E:\Downloadsx\Images\699057(1).png
+2025-11-03 01:19:30,080 | INFO | Moved: 699057.png -> E:\Downloadsx\Images\699057.png
+2025-11-03 01:19:30,082 | INFO | Moved: 716485.jpg -> E:\Downloadsx\Images\716485.jpg
+2025-11-03 01:19:30,084 | INFO | Moved: 7188504.jpg -> E:\Downloadsx\Images\7188504.jpg
+2025-11-03 01:19:30,087 | INFO | Moved: a-modern-bold-poster-design-for-a-web-de_isR7_al1SdWYHTT4UpqDQQ_3kqtg5CKT5uEnpChjV___g.jpeg -> E:\Downloadsx\Images\a-modern-bold-poster-design-for-a-web-de_isR7_al1SdWYHTT4UpqDQQ_3kqtg5CKT5uEnpChjV___g.jpeg
+2025-11-03 01:19:30,089 | INFO | Moved: a-modern-poster-design-for-autozen-dev-a_gIEW1EzXQaq9IwU0l7Afpw_3kqtg5CKT5uEnpChjV___g.jpeg -> E:\Downloadsx\Images\a-modern-poster-design-for-autozen-dev-a_gIEW1EzXQaq9IwU0l7Afpw_3kqtg5CKT5uEnpChjV___g.jpeg
+2025-11-03 01:19:30,090 | INFO | Moved: Abstract (Hult Prize) (3) (2) (1).pdf -> E:\Downloadsx\Documents\Abstract (Hult Prize) (3) (2) (1).pdf
+2025-11-03 01:19:30,092 | INFO | Moved: Abstract (Hult Prize) (3) (2).pdf -> E:\Downloadsx\Documents\Abstract (Hult Prize) (3) (2).pdf
+2025-11-03 01:19:30,095 | INFO | Moved: acad.exe -> E:\Downloadsx\Installers\acad.exe
+2025-11-03 01:19:30,096 | INFO | Moved: Accounting Introduction (Autosaved).doc -> E:\Downloadsx\Documents\Accounting Introduction (Autosaved).doc
+2025-11-03 01:19:30,097 | INFO | Moved: Advanced React_Next.js Portfolio Project Ideas (2025).pdf -> E:\Downloadsx\Documents\Advanced React_Next.js Portfolio Project Ideas (2025).pdf
+2025-11-03 01:19:30,098 | INFO | Moved: Aggregate blending.pptx -> E:\Downloadsx\Documents\Aggregate blending.pptx
+2025-11-03 01:19:30,101 | INFO | Moved: ai-car-marketplace-main (1).zip -> E:\Downloadsx\Archives\ai-car-marketplace-main (1).zip
+2025-11-03 01:19:30,103 | INFO | Moved: ai-car-marketplace-main.zip -> E:\Downloadsx\Archives\ai-car-marketplace-main.zip
+2025-11-03 01:19:30,104 | INFO | Moved: ai-career-coach-master.zip -> E:\Downloadsx\Archives\ai-career-coach-master.zip
+2025-11-03 01:19:30,106 | INFO | Moved: ai-engineer-roadmap-2025.zip -> E:\Downloadsx\Archives\ai-engineer-roadmap-2025.zip
+2025-11-03 01:19:30,108 | INFO | Moved: Alex Banks & Eve Porcello - Learning React_ Learning React Modern Patterns for Developing React Apps - O′Reilly (2020).pdf -> E:\Downloadsx\Documents\Alex Banks & Eve Porcello - Learning React_ Learning React Modern Patterns for Developing React Apps - O′Reilly (2020).pdf
+2025-11-03 01:19:30,110 | INFO | Moved: amazon-web-services-2.svg -> E:\Downloadsx\Images\amazon-web-services-2.svg
+2025-11-03 01:19:30,110 | INFO | Moved: animated-landing.zip -> E:\Downloadsx\Archives\animated-landing.zip
+2025-11-03 01:19:30,111 | INFO | Moved: anon-ecommerce-website-master.zip -> E:\Downloadsx\Archives\anon-ecommerce-website-master.zip
+2025-11-03 01:19:30,113 | INFO | Moved: api_carousel_slide_1.png -> E:\Downloadsx\Images\api_carousel_slide_1.png
+2025-11-03 01:19:30,115 | INFO | Moved: api_carousel_slide_2.png -> E:\Downloadsx\Images\api_carousel_slide_2.png
+2025-11-03 01:19:30,116 | INFO | Moved: api_carousel_slide_3.png -> E:\Downloadsx\Images\api_carousel_slide_3.png
+2025-11-03 01:19:30,117 | INFO | Moved: api_carousel_slide_4.png -> E:\Downloadsx\Images\api_carousel_slide_4.png
+2025-11-03 01:19:30,117 | INFO | Moved: api_optimization_cover.png -> E:\Downloadsx\Images\api_optimization_cover.png
+2025-11-03 01:19:30,118 | INFO | Moved: artificial-intelligence-concept-facebook-cover.zip -> E:\Downloadsx\Archives\artificial-intelligence-concept-facebook-cover.zip
+2025-11-03 01:19:30,120 | INFO | Moved: Assignment cover BW.pdf -> E:\Downloadsx\Documents\Assignment cover BW.pdf
+2025-11-03 01:19:30,121 | INFO | Moved: Assignment-06(Function) (1).ipynb -> E:\Downloadsx\Others\Assignment-06(Function) (1).ipynb
+2025-11-03 01:19:30,122 | INFO | Moved: assignments-master.zip -> E:\Downloadsx\Archives\assignments-master.zip
+2025-11-03 01:19:30,123 | INFO | Moved: astronomy-concept-with-retro-science-cartoon-icons-set.zip -> E:\Downloadsx\Archives\astronomy-concept-with-retro-science-cartoon-icons-set.zip
+2025-11-03 01:19:30,124 | INFO | Moved: att.SWNrmJEclGjHhGz-PdFOiOlNEa0PdbJNRNqlbGk1OzE.dat -> E:\Downloadsx\Others\att.SWNrmJEclGjHhGz-PdFOiOlNEa0PdbJNRNqlbGk1OzE.dat
+2025-11-03 01:19:30,125 | INFO | Moved: auto-mind-main.zip -> E:\Downloadsx\Archives\auto-mind-main.zip
+2025-11-03 01:19:30,127 | INFO | Moved: AutoCAD_2021_English_Win_64bit_dlm.sfx.exe -> E:\Downloadsx\Installers\LargeFiles\AutoCAD_2021_English_Win_64bit_dlm.sfx.exe
+2025-11-03 01:19:30,128 | INFO | Moved: AutoMind-logo.zip -> E:\Downloadsx\Archives\AutoMind-logo.zip
+2025-11-03 01:19:30,129 | INFO | Moved: AWS-Logo.png -> E:\Downloadsx\Images\AWS-Logo.png
+2025-11-03 01:19:30,130 | INFO | Moved: aws-svgrepo-com.svg -> E:\Downloadsx\Images\aws-svgrepo-com.svg
+2025-11-03 01:19:30,131 | INFO | Moved: B-9 A-7  Requirement Doc.pdf -> E:\Downloadsx\Documents\B-9 A-7  Requirement Doc.pdf
+2025-11-03 01:19:30,131 | INFO | Moved: B9 A8 Requirements.pdf -> E:\Downloadsx\Documents\B9 A8 Requirements.pdf
+2025-11-03 01:19:30,132 | INFO | Moved: B9-react-knowledge-cafe-main.zip -> E:\Downloadsx\Archives\B9-react-knowledge-cafe-main.zip
+2025-11-03 01:19:30,134 | INFO | Moved: B9A7-CHEFS-TABLE-main.zip -> E:\Downloadsx\Archives\B9A7-CHEFS-TABLE-main.zip
+2025-11-03 01:19:30,135 | INFO | Moved: backend_cover_photo.png -> E:\Downloadsx\Images\backend_cover_photo.png
+2025-11-03 01:19:30,136 | INFO | Moved: Basic Concepts of Probability.pdf -> E:\Downloadsx\Documents\Basic Concepts of Probability.pdf
+2025-11-03 01:19:30,137 | INFO | Moved: batch-3-assignment-1-agency-landing-page-FarhanS7-main.zip -> E:\Downloadsx\Archives\batch-3-assignment-1-agency-landing-page-FarhanS7-main.zip
+2025-11-03 01:19:30,138 | INFO | Moved: Beam Deflection © PIASH_1801001.pdf -> E:\Downloadsx\Documents\Beam Deflection © PIASH_1801001.pdf
+2025-11-03 01:19:30,139 | INFO | Moved: Beam,column,footing layout.bak -> E:\Downloadsx\Others\Beam,column,footing layout.bak
+2025-11-03 01:19:30,140 | INFO | Moved: Beam,column,footing layout.dwg -> E:\Downloadsx\Others\Beam,column,footing layout.dwg
+2025-11-03 01:19:30,141 | INFO | Moved: Beige Minimalist Weekly Planner (1).pdf -> E:\Downloadsx\Documents\Beige Minimalist Weekly Planner (1).pdf
+2025-11-03 01:19:30,143 | INFO | Moved: Beige Minimalist Weekly Planner.pdf -> E:\Downloadsx\Documents\Beige Minimalist Weekly Planner.pdf
+2025-11-03 01:19:30,144 | INFO | Moved: bewidgets-0-13-7-0.appxbundle -> E:\Downloadsx\Others\bewidgets-0-13-7-0.appxbundle
+2025-11-03 01:19:30,145 | INFO | Moved: big-data-visualization-futuristic-infographic-information-aesthetic-design-visual-data-complexity-co.zip -> E:\Downloadsx\Archives\big-data-visualization-futuristic-infographic-information-aesthetic-design-visual-data-complexity-co.zip
+2025-11-03 01:19:30,145 | INFO | Moved: Black Minimal Business Personal Profile Linkedin Banner (1).png -> E:\Downloadsx\Images\Black Minimal Business Personal Profile Linkedin Banner (1).png
+2025-11-03 01:19:30,147 | INFO | Moved: Black Minimal Business Personal Profile Linkedin Banner.png -> E:\Downloadsx\Images\Black Minimal Business Personal Profile Linkedin Banner.png
+2025-11-03 01:19:30,155 | INFO | Moved: blog-admin-panel-master.zip -> E:\Downloadsx\Archives\blog-admin-panel-master.zip
+2025-11-03 01:19:30,160 | INFO | Moved: blog-website.zip -> E:\Downloadsx\Archives\blog-website.zip
+2025-11-03 01:19:30,164 | INFO | Moved: blog_cover_design_brief.pdf -> E:\Downloadsx\Documents\blog_cover_design_brief.pdf
+2025-11-03 01:19:30,166 | INFO | Moved: BlueStacks10Installer_10.42.75.2001_native_480b9f29f563b993aa911bc70c7eb9d9_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=_RG93bmxvYWQgQXBr.exe -> E:\Downloadsx\Installers\BlueStacks10Installer_10.42.75.2001_native_480b9f29f563b993aa911bc70c7eb9d9_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=_RG93bmxvYWQgQXBr.exe
+2025-11-03 01:19:30,169 | INFO | Moved: bonjourr-20.4.2 2025-05-09 14_05_59.json -> E:\Downloadsx\Others\bonjourr-20.4.2 2025-05-09 14_05_59.json
+2025-11-03 01:19:30,171 | INFO | Moved: bootstrap-5.3.2-dist.zip -> E:\Downloadsx\Archives\bootstrap-5.3.2-dist.zip
+2025-11-03 01:19:30,173 | INFO | Moved: Boris Cherny - Programming TypeScript_ Making Your JavaScript Applications Scale - O′Reilly (2019).pdf -> E:\Downloadsx\Documents\Boris Cherny - Programming TypeScript_ Making Your JavaScript Applications Scale - O′Reilly (2019).pdf
+2025-11-03 01:19:30,178 | INFO | Moved: BraveBrowserSetup-BRV010.exe -> E:\Downloadsx\Installers\BraveBrowserSetup-BRV010.exe
+2025-11-03 01:19:30,180 | INFO | Moved: brooke-cagle--uHVRvDr7pg-unsplash.jpg -> E:\Downloadsx\Images\brooke-cagle--uHVRvDr7pg-unsplash.jpg
+2025-11-03 01:19:30,185 | INFO | Moved: burger-landing-page-main.zip -> E:\Downloadsx\Archives\burger-landing-page-main.zip
+2025-11-03 01:19:30,187 | INFO | Moved: CamScanner 01-25-2024 23.35 (1).pdf -> E:\Downloadsx\Documents\CamScanner 01-25-2024 23.35 (1).pdf
+2025-11-03 01:19:30,189 | INFO | Moved: Center-of-Pressure_Updated.pdf -> E:\Downloadsx\Documents\Center-of-Pressure_Updated.pdf
+2025-11-03 01:19:30,191 | INFO | Moved: ChatGPT Image Apr 4, 2025, 02_36_29 PM.png -> E:\Downloadsx\Images\ChatGPT Image Apr 4, 2025, 02_36_29 PM.png
+2025-11-03 01:19:30,192 | INFO | Moved: ChatGPT Image Aug 7, 2025, 11_11_18 PM.png -> E:\Downloadsx\Images\ChatGPT Image Aug 7, 2025, 11_11_18 PM.png
+2025-11-03 01:19:30,193 | INFO | Moved: ChatGPT Image Jul 12, 2025, 12_12_52 AM.png -> E:\Downloadsx\Images\ChatGPT Image Jul 12, 2025, 12_12_52 AM.png
+2025-11-03 01:19:30,194 | INFO | Moved: ChatGPT Image Jul 18, 2025, 09_26_47 PM.png -> E:\Downloadsx\Images\ChatGPT Image Jul 18, 2025, 09_26_47 PM.png
+2025-11-03 01:19:30,197 | INFO | Moved: ChatGPT Image Jul 3, 2025, 08_40_07 PM.png -> E:\Downloadsx\Images\ChatGPT Image Jul 3, 2025, 08_40_07 PM.png
+2025-11-03 01:19:30,200 | INFO | Moved: ChatGPT Image Jul 3, 2025, 08_43_34 PM.png -> E:\Downloadsx\Images\ChatGPT Image Jul 3, 2025, 08_43_34 PM.png
+2025-11-03 01:19:30,203 | INFO | Moved: ChatGPT Image Jul 30, 2025, 04_45_49 PM.png -> E:\Downloadsx\Images\ChatGPT Image Jul 30, 2025, 04_45_49 PM.png
+2025-11-03 01:19:30,207 | INFO | Moved: ChatGPT Image Jul 5, 2025, 05_09_08 PM.png -> E:\Downloadsx\Images\ChatGPT Image Jul 5, 2025, 05_09_08 PM.png
+2025-11-03 01:19:30,209 | INFO | Moved: ChicMotion.zip -> E:\Downloadsx\Archives\ChicMotion.zip
+2025-11-03 01:19:30,211 | INFO | Moved: chittagong-university-of-engineering-and-technolog-seeklogo.ai -> E:\Downloadsx\Others\chittagong-university-of-engineering-and-technolog-seeklogo.ai
+2025-11-03 01:19:30,213 | INFO | Moved: chittagong-university-of-engineering-and-technolog-seeklogo.png -> E:\Downloadsx\Images\chittagong-university-of-engineering-and-technolog-seeklogo.png
+2025-11-03 01:19:30,213 | INFO | Moved: ChromeSetup.exe -> E:\Downloadsx\Installers\ChromeSetup.exe
+2025-11-03 01:19:30,214 | INFO | Moved: chunks.m3u8 -> E:\Downloadsx\Others\chunks.m3u8
+2025-11-03 01:19:30,215 | INFO | Moved: climate-data-sealevel-global.csv -> E:\Downloadsx\Others\climate-data-sealevel-global.csv
+2025-11-03 01:19:30,217 | INFO | Moved: CODEX no bg.png -> E:\Downloadsx\Images\CODEX no bg.png
+2025-11-03 01:19:30,219 | INFO | Moved: Colorful Retro Cartoon Illustrated Festival Market Animated Presentation.jpg -> E:\Downloadsx\Images\Colorful Retro Cartoon Illustrated Festival Market Animated Presentation.jpg
+2025-11-03 01:19:30,220 | INFO | Moved: Colorful Retro Cartoon Illustrated Festival Market Animated Presentation.zip -> E:\Downloadsx\Archives\Colorful Retro Cartoon Illustrated Festival Market Animated Presentation.zip
+2025-11-03 01:19:30,221 | INFO | Moved: comet_installer_latest.exe -> E:\Downloadsx\Installers\comet_installer_latest.exe
+2025-11-03 01:19:30,221 | INFO | Moved: ComplementaryUnbound_r5.3.zip -> E:\Downloadsx\Archives\ComplementaryUnbound_r5.3.zip
+2025-11-03 01:19:30,222 | INFO | Moved: Cosmic-Ventures-main.zip -> E:\Downloadsx\Archives\Cosmic-Ventures-main.zip
+2025-11-03 01:19:30,224 | INFO | Moved: Cost sheet.pdf -> E:\Downloadsx\Documents\Cost sheet.pdf
+2025-11-03 01:19:30,226 | INFO | Moved: course-fizzi-next-main.zip -> E:\Downloadsx\Archives\course-fizzi-next-main.zip
+2025-11-03 01:19:30,227 | INFO | Moved: cozycommerce-lite-main.zip -> E:\Downloadsx\Archives\cozycommerce-lite-main.zip
+2025-11-03 01:19:30,227 | INFO | Moved: cross_drainage_works.pdf -> E:\Downloadsx\Documents\cross_drainage_works.pdf
+2025-11-03 01:19:30,228 | INFO | Moved: cuet.zip -> E:\Downloadsx\Archives\cuet.zip
+2025-11-03 01:19:30,229 | INFO | Moved: CursorUserSetup-x64-0.48.9.exe -> E:\Downloadsx\Installers\CursorUserSetup-x64-0.48.9.exe
+2025-11-03 01:19:30,231 | INFO | Moved: curve surveying data sheet.pdf -> E:\Downloadsx\Documents\curve surveying data sheet.pdf
+2025-11-03 01:19:30,232 | INFO | Moved: czs-backend-main.zip -> E:\Downloadsx\Archives\czs-backend-main.zip
+2025-11-03 01:19:30,233 | INFO | Moved: Data Flow in Todo API Diagram.png -> E:\Downloadsx\Images\Data Flow in Todo API Diagram.png
+2025-11-03 01:19:30,234 | INFO | Moved: David Flanagan - JavaScript - The Definitive Guide_ Master the Worlds Most-Used Programming Language - O′Reilly (2020).pdf -> E:\Downloadsx\Documents\David Flanagan - JavaScript - The Definitive Guide_ Master the Worlds Most-Used Programming Language - O′Reilly (2020).pdf
+2025-11-03 01:19:30,235 | INFO | Moved: debug.log -> E:\Downloadsx\Others\debug.log
+2025-11-03 01:19:30,236 | INFO | Moved: Depreciation.doc -> E:\Downloadsx\Documents\Depreciation.doc
+2025-11-03 01:19:30,238 | INFO | Moved: Desktop - 13.png -> E:\Downloadsx\Images\Desktop - 13.png
+2025-11-03 01:19:30,239 | INFO | Moved: Desktop - Shortcut.lnk -> E:\Downloadsx\Others\Desktop - Shortcut.lnk
+2025-11-03 01:19:30,240 | INFO | Moved: desktop-wallpaper-mountains-passes-clouds-mist-haze-hover.jpg -> E:\Downloadsx\Images\desktop-wallpaper-mountains-passes-clouds-mist-haze-hover.jpg
+2025-11-03 01:19:30,241 | INFO | Moved: desktop.ini -> E:\Downloadsx\Others\desktop.ini
+2025-11-03 01:19:30,242 | INFO | Moved: devflow_public.zip -> E:\Downloadsx\Archives\devflow_public.zip
+2025-11-03 01:19:30,243 | INFO | Moved: DiscordSetup.exe -> E:\Downloadsx\Installers\DiscordSetup.exe
+2025-11-03 01:19:30,245 | INFO | Moved: Divine Dine.png -> E:\Downloadsx\Images\Divine Dine.png
+2025-11-03 01:19:30,246 | INFO | Moved: Divine_Dine-removebg-preview.png -> E:\Downloadsx\Images\Divine_Dine-removebg-preview.png
+2025-11-03 01:19:30,247 | INFO | Moved: django-icon-svgrepo-com.svg -> E:\Downloadsx\Images\django-icon-svgrepo-com.svg
+2025-11-03 01:19:30,248 | INFO | Moved: doc.pdf -> E:\Downloadsx\Documents\doc.pdf
+2025-11-03 01:19:30,249 | INFO | Moved: doc1.pdf -> E:\Downloadsx\Documents\doc1.pdf
+2025-11-03 01:19:30,249 | INFO | Moved: Docker Desktop Installer.exe -> E:\Downloadsx\Installers\Docker Desktop Installer.exe
+2025-11-03 01:19:30,250 | INFO | Moved: docker-svgrepo-com.svg -> E:\Downloadsx\Images\docker-svgrepo-com.svg
+2025-11-03 01:19:30,251 | INFO | Moved: download.htm -> E:\Downloadsx\Others\download.htm
+2025-11-03 01:19:30,253 | INFO | Moved: download.jpeg -> E:\Downloadsx\Images\download.jpeg
+2025-11-03 01:19:30,253 | INFO | Moved: DS_Store -> E:\Downloadsx\Others\DS_Store
+2025-11-03 01:19:30,254 | INFO | Moved: Ecom Full code.zip -> E:\Downloadsx\Archives\Ecom Full code.zip
+2025-11-03 01:19:30,255 | INFO | Moved: ecommerce-template-master.zip -> E:\Downloadsx\Archives\ecommerce-template-master.zip
+2025-11-03 01:19:30,255 | INFO | Moved: edust-dev.zip -> E:\Downloadsx\Archives\edust-dev.zip
+2025-11-03 01:19:30,256 | INFO | Moved: environmental-pollution-round-concept.zip -> E:\Downloadsx\Archives\environmental-pollution-round-concept.zip
+2025-11-03 01:19:30,257 | INFO | Moved: f.pdf -> E:\Downloadsx\Documents\f.pdf
+2025-11-03 01:19:30,259 | INFO | Moved: Farhan Resume(Main).pdf -> E:\Downloadsx\Documents\Farhan Resume(Main).pdf
+2025-11-03 01:19:30,260 | INFO | Moved: Farhan Resume.docx -> E:\Downloadsx\Documents\Farhan Resume.docx
+2025-11-03 01:19:30,261 | INFO | Moved: Farhan Resume.pdf -> E:\Downloadsx\Documents\Farhan Resume.pdf
+2025-11-03 01:19:30,262 | INFO | Moved: Farhan Shahriar (1).pdf -> E:\Downloadsx\Documents\Farhan Shahriar (1).pdf
+2025-11-03 01:19:30,263 | INFO | Moved: Farhan Shahriar Resume(Main).pdf -> E:\Downloadsx\Documents\Farhan Shahriar Resume(Main).pdf
+2025-11-03 01:19:30,263 | INFO | Moved: Farhan Shahriar Resume(Main).pdf (1) (1).pdf -> E:\Downloadsx\Documents\Farhan Shahriar Resume(Main).pdf (1) (1).pdf
+2025-11-03 01:19:30,264 | INFO | Moved: Farhan Shahriar Resume(Main).pdf (1).pdf -> E:\Downloadsx\Documents\Farhan Shahriar Resume(Main).pdf (1).pdf
+2025-11-03 01:19:30,265 | INFO | Moved: Farhan Shahriar Resume(Main).pdf.pdf -> E:\Downloadsx\Documents\Farhan Shahriar Resume(Main).pdf.pdf
+2025-11-03 01:19:30,267 | INFO | Moved: Farhan Shahriar Resume.pdf -> E:\Downloadsx\Documents\Farhan Shahriar Resume.pdf
+2025-11-03 01:19:30,268 | INFO | Moved: Farhan Shahriar-mernstack 6-A19924 (1).pdf -> E:\Downloadsx\Documents\Farhan Shahriar-mernstack 6-A19924 (1).pdf
+2025-11-03 01:19:30,268 | INFO | Moved: Farhan Shahriar-mernstack 6-A19924.pdf -> E:\Downloadsx\Documents\Farhan Shahriar-mernstack 6-A19924.pdf
+2025-11-03 01:19:30,269 | INFO | Moved: Farhan Shahriar-mernstack 6-C19933.pdf -> E:\Downloadsx\Documents\Farhan Shahriar-mernstack 6-C19933.pdf
+2025-11-03 01:19:30,270 | INFO | Moved: Farhan Shahriar.pdf -> E:\Downloadsx\Documents\Farhan Shahriar.pdf
+2025-11-03 01:19:30,270 | INFO | Moved: Farhan Shahriar_CV_Ostad_CV_Builder_2025-01-21 (1).pdf -> E:\Downloadsx\Documents\Farhan Shahriar_CV_Ostad_CV_Builder_2025-01-21 (1).pdf
+2025-11-03 01:19:30,271 | INFO | Moved: Farhan Shahriar_CV_Ostad_CV_Builder_2025-01-21 (2).pdf -> E:\Downloadsx\Documents\Farhan Shahriar_CV_Ostad_CV_Builder_2025-01-21 (2).pdf
+2025-11-03 01:19:30,273 | INFO | Moved: Farhan-Shahriar-1.pdf -> E:\Downloadsx\Documents\Farhan-Shahriar-1.pdf
+2025-11-03 01:19:30,274 | INFO | Moved: Farhan.mp4 -> E:\Downloadsx\Videos\Farhan.mp4
+2025-11-03 01:19:30,275 | INFO | Moved: FarhanShahriarResume.pdf -> E:\Downloadsx\Documents\FarhanShahriarResume.pdf
+2025-11-03 01:19:30,276 | INFO | Moved: Farhan_-_reactive-accelerator.png -> E:\Downloadsx\Images\Farhan_-_reactive-accelerator.png
+2025-11-03 01:19:30,277 | INFO | Moved: Farhan_Shahriar_Resume_.pdf -> E:\Downloadsx\Documents\Farhan_Shahriar_Resume_.pdf
+2025-11-03 01:19:30,279 | INFO | Moved: Farhan_Shahriar_Resume_.pdf.pdf -> E:\Downloadsx\Documents\Farhan_Shahriar_Resume_.pdf.pdf
+2025-11-03 01:19:30,280 | INFO | Moved: Farhan_Shahriar_Resume_2 (1).pdf -> E:\Downloadsx\Documents\Farhan_Shahriar_Resume_2 (1).pdf
+2025-11-03 01:19:30,281 | INFO | Moved: Farhan_Shahriar_Resume_2.docx -> E:\Downloadsx\Documents\Farhan_Shahriar_Resume_2.docx
+2025-11-03 01:19:30,282 | INFO | Moved: Farhan_Shahriar_Resume_2.pdf -> E:\Downloadsx\Documents\Farhan_Shahriar_Resume_2.pdf
+2025-11-03 01:19:30,283 | INFO | Moved: Farhan_Shahriar_Resume_2.txt -> E:\Downloadsx\Documents\Farhan_Shahriar_Resume_2.txt
+2025-11-03 01:19:30,283 | INFO | Moved: FashionVista.zip -> E:\Downloadsx\Archives\FashionVista.zip
+2025-11-03 01:19:30,284 | INFO | Moved: favicon_io.zip -> E:\Downloadsx\Archives\favicon_io.zip
+2025-11-03 01:19:30,285 | INFO | Moved: FeastFlow.zip -> E:\Downloadsx\Archives\FeastFlow.zip
+2025-11-03 01:19:30,288 | INFO | Moved: Final Quiz.zip -> E:\Downloadsx\Archives\Final Quiz.zip
+2025-11-03 01:19:30,290 | INFO | Moved: Firefox Installer.exe -> E:\Downloadsx\Installers\Firefox Installer.exe
+2025-11-03 01:19:30,290 | INFO | Moved: flask-svgrepo-com.svg -> E:\Downloadsx\Images\flask-svgrepo-com.svg
+2025-11-03 01:19:30,291 | INFO | Moved: form-master-main.zip -> E:\Downloadsx\Archives\form-master-main.zip
+2025-11-03 01:19:30,293 | INFO | Moved: Framew 2.png -> E:\Downloadsx\Images\Framew 2.png
+2025-11-03 01:19:30,295 | INFO | Moved: freepik__adjust__17871.png -> E:\Downloadsx\Images\freepik__adjust__17871.png
+2025-11-03 01:19:30,295 | INFO | Moved: frontline_workforce_leads_batch_expanded (1).csv -> E:\Downloadsx\Others\frontline_workforce_leads_batch_expanded (1).csv
+2025-11-03 01:19:30,296 | INFO | Moved: frontline_workforce_leads_batch_expanded.csv -> E:\Downloadsx\Others\frontline_workforce_leads_batch_expanded.csv
+2025-11-03 01:19:30,297 | INFO | Moved: full-stack-blog-starter.zip -> E:\Downloadsx\Archives\full-stack-blog-starter.zip
+2025-11-03 01:19:30,298 | INFO | Moved: Fullstack_Interview_Handbook.pdf -> E:\Downloadsx\Documents\Fullstack_Interview_Handbook.pdf
+2025-11-03 01:19:30,298 | INFO | Moved: Fustat.zip -> E:\Downloadsx\Archives\Fustat.zip
+2025-11-03 01:19:30,300 | INFO | Moved: fustat_5.2.6.zip -> E:\Downloadsx\Archives\fustat_5.2.6.zip
+2025-11-03 01:19:30,302 | INFO | Moved: Gemini_Generated_Image_ar82dqar82dqar82.png -> E:\Downloadsx\Images\Gemini_Generated_Image_ar82dqar82dqar82.png
+2025-11-03 01:19:30,303 | INFO | Moved: Gemini_Generated_Image_k6wqaxk6wqaxk6wq.png -> E:\Downloadsx\Images\Gemini_Generated_Image_k6wqaxk6wqaxk6wq.png
+2025-11-03 01:19:30,303 | INFO | Moved: Gemini_Generated_Image_phbmykphbmykphbm.png -> E:\Downloadsx\Images\Gemini_Generated_Image_phbmykphbmykphbm.png
+2025-11-03 01:19:30,304 | INFO | Moved: gen-ai-roadmap-for-beginners.zip -> E:\Downloadsx\Archives\gen-ai-roadmap-for-beginners.zip
+2025-11-03 01:19:30,305 | INFO | Moved: generate-a-web-development-agency-poster_0GdtTkESQsObjJ4dy0tq9w_3kqtg5CKT5uEnpChjV___g.jpeg -> E:\Downloadsx\Images\generate-a-web-development-agency-poster_0GdtTkESQsObjJ4dy0tq9w_3kqtg5CKT5uEnpChjV___g.jpeg
+2025-11-03 01:19:30,306 | INFO | Moved: Generated Image September 17, 2025 - 11_57PM.png -> E:\Downloadsx\Images\Generated Image September 17, 2025 - 11_57PM.png
+2025-11-03 01:19:30,308 | INFO | Moved: Generated Image September 18, 2025 - 12_02AM.png -> E:\Downloadsx\Images\Generated Image September 18, 2025 - 12_02AM.png
+2025-11-03 01:19:30,309 | INFO | Moved: Generated Image September 18, 2025 - 12_19AM.png -> E:\Downloadsx\Images\Generated Image September 18, 2025 - 12_19AM.png
+2025-11-03 01:19:30,310 | INFO | Moved: gig.jpg -> E:\Downloadsx\Images\gig.jpg
+2025-11-03 01:19:30,311 | INFO | Moved: Git-2.43.0-64-bit.exe -> E:\Downloadsx\Installers\Git-2.43.0-64-bit.exe
+2025-11-03 01:19:30,312 | INFO | Moved: Git-2.44.0-64-bit.exe -> E:\Downloadsx\Installers\Git-2.44.0-64-bit.exe
+2025-11-03 01:19:30,314 | INFO | Moved: github-recovery-codes.txt -> E:\Downloadsx\Documents\github-recovery-codes.txt
+2025-11-03 01:19:30,315 | INFO | Moved: GitHubDesktopSetup-x64 (1).exe -> E:\Downloadsx\Installers\GitHubDesktopSetup-x64 (1).exe
+2025-11-03 01:19:30,317 | INFO | Moved: GitHubDesktopSetup-x64.exe -> E:\Downloadsx\Installers\GitHubDesktopSetup-x64.exe
+2025-11-03 01:19:30,318 | INFO | Moved: GLP_installer_900223150_market.exe -> E:\Downloadsx\Installers\GLP_installer_900223150_market.exe
+2025-11-03 01:19:30,319 | INFO | Moved: google5972043b33c7864a.html -> E:\Downloadsx\Others\google5972043b33c7864a.html
+2025-11-03 01:19:30,321 | INFO | Moved: gradient-ai-template-design.zip -> E:\Downloadsx\Archives\gradient-ai-template-design.zip
+2025-11-03 01:19:30,323 | INFO | Moved: gradient-artificial-intelligence-twitter-header.zip -> E:\Downloadsx\Archives\gradient-artificial-intelligence-twitter-header.zip
+2025-11-03 01:19:30,324 | INFO | Moved: gradient-responsive-website-design.zip -> E:\Downloadsx\Archives\gradient-responsive-website-design.zip
+2025-11-03 01:19:30,325 | INFO | Moved: Group 2.png -> E:\Downloadsx\Images\Group 2.png
+2025-11-03 01:19:30,326 | INFO | Moved: gsap-projects-master.zip -> E:\Downloadsx\Archives\gsap-projects-master.zip
+2025-11-03 01:19:30,327 | INFO | Moved: Hailuo_Video_You are a seasoned professiona_424789070492073991.mp4 -> E:\Downloadsx\Videos\Hailuo_Video_You are a seasoned professiona_424789070492073991.mp4
+2025-11-03 01:19:30,329 | INFO | Moved: handling_appointment_leads_with_twilio__cal_com_and_ai.json -> E:\Downloadsx\Others\handling_appointment_leads_with_twilio__cal_com_and_ai.json
+2025-11-03 01:19:30,331 | INFO | Moved: heyzine.pdf -> E:\Downloadsx\Documents\heyzine.pdf
+2025-11-03 01:19:30,332 | INFO | Moved: High-Potential Niches for Custom Web Development (EU & USA).pdf -> E:\Downloadsx\Documents\High-Potential Niches for Custom Web Development (EU & USA).pdf
+2025-11-03 01:19:30,333 | INFO | Moved: horizone.png -> E:\Downloadsx\Images\horizone.png
+2025-11-03 01:19:30,334 | INFO | Moved: https_www_facebook_com_profile_php_id_61572512364856.png -> E:\Downloadsx\Images\https_www_facebook_com_profile_php_id_61572512364856.png
+2025-11-03 01:19:30,337 | INFO | Moved: hunyuan-image-3.0_You_are_a_seasoned_g.png -> E:\Downloadsx\Images\hunyuan-image-3.0_You_are_a_seasoned_g.png
+2025-11-03 01:19:30,338 | INFO | Moved: hwmonitor_1.55.exe -> E:\Downloadsx\Installers\hwmonitor_1.55.exe
+2025-11-03 01:19:30,339 | INFO | Moved: HyperHorizon-main.zip -> E:\Downloadsx\Archives\HyperHorizon-main.zip
+2025-11-03 01:19:30,340 | INFO | Moved: Id card.jpg -> E:\Downloadsx\Images\Id card.jpg
+2025-11-03 01:19:30,342 | INFO | Moved: iloveimg-resized (1).zip -> E:\Downloadsx\Archives\iloveimg-resized (1).zip
+2025-11-03 01:19:30,344 | INFO | Moved: iloveimg-resized.zip -> E:\Downloadsx\Archives\iloveimg-resized.zip
+2025-11-03 01:19:30,345 | INFO | Moved: Image Market_ Student Council T Shirts, Senior Custom T-Shirts, High School Club TShirts.jpeg -> E:\Downloadsx\Images\Image Market_ Student Council T Shirts, Senior Custom T-Shirts, High School Club TShirts.jpeg
+2025-11-03 01:19:30,346 | INFO | Moved: image0.png -> E:\Downloadsx\Images\image0.png
+2025-11-03 01:19:30,346 | INFO | Moved: image1.png -> E:\Downloadsx\Images\image1.png
+2025-11-03 01:19:30,347 | INFO | Moved: images.jpeg -> E:\Downloadsx\Images\images.jpeg
+2025-11-03 01:19:30,349 | INFO | Moved: IMG-20250116-WA0001 (1).png -> E:\Downloadsx\Images\IMG-20250116-WA0001 (1).png
+2025-11-03 01:19:30,351 | INFO | Moved: IMG-20250116-WA0001.jpg -> E:\Downloadsx\Images\IMG-20250116-WA0001.jpg
+2025-11-03 01:19:30,351 | INFO | Moved: IMG-20250116-WA0001.png -> E:\Downloadsx\Images\IMG-20250116-WA0001.png
+2025-11-03 01:19:30,352 | INFO | Moved: IMG_1145.HEIC -> E:\Downloadsx\Others\IMG_1145.HEIC
+2025-11-03 01:19:30,353 | INFO | Moved: IMG_1146.HEIC -> E:\Downloadsx\Others\IMG_1146.HEIC
+2025-11-03 01:19:30,353 | INFO | Moved: IMG_1181.HEIC -> E:\Downloadsx\Others\IMG_1181.HEIC
+2025-11-03 01:19:30,354 | INFO | Moved: IMG_1233.HEIC -> E:\Downloadsx\Others\IMG_1233.HEIC
+2025-11-03 01:19:30,356 | INFO | Moved: IMG_1235.HEIC -> E:\Downloadsx\Others\IMG_1235.HEIC
+2025-11-03 01:19:30,358 | INFO | Moved: IMG_2292.jpg -> E:\Downloadsx\Images\IMG_2292.jpg
+2025-11-03 01:19:30,359 | INFO | Moved: IMG_3236.png -> E:\Downloadsx\Images\IMG_3236.png
+2025-11-03 01:19:30,360 | INFO | Moved: IMG_32361.jpg -> E:\Downloadsx\Images\IMG_32361.jpg
+2025-11-03 01:19:30,361 | INFO | Moved: IMG_32361.png -> E:\Downloadsx\Images\IMG_32361.png
+2025-11-03 01:19:30,362 | INFO | Moved: IMG_3612.jpeg -> E:\Downloadsx\Images\IMG_3612.jpeg
+2025-11-03 01:19:30,364 | INFO | Moved: IMG_3613.jpg -> E:\Downloadsx\Images\IMG_3613.jpg
+2025-11-03 01:19:30,365 | INFO | Moved: IMG_6096.jpg -> E:\Downloadsx\Images\IMG_6096.jpg
+2025-11-03 01:19:30,365 | INFO | Moved: IMG_E3900.HEIC -> E:\Downloadsx\Others\IMG_E3900.HEIC
+2025-11-03 01:19:30,366 | INFO | Moved: instagram_brands.csv -> E:\Downloadsx\Others\instagram_brands.csv
+2025-11-03 01:19:30,367 | INFO | Moved: instagram_brands_merged_updated.csv -> E:\Downloadsx\Others\instagram_brands_merged_updated.csv
+2025-11-03 01:19:30,368 | INFO | Moved: Install VALORANT.exe -> E:\Downloadsx\Installers\Install VALORANT.exe
+2025-11-03 01:19:30,370 | INFO | Moved: Interactive Shoe Website UI Design_ Figma Web Design Tutorial [Step-by-Step] (Community).zip -> E:\Downloadsx\Archives\Interactive Shoe Website UI Design_ Figma Web Design Tutorial [Step-by-Step] (Community).zip
+2025-11-03 01:19:30,371 | INFO | Moved: Introduction to Backend Development-Part 1 - visual selection (1).png -> E:\Downloadsx\Images\Introduction to Backend Development-Part 1 - visual selection (1).png
+2025-11-03 01:19:30,372 | INFO | Moved: Introduction to Backend Development-Part 1 - visual selection (2).png -> E:\Downloadsx\Images\Introduction to Backend Development-Part 1 - visual selection (2).png
+2025-11-03 01:19:30,373 | INFO | Moved: Introduction to Backend Development-Part 1 - visual selection.png -> E:\Downloadsx\Images\Introduction to Backend Development-Part 1 - visual selection.png
+2025-11-03 01:19:30,374 | INFO | Moved: jakob-owens-WUmb_eBrpjs-unsplash.jpg -> E:\Downloadsx\Images\jakob-owens-WUmb_eBrpjs-unsplash.jpg
+2025-11-03 01:19:30,374 | INFO | Moved: JavaScript Bangla PDF By SAFA Blog.pdf -> E:\Downloadsx\Documents\JavaScript Bangla PDF By SAFA Blog.pdf
+2025-11-03 01:19:30,376 | INFO | Moved: javascript-svgrepo-com.svg -> E:\Downloadsx\Images\javascript-svgrepo-com.svg
+2025-11-03 01:19:30,378 | INFO | Moved: JavaSetup8u431.exe -> E:\Downloadsx\Installers\JavaSetup8u431.exe
+2025-11-03 01:19:30,380 | INFO | Moved: JDownloaderSetup.exe -> E:\Downloadsx\Installers\JDownloaderSetup.exe
+2025-11-03 01:19:30,380 | INFO | Moved: Jobs_Applier_AI_Agent_AIHawk-main.zip -> E:\Downloadsx\Archives\Jobs_Applier_AI_Agent_AIHawk-main.zip
+2025-11-03 01:19:30,381 | INFO | Moved: Journal 2.doc -> E:\Downloadsx\Documents\Journal 2.doc
+2025-11-03 01:19:30,382 | INFO | Moved: Journal 3.doc -> E:\Downloadsx\Documents\Journal 3.doc
+2025-11-03 01:19:30,384 | INFO | Moved: Journal.doc -> E:\Downloadsx\Documents\Journal.doc
+2025-11-03 01:19:30,386 | INFO | Moved: jpegmini_optimized (1).zip -> E:\Downloadsx\Archives\jpegmini_optimized (1).zip
+2025-11-03 01:19:30,387 | INFO | Moved: jpegmini_optimized.zip -> E:\Downloadsx\Archives\jpegmini_optimized.zip
+2025-11-03 01:19:30,387 | INFO | Moved: jsm_gta_vi_landing-main.zip -> E:\Downloadsx\Archives\jsm_gta_vi_landing-main.zip
+2025-11-03 01:19:30,388 | INFO | Moved: js_roadmap.pdf -> E:\Downloadsx\Documents\js_roadmap.pdf
+2025-11-03 01:19:30,389 | INFO | Moved: k72-main.zip -> E:\Downloadsx\Archives\k72-main.zip
+2025-11-03 01:19:30,391 | INFO | Moved: kindpng_1194758.png -> E:\Downloadsx\Images\kindpng_1194758.png
+2025-11-03 01:19:30,392 | INFO | Moved: KINETICAI-main.zip -> E:\Downloadsx\Archives\KINETICAI-main.zip
+2025-11-03 01:19:30,393 | INFO | Moved: lazarev-main.zip -> E:\Downloadsx\Archives\lazarev-main.zip
+2025-11-03 01:19:30,394 | INFO | Moved: Lecture -2.pdf -> E:\Downloadsx\Documents\Lecture -2.pdf
+2025-11-03 01:19:30,395 | INFO | Moved: Lecture 1 (Introduction).pptx -> E:\Downloadsx\Documents\Lecture 1 (Introduction).pptx
+2025-11-03 01:19:30,396 | INFO | Moved: Lecture 2 (River Classification).pptx -> E:\Downloadsx\Documents\Lecture 2 (River Classification).pptx
+2025-11-03 01:19:30,397 | INFO | Moved: Lecture 3 (Drainage System).pptx -> E:\Downloadsx\Documents\Lecture 3 (Drainage System).pptx
+2025-11-03 01:19:30,399 | INFO | Moved: Lecture 4 (Landforms Study).pptx -> E:\Downloadsx\Documents\Lecture 4 (Landforms Study).pptx
+2025-11-03 01:19:30,400 | INFO | Moved: Lecture 5 .pdf -> E:\Downloadsx\Documents\Lecture 5 .pdf
+2025-11-03 01:19:30,401 | INFO | Moved: Lecture 6.pdf -> E:\Downloadsx\Documents\Lecture 6.pdf
+2025-11-03 01:19:30,402 | INFO | Moved: Lecture 7-Earthquake.pdf -> E:\Downloadsx\Documents\Lecture 7-Earthquake.pdf
+2025-11-03 01:19:30,402 | INFO | Moved: Lecture 7.pdf -> E:\Downloadsx\Documents\Lecture 7.pdf
+2025-11-03 01:19:30,403 | INFO | Moved: lecture 8.pdf -> E:\Downloadsx\Documents\lecture 8.pdf
+2025-11-03 01:19:30,405 | INFO | Moved: Lecture 9.pdf -> E:\Downloadsx\Documents\Lecture 9.pdf
+2025-11-03 01:19:30,407 | INFO | Moved: Lecture-01(Introduction).pdf -> E:\Downloadsx\Documents\Lecture-01(Introduction).pdf
+2025-11-03 01:19:30,407 | INFO | Moved: Lecture-02.pdf -> E:\Downloadsx\Documents\Lecture-02.pdf
+2025-11-03 01:19:30,408 | INFO | Moved: Lecture-04(Loop).zip -> E:\Downloadsx\Archives\Lecture-04(Loop).zip
+2025-11-03 01:19:30,409 | INFO | Moved: Lecture-05(Data structure).zip -> E:\Downloadsx\Archives\Lecture-05(Data structure).zip
+2025-11-03 01:19:30,410 | INFO | Moved: Lecture-06 (Function).zip -> E:\Downloadsx\Archives\Lecture-06 (Function).zip
+2025-11-03 01:19:30,412 | INFO | Moved: Lecture-07(Part-01,2).zip -> E:\Downloadsx\Archives\Lecture-07(Part-01,2).zip
+2025-11-03 01:19:30,413 | INFO | Moved: Lecture-08(Pandas).zip -> E:\Downloadsx\Archives\Lecture-08(Pandas).zip
+2025-11-03 01:19:30,414 | INFO | Moved: Lecture-3.pptx -> E:\Downloadsx\Documents\Lecture-3.pptx
+2025-11-03 01:19:30,415 | INFO | Moved: Lecture-4.pptx -> E:\Downloadsx\Documents\Lecture-4.pptx
+2025-11-03 01:19:30,416 | INFO | Moved: Lecture2(cdsapi).ipynb -> E:\Downloadsx\Others\Lecture2(cdsapi).ipynb
+2025-11-03 01:19:30,416 | INFO | Moved: Lecture_07_(Part_02)_Numpy.ipynb -> E:\Downloadsx\Others\Lecture_07_(Part_02)_Numpy.ipynb
+2025-11-03 01:19:30,418 | INFO | Moved: logo (2).png -> E:\Downloadsx\Images\logo (2).png
+2025-11-03 01:19:30,420 | INFO | Moved: logo png 2(1).png -> E:\Downloadsx\Images\logo png 2(1).png
+2025-11-03 01:19:30,420 | INFO | Moved: logo png 2.png -> E:\Downloadsx\Images\logo png 2.png
+2025-11-03 01:19:30,421 | INFO | Moved: logo-black.png -> E:\Downloadsx\Images\logo-black.png
+2025-11-03 01:19:30,422 | INFO | Moved: logo.jpg -> E:\Downloadsx\Images\logo.jpg
+2025-11-03 01:19:30,423 | INFO | Moved: logo.png -> E:\Downloadsx\Images\logo.png
+2025-11-03 01:19:30,424 | INFO | Moved: LynxExplorer-arm64.app.tar.gz -> E:\Downloadsx\Archives\LynxExplorer-arm64.app.tar.gz
+2025-11-03 01:19:30,426 | INFO | Moved: LynxExplorer-x86_64.app.tar.gz -> E:\Downloadsx\Archives\LynxExplorer-x86_64.app.tar.gz
+2025-11-03 01:19:30,427 | INFO | Moved: Mario Casciaro & Luciano Mammino - Node.js Design Patterns_ Design and implement production-grade Node.js applications using proven patterns and techniques - Packt Publishing (2020).pdf -> E:\Downloadsx\Documents\Mario Casciaro & Luciano Mammino - Node.js Design Patterns_ Design and implement production-grade Node.js applications using proven patterns and techniques - Packt Publishing (2020).pdf
+2025-11-03 01:19:30,428 | INFO | Moved: MBSetup.exe -> E:\Downloadsx\Installers\MBSetup.exe
+2025-11-03 01:19:30,429 | INFO | Moved: MD. FARHAN SHAHRIAR 2210010 - Assignment on River Engineering & Basin Management.docx -> E:\Downloadsx\Documents\MD. FARHAN SHAHRIAR 2210010 - Assignment on River Engineering & Basin Management.docx
+2025-11-03 01:19:30,430 | INFO | Moved: merakist-CNbRsQj8mHQ-unsplash.jpg -> E:\Downloadsx\Images\merakist-CNbRsQj8mHQ-unsplash.jpg
+2025-11-03 01:19:30,430 | INFO | Moved: merged (1).pdf -> E:\Downloadsx\Documents\merged (1).pdf
+2025-11-03 01:19:30,432 | INFO | Moved: merged-final.pdf -> E:\Downloadsx\Documents\merged-final.pdf
+2025-11-03 01:19:30,433 | INFO | Moved: merged.pdf -> E:\Downloadsx\Documents\merged.pdf
+2025-11-03 01:19:30,435 | INFO | Moved: Microsoft Sticky Notes Installer.exe -> E:\Downloadsx\Installers\Microsoft Sticky Notes Installer.exe
+2025-11-03 01:19:30,436 | INFO | Moved: mingw-get-setup.exe -> E:\Downloadsx\Installers\mingw-get-setup.exe
+2025-11-03 01:19:30,436 | INFO | Moved: modern-landing-page-main.zip -> E:\Downloadsx\Archives\modern-landing-page-main.zip
+2025-11-03 01:19:30,437 | INFO | Moved: money_receipt.pdf -> E:\Downloadsx\Documents\money_receipt.pdf
+2025-11-03 01:19:30,439 | INFO | Moved: mongodb-compass-1.44.3-win32-x64.exe -> E:\Downloadsx\Installers\mongodb-compass-1.44.3-win32-x64.exe
+2025-11-03 01:19:30,440 | INFO | Moved: mongodb-svgrepo-com.svg -> E:\Downloadsx\Images\mongodb-svgrepo-com.svg
+2025-11-03 01:19:30,441 | INFO | Moved: mongodb-windows-x86_64-7.0.14-signed.msi -> E:\Downloadsx\Installers\LargeFiles\mongodb-windows-x86_64-7.0.14-signed.msi
+2025-11-03 01:19:30,442 | INFO | Moved: MontserratExtrabold-qZ7Rx.otf -> E:\Downloadsx\Others\MontserratExtrabold-qZ7Rx.otf
+2025-11-03 01:19:30,442 | INFO | Moved: moody-food-restaurant-concept-mock-up.zip -> E:\Downloadsx\Archives\moody-food-restaurant-concept-mock-up.zip
+2025-11-03 01:19:30,443 | INFO | Moved: moonhouse-font.zip -> E:\Downloadsx\Archives\moonhouse-font.zip
+2025-11-03 01:19:30,445 | INFO | Moved: MovaviVideoConverterSetupF_W9yvqv1_.exe -> E:\Downloadsx\Installers\MovaviVideoConverterSetupF_W9yvqv1_.exe
+2025-11-03 01:19:30,446 | INFO | Moved: msys2-x86_64-20240113.exe -> E:\Downloadsx\Installers\msys2-x86_64-20240113.exe
+2025-11-03 01:19:30,447 | INFO | Moved: Mynuddin-chisty-resume.pdf -> E:\Downloadsx\Documents\Mynuddin-chisty-resume.pdf
+2025-11-03 01:19:30,448 | INFO | Moved: nano-banana-2025-09-17T18-30-19.png -> E:\Downloadsx\Images\nano-banana-2025-09-17T18-30-19.png
+2025-11-03 01:19:30,449 | INFO | Moved: NayyarShaikh-Blog2025.zip -> E:\Downloadsx\Archives\NayyarShaikh-Blog2025.zip
+2025-11-03 01:19:30,450 | INFO | Moved: NayyarShaikh-eComm2022.zip -> E:\Downloadsx\Archives\NayyarShaikh-eComm2022.zip
+2025-11-03 01:19:30,451 | INFO | Moved: New Portfolio 2.zip -> E:\Downloadsx\Archives\New Portfolio 2.zip
+2025-11-03 01:19:30,453 | INFO | Moved: New Portfolio.zip -> E:\Downloadsx\Archives\New Portfolio.zip
+2025-11-03 01:19:30,455 | INFO | Moved: new_nid_form_2.pdf -> E:\Downloadsx\Documents\new_nid_form_2.pdf
+2025-11-03 01:19:30,456 | INFO | Moved: next-blog-main.zip -> E:\Downloadsx\Archives\next-blog-main.zip
+2025-11-03 01:19:30,457 | INFO | Moved: next-e-commerce-master.zip -> E:\Downloadsx\Archives\next-e-commerce-master.zip
+2025-11-03 01:19:30,458 | INFO | Moved: next-ecommerce-shopco-main.zip -> E:\Downloadsx\Archives\next-ecommerce-shopco-main.zip
+2025-11-03 01:19:30,459 | INFO | Moved: next.svg -> E:\Downloadsx\Images\next.svg
+2025-11-03 01:19:30,461 | INFO | Moved: nextjs-ecommerce-template-main.zip -> E:\Downloadsx\Archives\nextjs-ecommerce-template-main.zip
+2025-11-03 01:19:30,462 | INFO | Moved: nimbus-keyboards-main.zip -> E:\Downloadsx\Archives\nimbus-keyboards-main.zip
+2025-11-03 01:19:30,463 | INFO | Moved: node-express-course-main.zip -> E:\Downloadsx\Archives\node-express-course-main.zip
+2025-11-03 01:19:30,464 | INFO | Moved: node-v20.11.1-x64.msi -> E:\Downloadsx\Installers\node-v20.11.1-x64.msi
+2025-11-03 01:19:30,465 | INFO | Moved: node-v22.17.1-x64.msi -> E:\Downloadsx\Installers\node-v22.17.1-x64.msi
+2025-11-03 01:19:30,466 | INFO | Moved: nodejs-svgrepo-com.svg -> E:\Downloadsx\Images\nodejs-svgrepo-com.svg
+2025-11-03 01:19:30,468 | INFO | Moved: NotebookLM Mind Map (1).png -> E:\Downloadsx\Images\NotebookLM Mind Map (1).png
+2025-11-03 01:19:30,469 | INFO | Moved: NotebookLM Mind Map (2).png -> E:\Downloadsx\Images\NotebookLM Mind Map (2).png
+2025-11-03 01:19:30,469 | INFO | Moved: NotebookLM Mind Map (3).png -> E:\Downloadsx\Images\NotebookLM Mind Map (3).png
+2025-11-03 01:19:30,470 | INFO | Moved: NotebookLM Mind Map (4).png -> E:\Downloadsx\Images\NotebookLM Mind Map (4).png
+2025-11-03 01:19:30,471 | INFO | Moved: NotebookLM Mind Map.png -> E:\Downloadsx\Images\NotebookLM Mind Map.png
+2025-11-03 01:19:30,471 | INFO | Moved: NoteGPT_MindMap_1751749718731.png -> E:\Downloadsx\Images\NoteGPT_MindMap_1751749718731.png
+2025-11-03 01:19:30,472 | INFO | Moved: NoteGPT_MindMap_1754576470237.png -> E:\Downloadsx\Images\NoteGPT_MindMap_1754576470237.png
+2025-11-03 01:19:30,474 | INFO | Moved: Notion Setup 3.1.0.exe -> E:\Downloadsx\Installers\Notion Setup 3.1.0.exe
+2025-11-03 01:19:30,476 | INFO | Moved: Obsidian.1.5.12.exe -> E:\Downloadsx\Installers\Obsidian.1.5.12.exe
+2025-11-03 01:19:30,477 | INFO | Moved: Obyss-Agency-main.zip -> E:\Downloadsx\Archives\Obyss-Agency-main.zip
+2025-11-03 01:19:30,477 | INFO | Moved: OOP.zip -> E:\Downloadsx\Archives\OOP.zip
+2025-11-03 01:19:30,479 | INFO | Moved: OperaGXSetup.exe -> E:\Downloadsx\Installers\OperaGXSetup.exe
+2025-11-03 01:19:30,480 | INFO | Moved: OQ71WM0.jpg -> E:\Downloadsx\Images\OQ71WM0.jpg
+2025-11-03 01:19:30,482 | INFO | Moved: page-animation-ft-juice-main.zip -> E:\Downloadsx\Archives\page-animation-ft-juice-main.zip
+2025-11-03 01:19:30,483 | INFO | Moved: parallex-website-02-main.zip -> E:\Downloadsx\Archives\parallex-website-02-main.zip
+2025-11-03 01:19:30,483 | INFO | Moved: pexels-cesarperez209-733745 (1).jpg -> E:\Downloadsx\Images\pexels-cesarperez209-733745 (1).jpg
+2025-11-03 01:19:30,484 | INFO | Moved: pexels-cesarperez209-733745.jpg -> E:\Downloadsx\Images\pexels-cesarperez209-733745.jpg
+2025-11-03 01:19:30,485 | INFO | Moved: pexels-cesarperez209-762911.jpg -> E:\Downloadsx\Images\pexels-cesarperez209-762911.jpg
+2025-11-03 01:19:30,486 | INFO | Moved: Pic.xyz-20250804T170040Z-1-001.zip -> E:\Downloadsx\Archives\Pic.xyz-20250804T170040Z-1-001.zip
+2025-11-03 01:19:30,489 | INFO | Moved: PiXO (1).png -> E:\Downloadsx\Images\PiXO (1).png
+2025-11-03 01:19:30,490 | INFO | Moved: PiXO.png -> E:\Downloadsx\Images\PiXO.png
+2025-11-03 01:19:30,491 | INFO | Moved: plan 2.pdf -> E:\Downloadsx\Documents\plan 2.pdf
+2025-11-03 01:19:30,491 | INFO | Moved: platformlift_for_disabled_people.dwg -> E:\Downloadsx\Others\platformlift_for_disabled_people.dwg
+2025-11-03 01:19:30,492 | INFO | Moved: pm-ec2-keypair.pem -> E:\Downloadsx\Others\pm-ec2-keypair.pem
+2025-11-03 01:19:30,493 | INFO | Moved: png2pdf (1).pdf -> E:\Downloadsx\Documents\png2pdf (1).pdf
+2025-11-03 01:19:30,494 | INFO | Moved: png2pdf (2).pdf -> E:\Downloadsx\Documents\png2pdf (2).pdf
+2025-11-03 01:19:30,496 | INFO | Moved: png2pdf (3).pdf -> E:\Downloadsx\Documents\png2pdf (3).pdf
+2025-11-03 01:19:30,497 | INFO | Moved: png2pdf (4).pdf -> E:\Downloadsx\Documents\png2pdf (4).pdf
+2025-11-03 01:19:30,498 | INFO | Moved: png2pdf (5).pdf -> E:\Downloadsx\Documents\png2pdf (5).pdf
+2025-11-03 01:19:30,498 | INFO | Moved: png2pdf.pdf -> E:\Downloadsx\Documents\png2pdf.pdf
+2025-11-03 01:19:30,499 | INFO | Moved: PngItem_3722143.png -> E:\Downloadsx\Images\PngItem_3722143.png
+2025-11-03 01:19:30,501 | INFO | Moved: PngItem_985756.png -> E:\Downloadsx\Images\PngItem_985756.png
+2025-11-03 01:19:30,503 | INFO | Moved: portfolio-main.zip -> E:\Downloadsx\Archives\portfolio-main.zip
+2025-11-03 01:19:30,504 | INFO | Moved: portfolio-master (1).zip -> E:\Downloadsx\Archives\portfolio-master (1).zip
+2025-11-03 01:19:30,505 | INFO | Moved: portfolio-master.zip -> E:\Downloadsx\Archives\portfolio-master.zip
+2025-11-03 01:19:30,505 | INFO | Moved: portfolio.zip -> E:\Downloadsx\Archives\portfolio.zip
+2025-11-03 01:19:30,506 | INFO | Moved: PortfolioBut3D-main.zip -> E:\Downloadsx\Archives\PortfolioBut3D-main.zip
+2025-11-03 01:19:30,507 | INFO | Moved: Poster-1.jpg -> E:\Downloadsx\Images\Poster-1.jpg
+2025-11-03 01:19:30,509 | INFO | Moved: Poster-2.jpg -> E:\Downloadsx\Images\Poster-2.jpg
+2025-11-03 01:19:30,510 | INFO | Moved: Poster-3.jpg -> E:\Downloadsx\Images\Poster-3.jpg
+2025-11-03 01:19:30,511 | INFO | Moved: Poster-4.jpg -> E:\Downloadsx\Images\Poster-4.jpg
+2025-11-03 01:19:30,512 | INFO | Moved: Poster.pdf -> E:\Downloadsx\Documents\Poster.pdf
+2025-11-03 01:19:30,513 | INFO | Moved: postgresql-17.6-1-windows-x64.exe -> E:\Downloadsx\Installers\postgresql-17.6-1-windows-x64.exe
+2025-11-03 01:19:30,515 | INFO | Moved: Postman-win64-Setup.exe -> E:\Downloadsx\Installers\Postman-win64-Setup.exe
+2025-11-03 01:19:30,516 | INFO | Moved: preview_OptiFine_1.21_HD_U_J1_pre9.jar -> E:\Downloadsx\Others\preview_OptiFine_1.21_HD_U_J1_pre9.jar
+2025-11-03 01:19:30,517 | INFO | Moved: prisma-svgrepo-com.svg -> E:\Downloadsx\Images\prisma-svgrepo-com.svg
+2025-11-03 01:19:30,517 | INFO | Moved: Professional Web Designer - Made with PosterMyWall.jpg -> E:\Downloadsx\Images\Professional Web Designer - Made with PosterMyWall.jpg
+2025-11-03 01:19:30,518 | INFO | Moved: profile.jpeg -> E:\Downloadsx\Images\profile.jpeg
+2025-11-03 01:19:30,519 | INFO | Moved: profile.jpg -> E:\Downloadsx\Images\profile.jpg
+2025-11-03 01:19:30,520 | INFO | Moved: Profile.pdf -> E:\Downloadsx\Documents\Profile.pdf
+2025-11-03 01:19:30,521 | INFO | Moved: programming-exam-platform.zip -> E:\Downloadsx\Archives\programming-exam-platform.zip
+2025-11-03 01:19:30,523 | INFO | Moved: project-bolt-sb1-6bjv7has.zip -> E:\Downloadsx\Archives\project-bolt-sb1-6bjv7has.zip
+2025-11-03 01:19:30,524 | INFO | Moved: project-management-master.zip -> E:\Downloadsx\Archives\project-management-master.zip
+2025-11-03 01:19:30,524 | INFO | Moved: Projects-for-Instagram-main.zip -> E:\Downloadsx\Archives\Projects-for-Instagram-main.zip
+2025-11-03 01:19:30,525 | INFO | Moved: Promo-1.mp4 -> E:\Downloadsx\Videos\Promo-1.mp4
+2025-11-03 01:19:30,526 | INFO | Moved: Promo.mp4 -> E:\Downloadsx\Videos\Promo.mp4
+2025-11-03 01:19:30,527 | INFO | Moved: Pure Advantage Theory (Dominick Salvatore).pdf -> E:\Downloadsx\Documents\Pure Advantage Theory (Dominick Salvatore).pdf
+2025-11-03 01:19:30,528 | INFO | Moved: python-3.12.6-amd64.exe -> E:\Downloadsx\Installers\python-3.12.6-amd64.exe
+2025-11-03 01:19:30,529 | INFO | Moved: python-svgrepo-com.svg -> E:\Downloadsx\Images\python-svgrepo-com.svg
+2025-11-03 01:19:30,531 | INFO | Moved: Python_ChapterWise_Notes.zip -> E:\Downloadsx\Archives\Python_ChapterWise_Notes.zip
+2025-11-03 01:19:30,532 | INFO | Moved: qbittorrent_4.6.7_x64_setup.exe -> E:\Downloadsx\Installers\qbittorrent_4.6.7_x64_setup.exe
+2025-11-03 01:19:30,533 | INFO | Moved: qbittorrent_5.0.0_x64_setup.exe -> E:\Downloadsx\Installers\qbittorrent_5.0.0_x64_setup.exe
+2025-11-03 01:19:30,533 | INFO | Moved: qualifying_appointment_requests_with_ai___n8n_forms.json -> E:\Downloadsx\Others\qualifying_appointment_requests_with_ai___n8n_forms.json
+2025-11-03 01:19:30,534 | INFO | Moved: qualify_new_leads_in_google_sheets_via_openai_s_gpt_4.json -> E:\Downloadsx\Others\qualify_new_leads_in_google_sheets_via_openai_s_gpt_4.json
+2025-11-03 01:19:30,536 | INFO | Moved: qualify_replies_from_pipedrive_persons_with_ai.json -> E:\Downloadsx\Others\qualify_replies_from_pipedrive_persons_with_ai.json
+2025-11-03 01:19:30,538 | INFO | Moved: quick_chat-main.zip -> E:\Downloadsx\Archives\quick_chat-main.zip
+2025-11-03 01:19:30,539 | INFO | Moved: Quiz(2210010).ipynb -> E:\Downloadsx\Others\Quiz(2210010).ipynb
+2025-11-03 01:19:30,539 | INFO | Moved: react-bangla-tutorial-01.pdf -> E:\Downloadsx\Documents\react-bangla-tutorial-01.pdf
+2025-11-03 01:19:30,540 | INFO | Moved: react-javascript-js-framework-facebook-svgrepo-com.svg -> E:\Downloadsx\Images\react-javascript-js-framework-facebook-svgrepo-com.svg
+2025-11-03 01:19:30,541 | INFO | Moved: react-parallax-main.zip -> E:\Downloadsx\Archives\react-parallax-main.zip
+2025-11-03 01:19:30,542 | INFO | Moved: react-rest-countries-main.zip -> E:\Downloadsx\Archives\react-rest-countries-main.zip
+2025-11-03 01:19:30,544 | INFO | Moved: React-Theme-Switcher-Note.md -> E:\Downloadsx\Others\React-Theme-Switcher-Note.md
+2025-11-03 01:19:30,545 | INFO | Moved: README.md -> E:\Downloadsx\Others\README.md
+2025-11-03 01:19:30,546 | INFO | Moved: receipt_46.pdf -> E:\Downloadsx\Documents\receipt_46.pdf
+2025-11-03 01:19:30,547 | INFO | Moved: Remote Job Prep - 2025.pdf -> E:\Downloadsx\Documents\Remote Job Prep - 2025.pdf
+2025-11-03 01:19:30,547 | INFO | Moved: Resume (2).pdf -> E:\Downloadsx\Documents\Resume (2).pdf
+2025-11-03 01:19:30,548 | INFO | Moved: Resume for Raintor LTD.pdf -> E:\Downloadsx\Documents\Resume for Raintor LTD.pdf
+2025-11-03 01:19:30,550 | INFO | Moved: resume.pdf -> E:\Downloadsx\Documents\resume.pdf
+2025-11-03 01:19:30,551 | INFO | Moved: revosetup.exe -> E:\Downloadsx\Installers\revosetup.exe
+2025-11-03 01:19:30,552 | INFO | Moved: RK_Keyboard_Software_Setup_V4.5 20240718.exe -> E:\Downloadsx\Installers\RK_Keyboard_Software_Setup_V4.5 20240718.exe
+2025-11-03 01:19:30,553 | INFO | Moved: rnext-assignment-1-batch-3.zip -> E:\Downloadsx\Archives\rnext-assignment-1-batch-3.zip
+2025-11-03 01:19:30,554 | INFO | Moved: rnext-assignment-2-batch-3.zip -> E:\Downloadsx\Archives\rnext-assignment-2-batch-3.zip
+2025-11-03 01:19:30,555 | INFO | Moved: Rolex.png.png -> E:\Downloadsx\Images\Rolex.png.png
+2025-11-03 01:19:30,556 | INFO | Moved: rpc_15_input_file.zip -> E:\Downloadsx\Archives\rpc_15_input_file.zip
+2025-11-03 01:19:30,558 | INFO | Moved: Sales Project Kickoff (1).png -> E:\Downloadsx\Images\Sales Project Kickoff (1).png
+2025-11-03 01:19:30,559 | INFO | Moved: Sales Project Kickoff.png -> E:\Downloadsx\Images\Sales Project Kickoff.png
+2025-11-03 01:19:30,560 | INFO | Moved: Screenshot 2025-02-04 200247.png -> E:\Downloadsx\Images\Screenshot 2025-02-04 200247.png
+2025-11-03 01:19:30,561 | INFO | Moved: Screenshot 2025-02-04 200301.png -> E:\Downloadsx\Images\Screenshot 2025-02-04 200301.png
+2025-11-03 01:19:30,562 | INFO | Moved: Screenshot 2025-02-04 200639.png -> E:\Downloadsx\Images\Screenshot 2025-02-04 200639.png
+2025-11-03 01:19:30,562 | INFO | Moved: Screenshot 2025-02-13 233236.png -> E:\Downloadsx\Images\Screenshot 2025-02-13 233236.png
+2025-11-03 01:19:30,564 | INFO | Moved: Screenshot 2025-02-13 233242.png -> E:\Downloadsx\Images\Screenshot 2025-02-13 233242.png
+2025-11-03 01:19:30,566 | INFO | Moved: Screenshot 2025-02-13 233248.png -> E:\Downloadsx\Images\Screenshot 2025-02-13 233248.png
+2025-11-03 01:19:30,567 | INFO | Moved: Screenshot 2025-02-13 233254.png -> E:\Downloadsx\Images\Screenshot 2025-02-13 233254.png
+2025-11-03 01:19:30,567 | INFO | Moved: Screenshot 2025-02-13 233259.png -> E:\Downloadsx\Images\Screenshot 2025-02-13 233259.png
+2025-11-03 01:19:30,568 | INFO | Moved: Screenshot 2025-02-13 235649 (1).png -> E:\Downloadsx\Images\Screenshot 2025-02-13 235649 (1).png
+2025-11-03 01:19:30,569 | INFO | Moved: Screenshot 2025-02-13 235649.png -> E:\Downloadsx\Images\Screenshot 2025-02-13 235649.png
+2025-11-03 01:19:30,570 | INFO | Moved: Screenshot 2025-07-02 223657.pdf -> E:\Downloadsx\Documents\Screenshot 2025-07-02 223657.pdf
+2025-11-03 01:19:30,571 | INFO | Moved: Screenshot 2025-10-09 211252.pdf -> E:\Downloadsx\Documents\Screenshot 2025-10-09 211252.pdf
+2025-11-03 01:19:30,572 | INFO | Moved: Select property type- Landlord(owner of the property) (1).jpg -> E:\Downloadsx\Images\Select property type- Landlord(owner of the property) (1).jpg
+2025-11-03 01:19:30,573 | INFO | Moved: Select property type- Landlord(owner of the property).jpg -> E:\Downloadsx\Images\Select property type- Landlord(owner of the property).jpg
+2025-11-03 01:19:30,574 | INFO | Moved: set-space-games.zip -> E:\Downloadsx\Archives\set-space-games.zip
+2025-11-03 01:19:30,575 | INFO | Moved: setup_avrokeyboard_5.6.0.exe -> E:\Downloadsx\Installers\setup_avrokeyboard_5.6.0.exe
+2025-11-03 01:19:30,575 | INFO | Moved: ShohidTahmidTamin.zip -> E:\Downloadsx\Archives\ShohidTahmidTamin.zip
+2025-11-03 01:19:30,576 | INFO | Moved: signature.png -> E:\Downloadsx\Images\signature.png
+2025-11-03 01:19:30,578 | INFO | Moved: Slide-2 (DC generator).pptx -> E:\Downloadsx\Documents\Slide-2 (DC generator).pptx
+2025-11-03 01:19:30,579 | INFO | Moved: sofa-5-svgrepo-com.svg -> E:\Downloadsx\Images\sofa-5-svgrepo-com.svg
+2025-11-03 01:19:30,580 | INFO | Moved: solar-system-science-education.zip -> E:\Downloadsx\Archives\solar-system-science-education.zip
+2025-11-03 01:19:30,581 | INFO | Moved: space-portfolio-main.zip -> E:\Downloadsx\Archives\space-portfolio-main.zip
+2025-11-03 01:19:30,582 | INFO | Moved: stairs_dynamic_blocks.dwg -> E:\Downloadsx\Others\stairs_dynamic_blocks.dwg
+2025-11-03 01:19:30,582 | INFO | Moved: Startup Launch Checklist_ Solo Tech Agency (Web, AI, UI_UX).pdf -> E:\Downloadsx\Documents\Startup Launch Checklist_ Solo Tech Agency (Web, AI, UI_UX).pdf
+2025-11-03 01:19:30,583 | INFO | Moved: Statamic_Laravel Developer assessment (1) (1).pdf -> E:\Downloadsx\Documents\Statamic_Laravel Developer assessment (1) (1).pdf
+2025-11-03 01:19:30,585 | INFO | Moved: STATISTICS_A_comprehensive_text_book_Abhijit_Kumar_Misra,_Barbara.pdf -> E:\Downloadsx\Documents\STATISTICS_A_comprehensive_text_book_Abhijit_Kumar_Misra,_Barbara.pdf
+2025-11-03 01:19:30,587 | INFO | Moved: SteamSetup (1).exe -> E:\Downloadsx\Installers\SteamSetup (1).exe
+2025-11-03 01:19:30,588 | INFO | Moved: SteamSetup (2).exe -> E:\Downloadsx\Installers\SteamSetup (2).exe
+2025-11-03 01:19:30,589 | INFO | Moved: SteamSetup.exe -> E:\Downloadsx\Installers\SteamSetup.exe
+2025-11-03 01:19:30,590 | INFO | Moved: stream-336303_lsd.m3u8 -> E:\Downloadsx\Others\stream-336303_lsd.m3u8
+2025-11-03 01:19:30,592 | INFO | Moved: stream-499765_lhd.m3u8 -> E:\Downloadsx\Others\stream-499765_lhd.m3u8
+2025-11-03 01:19:30,593 | INFO | Moved: suburbia-main.zip -> E:\Downloadsx\Archives\suburbia-main.zip
+2025-11-03 01:19:30,595 | INFO | Moved: Surveying Instrument.docx -> E:\Downloadsx\Documents\Surveying Instrument.docx
+2025-11-03 01:19:30,595 | INFO | Moved: sus-tire.vercel.app_ (1).png -> E:\Downloadsx\Images\sus-tire.vercel.app_ (1).png
+2025-11-03 01:19:30,596 | INFO | Moved: sus-tire.vercel.app_.png -> E:\Downloadsx\Images\sus-tire.vercel.app_.png
+2025-11-03 01:19:30,597 | INFO | Moved: SusTire.png -> E:\Downloadsx\Images\SusTire.png
+2025-11-03 01:19:30,598 | INFO | Moved: System Design.pdf -> E:\Downloadsx\Documents\System Design.pdf
+2025-11-03 01:19:30,599 | INFO | Moved: tailwind-landing-page-master.zip -> E:\Downloadsx\Archives\tailwind-landing-page-master.zip
+2025-11-03 01:19:30,600 | INFO | Moved: text-1757597137273.png -> E:\Downloadsx\Images\text-1757597137273.png
+2025-11-03 01:19:30,601 | INFO | Moved: text-1757597301318.png -> E:\Downloadsx\Images\text-1757597301318.png
+2025-11-03 01:19:30,602 | INFO | Moved: The-Art-of-Thinking-Clearly.pdf -> E:\Downloadsx\Documents\The-Art-of-Thinking-Clearly.pdf
+2025-11-03 01:19:30,603 | INFO | Moved: The_Duolingo_Handbook.pdf -> E:\Downloadsx\Documents\The_Duolingo_Handbook.pdf
+2025-11-03 01:19:30,604 | INFO | Moved: TO-DO-1.pdf -> E:\Downloadsx\Documents\TO-DO-1.pdf
+2025-11-03 01:19:30,606 | INFO | Moved: toa-heftiba-6bKpHAun4d8-unsplash.jpg -> E:\Downloadsx\Images\toa-heftiba-6bKpHAun4d8-unsplash.jpg
+2025-11-03 01:19:30,607 | INFO | Moved: u854129678_walton.sql -> E:\Downloadsx\Others\u854129678_walton.sql
+2025-11-03 01:19:30,609 | INFO | Moved: UbisoftConnectInstaller.exe -> E:\Downloadsx\Installers\UbisoftConnectInstaller.exe
+2025-11-03 01:19:30,610 | INFO | Moved: undefined_You_are_a_seasoned_d.png -> E:\Downloadsx\Images\undefined_You_are_a_seasoned_d.png
+2025-11-03 01:19:30,611 | INFO | Moved: uninstall.exe -> E:\Downloadsx\Installers\uninstall.exe
+2025-11-03 01:19:30,613 | INFO | Moved: unnamed.jpg -> E:\Downloadsx\Images\unnamed.jpg
+2025-11-03 01:19:30,614 | INFO | Moved: Untitled document.docx -> E:\Downloadsx\Documents\Untitled document.docx
+2025-11-03 01:19:30,615 | INFO | Moved: Untitled Project (1).zip -> E:\Downloadsx\Archives\Untitled Project (1).zip
+2025-11-03 01:19:30,616 | INFO | Moved: Untitled Project - Artboard 1.png -> E:\Downloadsx\Images\Untitled Project - Artboard 1.png
+2025-11-03 01:19:30,616 | INFO | Moved: Untitled Project - Frost Tactical Sphere - Gaming.png -> E:\Downloadsx\Images\Untitled Project - Frost Tactical Sphere - Gaming.png
+2025-11-03 01:19:30,617 | INFO | Moved: Untitled Project - Stars - Minimal Digital Media.png -> E:\Downloadsx\Images\Untitled Project - Stars - Minimal Digital Media.png
+2025-11-03 01:19:30,618 | INFO | Moved: Untitled Project.png -> E:\Downloadsx\Images\Untitled Project.png
+2025-11-03 01:19:30,620 | INFO | Moved: Untitled Project.zip -> E:\Downloadsx\Archives\Untitled Project.zip
+2025-11-03 01:19:30,621 | INFO | Moved: Untitled Project_transparent_Craiyon.png -> E:\Downloadsx\Images\Untitled Project_transparent_Craiyon.png
+2025-11-03 01:19:30,622 | INFO | Moved: Untitled spreadsheet - Sheet1 (1).pdf -> E:\Downloadsx\Documents\Untitled spreadsheet - Sheet1 (1).pdf
+2025-11-03 01:19:30,623 | INFO | Moved: Untitled spreadsheet - Sheet1.pdf -> E:\Downloadsx\Documents\Untitled spreadsheet - Sheet1.pdf
+2025-11-03 01:19:30,624 | INFO | Moved: Untitled video - Made with Clipchamp.mp4 -> E:\Downloadsx\Videos\Untitled video - Made with Clipchamp.mp4
+2025-11-03 01:19:30,624 | INFO | Moved: Untitled-1 (1) (1).png -> E:\Downloadsx\Images\Untitled-1 (1) (1).png
+2025-11-03 01:19:30,626 | INFO | Moved: Untitled-1 (1).png -> E:\Downloadsx\Images\Untitled-1 (1).png
+2025-11-03 01:19:30,627 | INFO | Moved: Untitled-1.png -> E:\Downloadsx\Images\Untitled-1.png
+2025-11-03 01:19:30,628 | INFO | Moved: Untitled-111 (1).png -> E:\Downloadsx\Images\Untitled-111 (1).png
+2025-11-03 01:19:30,629 | INFO | Moved: Untitled-111.png -> E:\Downloadsx\Images\Untitled-111.png
+2025-11-03 01:19:30,630 | INFO | Moved: Untitled-2025-08-09-1913.excalidraw -> E:\Downloadsx\Others\Untitled-2025-08-09-1913.excalidraw
+2025-11-03 01:19:30,630 | INFO | Moved: Untitled-s1.jpg -> E:\Downloadsx\Images\Untitled-s1.jpg
+2025-11-03 01:19:30,631 | INFO | Moved: Untitled-s11.jpg -> E:\Downloadsx\Images\Untitled-s11.jpg
+2025-11-03 01:19:30,632 | INFO | Moved: Untitled.fig -> E:\Downloadsx\Others\Untitled.fig
+2025-11-03 01:19:30,633 | INFO | Moved: Untitled.md -> E:\Downloadsx\Others\Untitled.md
+2025-11-03 01:19:30,635 | INFO | Moved: Untitled_Project_-_Stars_-_Minimal_Digital_Media-removebg.png -> E:\Downloadsx\Images\Untitled_Project_-_Stars_-_Minimal_Digital_Media-removebg.png
+2025-11-03 01:19:30,635 | INFO | Moved: use_ai_to_organize_your_todoist_inbox.json -> E:\Downloadsx\Others\use_ai_to_organize_your_todoist_inbox.json
+2025-11-03 01:19:30,636 | INFO | Moved: vercel.svg.png -> E:\Downloadsx\Images\vercel.svg.png
+2025-11-03 01:19:30,637 | INFO | Moved: Verify Files.bat -> E:\Downloadsx\Others\Verify Files.bat
+2025-11-03 01:19:30,637 | INFO | Moved: vibecode-playground-master.zip -> E:\Downloadsx\Archives\vibecode-playground-master.zip
+2025-11-03 01:19:30,638 | INFO | Moved: vMtNVt0P(1).txt -> E:\Downloadsx\Documents\vMtNVt0P(1).txt
+2025-11-03 01:19:30,639 | INFO | Moved: vMtNVt0P.txt -> E:\Downloadsx\Documents\vMtNVt0P.txt
+2025-11-03 01:19:30,641 | INFO | Moved: VSCodeUserSetup-x64-1.84.2.exe -> E:\Downloadsx\Installers\VSCodeUserSetup-x64-1.84.2.exe
+2025-11-03 01:19:30,642 | INFO | Moved: VTRL.exe -> E:\Downloadsx\Installers\VTRL.exe
+2025-11-03 01:19:30,643 | INFO | Moved: VTRL_2.2.8_x64-setup.exe -> E:\Downloadsx\Installers\VTRL_2.2.8_x64-setup.exe
+2025-11-03 01:19:30,644 | INFO | Moved: wallpaperflare.com_wallpaper(2).jpg -> E:\Downloadsx\Images\wallpaperflare.com_wallpaper(2).jpg
+2025-11-03 01:19:30,645 | INFO | Moved: wallpaperflare.com_wallpaper(6).jpg -> E:\Downloadsx\Images\wallpaperflare.com_wallpaper(6).jpg
+2025-11-03 01:19:30,645 | INFO | Moved: wallpaperflare.com_wallpaper(8).jpg -> E:\Downloadsx\Images\wallpaperflare.com_wallpaper(8).jpg
+2025-11-03 01:19:30,647 | INFO | Moved: wallpaperflare.com_wallpaper.jpg -> E:\Downloadsx\Images\wallpaperflare.com_wallpaper.jpg
+2025-11-03 01:19:30,648 | INFO | Moved: Web Dev Agency Launch Playbook (step‑by‑step).pdf -> E:\Downloadsx\Documents\Web Dev Agency Launch Playbook (step‑by‑step).pdf
+2025-11-03 01:19:30,650 | INFO | Moved: Web Dev Syllabus (1).pdf -> E:\Downloadsx\Documents\Web Dev Syllabus (1).pdf
+2025-11-03 01:19:30,651 | INFO | Moved: Website Project Plan - CorbleyCo Robot Sales.docx -> E:\Downloadsx\Documents\Website Project Plan - CorbleyCo Robot Sales.docx
+2025-11-03 01:19:30,651 | INFO | Moved: Welcome to NEXITE.pdf -> E:\Downloadsx\Documents\Welcome to NEXITE.pdf
+2025-11-03 01:19:30,652 | INFO | Moved: WhatsApp Image 2024-10-15 at 23.36.59_218315eb.jpg -> E:\Downloadsx\Images\WhatsApp Image 2024-10-15 at 23.36.59_218315eb.jpg
+2025-11-03 01:19:30,654 | INFO | Moved: WhatsApp Image 2024-10-15 at 23.37.00_64e7f586.jpg -> E:\Downloadsx\Images\WhatsApp Image 2024-10-15 at 23.37.00_64e7f586.jpg
+2025-11-03 01:19:30,655 | INFO | Moved: WhatsApp Image 2025-01-13 at 16.30.49_6ad556d7.jpg -> E:\Downloadsx\Images\WhatsApp Image 2025-01-13 at 16.30.49_6ad556d7.jpg
+2025-11-03 01:19:30,656 | INFO | Moved: WhatsApp Image 2025-07-06 at 19.07.17_ae7d8e99.jpg -> E:\Downloadsx\Images\WhatsApp Image 2025-07-06 at 19.07.17_ae7d8e99.jpg
+2025-11-03 01:19:30,657 | INFO | Moved: WhatsApp Image 2025-07-06 at 19.07.18_0100a147.jpg -> E:\Downloadsx\Images\WhatsApp Image 2025-07-06 at 19.07.18_0100a147.jpg
+2025-11-03 01:19:30,658 | INFO | Moved: WhatsApp Image 2025-07-21 at 10.30.32_8cadf663.jpg -> E:\Downloadsx\Images\WhatsApp Image 2025-07-21 at 10.30.32_8cadf663.jpg
+2025-11-03 01:19:30,659 | INFO | Moved: WhatsApp Image 2025-10-16 at 20.05.47_82a816ad.jpg -> E:\Downloadsx\Images\WhatsApp Image 2025-10-16 at 20.05.47_82a816ad.jpg
+2025-11-03 01:19:30,660 | INFO | Moved: wiztree_4_25_setup.exe -> E:\Downloadsx\Installers\wiztree_4_25_setup.exe
+2025-11-03 01:19:30,662 | INFO | Moved: woostify.2.3.7 (1).zip -> E:\Downloadsx\Archives\woostify.2.3.7 (1).zip
+2025-11-03 01:19:30,663 | INFO | Moved: Wordpress.png -> E:\Downloadsx\Images\Wordpress.png
+2025-11-03 01:19:30,664 | INFO | Moved: wp7753575-simple-computer-wallpapers.jpg -> E:\Downloadsx\Images\wp7753575-simple-computer-wallpapers.jpg
+2025-11-03 01:19:30,665 | INFO | Moved: WRE Class Routine 22 (L2T2).pdf -> E:\Downloadsx\Documents\WRE Class Routine 22 (L2T2).pdf
+2025-11-03 01:19:30,672 | INFO | Moved: WRE-104(G-2).csv -> E:\Downloadsx\Others\WRE-104(G-2).csv
+2025-11-03 01:19:30,673 | INFO | Moved: WRE-104(G-2).kml -> E:\Downloadsx\Others\WRE-104(G-2).kml
+2025-11-03 01:19:30,674 | INFO | Moved: wre-new-login.zip -> E:\Downloadsx\Archives\wre-new-login.zip
+2025-11-03 01:19:30,675 | INFO | Moved: wrenotes-master.zip -> E:\Downloadsx\Archives\wrenotes-master.zip
+2025-11-03 01:19:30,677 | INFO | Moved: xampp-windows-x64-8.0.30-0-VS16-installer.exe -> E:\Downloadsx\Installers\xampp-windows-x64-8.0.30-0-VS16-installer.exe
+2025-11-03 01:19:30,678 | INFO | Moved: Yellow and Red Bright and Playful YouTube Thumbnail (1).png -> E:\Downloadsx\Images\Yellow and Red Bright and Playful YouTube Thumbnail (1).png
+2025-11-03 01:19:30,678 | INFO | Moved: Yellow and Red Bright and Playful YouTube Thumbnail.png -> E:\Downloadsx\Images\Yellow and Red Bright and Playful YouTube Thumbnail.png
+2025-11-03 01:19:30,679 | INFO | Moved: ZoomInstallerFull.exe -> E:\Downloadsx\Installers\ZoomInstallerFull.exe
+2025-11-03 01:19:30,680 | INFO | Moved: [TorrentBD]100xDevs - Live 0-100 Complete - Basics to Advanced MERN, Devops, System design cohort 2.0 [Last updated 01-07-2024].torrent -> E:\Downloadsx\Others\[TorrentBD]100xDevs - Live 0-100 Complete - Basics to Advanced MERN, Devops, System design cohort 2.0 [Last updated 01-07-2024].torrent
+2025-11-03 01:19:30,682 | INFO | Moved: [TorrentBD]50 Days React Bootcamp Build 50 Real World React Projects _ Udemy.torrent -> E:\Downloadsx\Others\[TorrentBD]50 Days React Bootcamp Build 50 Real World React Projects _ Udemy.torrent
+2025-11-03 01:19:30,684 | INFO | Moved: [TorrentBD]Adolescence S01 1080p NF WEB-DL DDP 5 1 Atmos DV HDR H 265-TeamSyndicate.torrent -> E:\Downloadsx\Others\[TorrentBD]Adolescence S01 1080p NF WEB-DL DDP 5 1 Atmos DV HDR H 265-TeamSyndicate.torrent
+2025-11-03 01:19:30,684 | INFO | Moved: [TorrentBD]After Effects 2024 _ Pre-Activated _ v24.4.1 Multilingual x64 _ May 2024 - Diakov.torrent -> E:\Downloadsx\Others\[TorrentBD]After Effects 2024 _ Pre-Activated _ v24.4.1 Multilingual x64 _ May 2024 - Diakov.torrent
+2025-11-03 01:19:30,685 | INFO | Moved: [TorrentBD]Algocamp - Backend in Spring Boot by Sanket Singh [Last Updated 032025] (1).torrent -> E:\Downloadsx\Others\[TorrentBD]Algocamp - Backend in Spring Boot by Sanket Singh [Last Updated 032025] (1).torrent
+2025-11-03 01:19:30,686 | INFO | Moved: [TorrentBD]Algocamp - Backend in Spring Boot by Sanket Singh [Last Updated 032025].torrent -> E:\Downloadsx\Others\[TorrentBD]Algocamp - Backend in Spring Boot by Sanket Singh [Last Updated 032025].torrent
+2025-11-03 01:19:30,687 | INFO | Moved: [TorrentBD]Apna College - Delta Batch 1.0 - Full Stack Web Development Course [Complete Course].torrent -> E:\Downloadsx\Others\[TorrentBD]Apna College - Delta Batch 1.0 - Full Stack Web Development Course [Complete Course].torrent
+2025-11-03 01:19:30,689 | INFO | Moved: [TorrentBD]Data Structure and Algorithms Analysis - Job Interview [Update April 2020] _ Udemy.torrent -> E:\Downloadsx\Others\[TorrentBD]Data Structure and Algorithms Analysis - Job Interview [Update April 2020] _ Udemy.torrent
+2025-11-03 01:19:30,691 | INFO | Moved: [TorrentBD]DevOps Beginners to Advanced _ DevOps with Projects - Udemy [Update 22025].torrent -> E:\Downloadsx\Others\[TorrentBD]DevOps Beginners to Advanced _ DevOps with Projects - Udemy [Update 22025].torrent
+2025-11-03 01:19:30,692 | INFO | Moved: [TorrentBD]Dhruv Rathee Academy - How to do a Million Things All At Once.torrent -> E:\Downloadsx\Others\[TorrentBD]Dhruv Rathee Academy - How to do a Million Things All At Once.torrent
+2025-11-03 01:19:30,692 | INFO | Moved: [TorrentBD]Docker and Kubernetes The Complete Guide _ Udemy.torrent -> E:\Downloadsx\Others\[TorrentBD]Docker and Kubernetes The Complete Guide _ Udemy.torrent
+2025-11-03 01:19:30,693 | INFO | Moved: [TorrentBD]Far Cry 5 (v1.4.0.0 - MULTi15) [FitGirl Repack].torrent -> E:\Downloadsx\Others\[TorrentBD]Far Cry 5 (v1.4.0.0 - MULTi15) [FitGirl Repack].torrent
+2025-11-03 01:19:30,694 | INFO | Moved: [TorrentBD]Fiverr Freelancing 2020 Sell Fiverr Gigs Like The Top 1_ -Udemy.torrent -> E:\Downloadsx\Others\[TorrentBD]Fiverr Freelancing 2020 Sell Fiverr Gigs Like The Top 1_ -Udemy.torrent
+2025-11-03 01:19:30,695 | INFO | Moved: [TorrentBD]Grand Theft Auto V GTA 5 v1.0.28021.64 Online - [FitGirl Repack].torrent -> E:\Downloadsx\Others\[TorrentBD]Grand Theft Auto V GTA 5 v1.0.28021.64 Online - [FitGirl Repack].torrent
+2025-11-03 01:19:30,697 | INFO | Moved: [TorrentBD]Harkirat - Open Source Cohort - Essential Training [Last updated 62023].torrent -> E:\Downloadsx\Others\[TorrentBD]Harkirat - Open Source Cohort - Essential Training [Last updated 62023].torrent
+2025-11-03 01:19:30,698 | INFO | Moved: [TorrentBD]JS Mastery - Web Animations Full Course  Build a GTA VI Website & Master GSAP (Last updated 62025).torrent -> E:\Downloadsx\Others\[TorrentBD]JS Mastery - Web Animations Full Course  Build a GTA VI Website & Master GSAP (Last updated 62025).torrent
+2025-11-03 01:19:30,699 | INFO | Moved: [TorrentBD]JsMastery Pro - Ultimate Next js 13 Course [Last updated 102023].torrent -> E:\Downloadsx\Others\[TorrentBD]JsMastery Pro - Ultimate Next js 13 Course [Last updated 102023].torrent
+2025-11-03 01:19:30,700 | INFO | Moved: [TorrentBD]Khadaan 2024 Bengali 1080p CAMRip AAC x264 - Mp4Moviez.torrent -> E:\Downloadsx\Others\[TorrentBD]Khadaan 2024 Bengali 1080p CAMRip AAC x264 - Mp4Moviez.torrent
+2025-11-03 01:19:30,700 | INFO | Moved: [TorrentBD]Machine Learning A-Z™ AI, Python & R + ChatGPT Bonus [2023] [BestSeller] - Udemy [Updated 052023].torrent -> E:\Downloadsx\Others\[TorrentBD]Machine Learning A-Z™ AI, Python & R + ChatGPT Bonus [2023] [BestSeller] - Udemy [Updated 052023].torrent
+2025-11-03 01:19:30,701 | INFO | Moved: [TorrentBD]Master WordPress by building 5 Real-World WordPress Projects - Udemy [82022].torrent -> E:\Downloadsx\Others\[TorrentBD]Master WordPress by building 5 Real-World WordPress Projects - Udemy [82022].torrent
+2025-11-03 01:19:30,703 | INFO | Moved: [TorrentBD]Mathworks Matlab R2016b MacOSX.torrent -> E:\Downloadsx\Others\[TorrentBD]Mathworks Matlab R2016b MacOSX.torrent
+2025-11-03 01:19:30,704 | INFO | Moved: [TorrentBD]NamasteDev – Namaste Frontend System Design [Last Update 2024-8].torrent -> E:\Downloadsx\Others\[TorrentBD]NamasteDev – Namaste Frontend System Design [Last Update 2024-8].torrent
+2025-11-03 01:19:30,706 | INFO | Moved: [TorrentBD]Next js Projects - 3 NextJS projects (Instagram, Google, ) _ Udemy [Updated 62022].torrent -> E:\Downloadsx\Others\[TorrentBD]Next js Projects - 3 NextJS projects (Instagram, Google, ) _ Udemy [Updated 62022].torrent
+2025-11-03 01:19:30,707 | INFO | Moved: [TorrentBD]PEAK [v1.6.b + Online Multiplayer] - [SuperDex Repack].torrent -> E:\Downloadsx\Others\[TorrentBD]PEAK [v1.6.b + Online Multiplayer] - [SuperDex Repack].torrent
+2025-11-03 01:19:30,708 | INFO | Moved: [TorrentBD]React 18 Tutorial and Projects Course (2023) - Udemy [Updated 092023].torrent -> E:\Downloadsx\Others\[TorrentBD]React 18 Tutorial and Projects Course (2023) - Udemy [Updated 092023].torrent
+2025-11-03 01:19:30,709 | INFO | Moved: [TorrentBD]Red Dead Redemption v1.0.40.57107 + Bonus Content [FitGirl Repack].torrent -> E:\Downloadsx\Others\[TorrentBD]Red Dead Redemption v1.0.40.57107 + Bonus Content [FitGirl Repack].torrent
+2025-11-03 01:19:30,711 | INFO | Moved: [TorrentBD]Sanket Singh - Learn Backend from Scratch _ September Batch(1).torrent -> E:\Downloadsx\Others\[TorrentBD]Sanket Singh - Learn Backend from Scratch _ September Batch(1).torrent
+2025-11-03 01:19:30,712 | INFO | Moved: [TorrentBD]Sanket Singh - Learn Backend from Scratch _ September Batch(2).torrent -> E:\Downloadsx\Others\[TorrentBD]Sanket Singh - Learn Backend from Scratch _ September Batch(2).torrent
+2025-11-03 01:19:30,713 | INFO | Moved: [TorrentBD]Sanket Singh - Learn Backend from Scratch _ September Batch.torrent -> E:\Downloadsx\Others\[TorrentBD]Sanket Singh - Learn Backend from Scratch _ September Batch.torrent
+2025-11-03 01:19:30,714 | INFO | Moved: [TorrentBD]SkillShare - UpWork Freelancing Your Guide to Finding Remote Freelance Jobs.torrent -> E:\Downloadsx\Others\[TorrentBD]SkillShare - UpWork Freelancing Your Guide to Finding Remote Freelance Jobs.torrent
+2025-11-03 01:19:30,715 | INFO | Moved: [TorrentBD]SolidWorks 2023 SP2.1 Premium-SSQ.torrent -> E:\Downloadsx\Others\[TorrentBD]SolidWorks 2023 SP2.1 Premium-SSQ.torrent
+2025-11-03 01:19:30,717 | INFO | Moved: [TorrentBD]Solo Leveling S02E10 We Need a Hero 1080p CR WEB-DL AAC2 0 H 264-Draken02.torrent -> E:\Downloadsx\Others\[TorrentBD]Solo Leveling S02E10 We Need a Hero 1080p CR WEB-DL AAC2 0 H 264-Draken02.torrent
+2025-11-03 01:19:30,719 | INFO | Moved: [TorrentBD]Solo Leveling S02E12 Are You the King of Humans 1080p NF WEB-DL AAC 2 0 H 264-TeamSyndicate.torrent -> E:\Downloadsx\Others\[TorrentBD]Solo Leveling S02E12 Are You the King of Humans 1080p NF WEB-DL AAC 2 0 H 264-TeamSyndicate.torrent
+2025-11-03 01:19:30,719 | INFO | Moved: [TorrentBD]UDCourse - Alex Berman - Agency Growth Masterclass.torrent -> E:\Downloadsx\Others\[TorrentBD]UDCourse - Alex Berman - Agency Growth Masterclass.torrent
+2025-11-03 01:19:30,720 | INFO | Moved: [TorrentBD]Udemy - 100 Days of Code The Complete Python Pro Bootcamp [Bestseller] [122024].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - 100 Days of Code The Complete Python Pro Bootcamp [Bestseller] [122024].torrent
+2025-11-03 01:19:30,721 | INFO | Moved: [TorrentBD]Udemy - 30 Great Python Projects To Help You Master It In 2024 [112023].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - 30 Great Python Projects To Help You Master It In 2024 [112023].torrent
+2025-11-03 01:19:30,721 | INFO | Moved: [TorrentBD]Udemy - 40 Real World Data Science, Machine Learning Projects 2023 [Last updated 112023].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - 40 Real World Data Science, Machine Learning Projects 2023 [Last updated 112023].torrent
+2025-11-03 01:19:30,722 | INFO | Moved: [TorrentBD]Udemy - Artificial Intelligence AI Marketing to Grow your Business (Bestseller) (Last updated 012025).torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Artificial Intelligence AI Marketing to Grow your Business (Bestseller) (Last updated 012025).torrent
+2025-11-03 01:19:30,724 | INFO | Moved: [TorrentBD]Udemy - Build And Sell Advanced AI Agents [Last Updated2024-10].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Build And Sell Advanced AI Agents [Last Updated2024-10].torrent
+2025-11-03 01:19:30,726 | INFO | Moved: [TorrentBD]Udemy - Certified AI Engineering Masterclass From Zero to AI Hero [Update 2024-12].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Certified AI Engineering Masterclass From Zero to AI Hero [Update 2024-12].torrent
+2025-11-03 01:19:30,727 | INFO | Moved: [TorrentBD]Udemy - ChatGPT for Product Management and Innovation.torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - ChatGPT for Product Management and Innovation.torrent
+2025-11-03 01:19:30,727 | INFO | Moved: [TorrentBD]Udemy - Email Marketing For Everybody Make Money Writing Emails [Last Updated 2024-2].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Email Marketing For Everybody Make Money Writing Emails [Last Updated 2024-2].torrent
+2025-11-03 01:19:30,728 | INFO | Moved: [TorrentBD]Udemy - Full stack web development and AI with Python (Django) [Last updated 72020].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Full stack web development and AI with Python (Django) [Last updated 72020].torrent
+2025-11-03 01:19:30,729 | INFO | Moved: [TorrentBD]Udemy - JavaScript Interview Masterclass Top 300 Questions (2024) [Last updated 12024](1).torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - JavaScript Interview Masterclass Top 300 Questions (2024) [Last updated 12024](1).torrent
+2025-11-03 01:19:30,730 | INFO | Moved: [TorrentBD]Udemy - JavaScript Interview Masterclass Top 300 Questions (2024) [Last updated 12024](2).torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - JavaScript Interview Masterclass Top 300 Questions (2024) [Last updated 12024](2).torrent
+2025-11-03 01:19:30,732 | INFO | Moved: [TorrentBD]Udemy - JavaScript Interview Masterclass Top 300 Questions (2024) [Last updated 12024].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - JavaScript Interview Masterclass Top 300 Questions (2024) [Last updated 12024].torrent
+2025-11-03 01:19:30,733 | INFO | Moved: [TorrentBD]Udemy - JavaScript Interview Questions - Coding Interview 2022.torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - JavaScript Interview Questions - Coding Interview 2022.torrent
+2025-11-03 01:19:30,734 | INFO | Moved: [TorrentBD]Udemy - Learn Figma UIUX Design Masterclass From Beginner to Pro [Last Update 32024].KS90k9QR.torrent.part -> E:\Downloadsx\Others\[TorrentBD]Udemy - Learn Figma UIUX Design Masterclass From Beginner to Pro [Last Update 32024].KS90k9QR.torrent.part
+2025-11-03 01:19:30,735 | INFO | Moved: [TorrentBD]Udemy - Learn Figma UIUX Design Masterclass From Beginner to Pro [Last Update 32024].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Learn Figma UIUX Design Masterclass From Beginner to Pro [Last Update 32024].torrent
+2025-11-03 01:19:30,735 | INFO | Moved: [TorrentBD]Udemy - Mastering Microservices Architecture and Design Patterns 2025-6.torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Mastering Microservices Architecture and Design Patterns 2025-6.torrent
+2025-11-03 01:19:30,737 | INFO | Moved: [TorrentBD]Udemy - Mastering Nodejs With Interview Questions 2024.torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Mastering Nodejs With Interview Questions 2024.torrent
+2025-11-03 01:19:30,739 | INFO | Moved: [TorrentBD]Udemy - MERN stack projects Based Course Completely Redone [Last Updated 2024-8].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - MERN stack projects Based Course Completely Redone [Last Updated 2024-8].torrent
+2025-11-03 01:19:30,739 | INFO | Moved: [TorrentBD]Udemy - n8n - AI Agents, AI Automations & AI Voice Agents (No-code!) [2025-8] [Bestseller].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - n8n - AI Agents, AI Automations & AI Voice Agents (No-code!) [2025-8] [Bestseller].torrent
+2025-11-03 01:19:30,740 | INFO | Moved: [TorrentBD]Udemy - Next js Projects - 4 NextJS 13 projects (Instagram, Google ) [ Last updated 22023 ].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Next js Projects - 4 NextJS 13 projects (Instagram, Google ) [ Last updated 22023 ].torrent
+2025-11-03 01:19:30,741 | INFO | Moved: [TorrentBD]Udemy - NodeJS Tutorial and Projects Course [Highest Rated].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - NodeJS Tutorial and Projects Course [Highest Rated].torrent
+2025-11-03 01:19:30,742 | INFO | Moved: [TorrentBD]Udemy - Product Management Crash Course; IT Product Management (Last updated 2024-07-07).torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Product Management Crash Course; IT Product Management (Last updated 2024-07-07).torrent
+2025-11-03 01:19:30,742 | INFO | Moved: [TorrentBD]UDEMY - Professional Certificate Product Management and Development [Last updated 92024].torrent -> E:\Downloadsx\Others\[TorrentBD]UDEMY - Professional Certificate Product Management and Development [Last updated 92024].torrent
+2025-11-03 01:19:30,744 | INFO | Moved: [TorrentBD]Udemy - Python and Django Full Stack Web Developer Bootcamp for 2023(1).torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Python and Django Full Stack Web Developer Bootcamp for 2023(1).torrent
+2025-11-03 01:19:30,745 | INFO | Moved: [TorrentBD]Udemy - Python and Django Full Stack Web Developer Bootcamp for 2023.torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Python and Django Full Stack Web Developer Bootcamp for 2023.torrent
+2025-11-03 01:19:30,746 | INFO | Moved: [TorrentBD]Udemy - Python Mega Course Build 20 Real-World Apps and AI Agents [Last updated 82025].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Python Mega Course Build 20 Real-World Apps and AI Agents [Last updated 82025].torrent
+2025-11-03 01:19:30,747 | INFO | Moved: [TorrentBD]Udemy - Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps ( Bestseller ) ( Last updated 122024 ).torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps ( Bestseller ) ( Last updated 122024 ).torrent
+2025-11-03 01:19:30,748 | INFO | Moved: [TorrentBD]Udemy - RAG, AI Agents and Generative AI with Python and OpenAI 2025 (Last updated 2024-11-10).torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - RAG, AI Agents and Generative AI with Python and OpenAI 2025 (Last updated 2024-11-10).torrent
+2025-11-03 01:19:30,749 | INFO | Moved: [TorrentBD]Udemy - React Interview Masterclass Top 200 Questions (with PDF) [Published 12024].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - React Interview Masterclass Top 200 Questions (with PDF) [Published 12024].torrent
+2025-11-03 01:19:30,750 | INFO | Moved: [TorrentBD]UDEMY - React JS Masterclass Zero To Job Ready With 10 Projects (Last updated 12023) [Bestseller].torrent -> E:\Downloadsx\Others\[TorrentBD]UDEMY - React JS Masterclass Zero To Job Ready With 10 Projects (Last updated 12023) [Bestseller].torrent
+2025-11-03 01:19:30,752 | INFO | Moved: [TorrentBD]Udemy - The Complete Cold Email Course 2025 - B2B Lead Generation(Last updated 62025).torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy - The Complete Cold Email Course 2025 - B2B Lead Generation(Last updated 62025).torrent
+2025-11-03 01:19:30,753 | INFO | Moved: [TorrentBD]Udemy Django Masterclass Build 9 Real World Django Projects Last updated 12023.torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy Django Masterclass Build 9 Real World Django Projects Last updated 12023.torrent
+2025-11-03 01:19:30,754 | INFO | Moved: [TorrentBD]Udemy – Advanced React Design System, Design Patterns, Performance [ 2025-1 ].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy – Advanced React Design System, Design Patterns, Performance [ 2025-1 ].torrent
+2025-11-03 01:19:30,755 | INFO | Moved: [TorrentBD]Udemy – The AI Engineer Course 2025 Complete AI Engineer Bootcamp [Last Update 12025].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy – The AI Engineer Course 2025 Complete AI Engineer Bootcamp [Last Update 12025].torrent
+2025-11-03 01:19:30,755 | INFO | Moved: [TorrentBD]Udemy- Devops Tools and AWS for Java Microservice Developers [Last updated 62023].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy- Devops Tools and AWS for Java Microservice Developers [Last updated 62023].torrent
+2025-11-03 01:19:30,756 | INFO | Moved: [TorrentBD]Udemy-Ethical Hacking and Cybersecurity Analyst Bootcamp-[New][Last updated 42025].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy-Ethical Hacking and Cybersecurity Analyst Bootcamp-[New][Last updated 42025].torrent
+2025-11-03 01:19:30,757 | INFO | Moved: [TorrentBD]Udemy-Mastering React.js by answering top interview questions [Highest rated]- [Last updated 092023].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy-Mastering React.js by answering top interview questions [Highest rated]- [Last updated 092023].torrent
+2025-11-03 01:19:30,759 | INFO | Moved: [TorrentBD]Udemy-NextJS & OpenAI - 2024 Edition- [Last updated 012024].torrent -> E:\Downloadsx\Others\[TorrentBD]Udemy-NextJS & OpenAI - 2024 Edition- [Last updated 012024].torrent
+2025-11-03 01:19:30,760 | INFO | Moved: [TorrentBD]Web Automation and Scraping using Python - Udemy.torrent -> E:\Downloadsx\Others\[TorrentBD]Web Automation and Scraping using Python - Udemy.torrent
+2025-11-03 01:19:30,761 | INFO | Moved: [TorrentBD]WordPress Elementor 2021 - Beginner to Pro MasterClass [Udemy](1).torrent -> E:\Downloadsx\Others\[TorrentBD]WordPress Elementor 2021 - Beginner to Pro MasterClass [Udemy](1).torrent
+2025-11-03 01:19:30,762 | INFO | Moved: [TorrentBD]WordPress Elementor 2021 - Beginner to Pro MasterClass [Udemy].torrent -> E:\Downloadsx\Others\[TorrentBD]WordPress Elementor 2021 - Beginner to Pro MasterClass [Udemy].torrent
+2025-11-03 01:19:30,762 | INFO | Moved: [TorrentBD]Wordpress for Beginners - Master Wordpress Quickly - Udemy (Update March 2021).torrent -> E:\Downloadsx\Others\[TorrentBD]Wordpress for Beginners - Master Wordpress Quickly - Udemy (Update March 2021).torrent
+2025-11-03 01:19:30,763 | INFO | Moved: [TorrentBD]ZerotoMastery – AI Engineering Bootcamp Build, Train and Deploy Models with AWS SageMaker.torrent -> E:\Downloadsx\Others\[TorrentBD]ZerotoMastery – AI Engineering Bootcamp Build, Train and Deploy Models with AWS SageMaker.torrent
+2025-11-03 01:19:30,764 | INFO | Moved: [TorrentBD][Udemy] GitLab CI Pipelines, CICD and DevOps for Beginners ( Last updated 62023 ).torrent -> E:\Downloadsx\Others\[TorrentBD][Udemy] GitLab CI Pipelines, CICD and DevOps for Beginners ( Last updated 62023 ).torrent
+2025-11-03 01:19:30,765 | INFO | Moved: ⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (1).png -> E:\Downloadsx\Images\⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (1).png
+2025-11-03 01:19:30,767 | INFO | Moved: ⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (2).png -> E:\Downloadsx\Images\⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (2).png
+2025-11-03 01:19:30,768 | INFO | Moved: ⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (3).png -> E:\Downloadsx\Images\⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (3).png
+2025-11-03 01:19:30,769 | INFO | Moved: ⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (4).png -> E:\Downloadsx\Images\⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection (4).png
+2025-11-03 01:19:30,769 | INFO | Moved: ⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection.png -> E:\Downloadsx\Images\⚡ Boosting API Performance_ 5 Practical Techniques Every Developer Should Know - visual selection.png
+2025-11-03 01:19:30,770 | INFO | Moved: 🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection (1).png -> E:\Downloadsx\Images\🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection (1).png
+2025-11-03 01:19:30,772 | INFO | Moved: 🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection (2).png -> E:\Downloadsx\Images\🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection (2).png
+2025-11-03 01:19:30,773 | INFO | Moved: 🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection (3).png -> E:\Downloadsx\Images\🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection (3).png
+2025-11-03 01:19:30,774 | INFO | Moved: 🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection.png -> E:\Downloadsx\Images\🏗️ Designing a Project File Structure_ Practical Guide Inspired by Clean Code Architecture - visual selection.png
+2025-11-03 01:19:30,775 | INFO | Moved: 🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” (1).pdf -> E:\Downloadsx\Documents\🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” (1).pdf
+2025-11-03 01:19:30,777 | INFO | Moved: 🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” - visual selection (1).png -> E:\Downloadsx\Images\🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” - visual selection (1).png
+2025-11-03 01:19:30,778 | INFO | Moved: 🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” - visual selection (2).png -> E:\Downloadsx\Images\🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” - visual selection (2).png
+2025-11-03 01:19:30,779 | INFO | Moved: 🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” - visual selection.png -> E:\Downloadsx\Images\🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run” - visual selection.png
+2025-11-03 01:19:30,781 | INFO | Moved: 🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run”.pdf -> E:\Downloadsx\Documents\🖥️ How Code Runs_ A Beginner’s Guide to What Happens When You Press “Run”.pdf
+2025-11-03 01:19:30,781 | INFO | Processed 667 files.
+2025-11-03 17:51:14,879 | INFO | Found 0 files to inspect.
+2025-11-03 17:51:14,880 | INFO | Processed 0 files.
+2025-11-03 17:51:21,685 | INFO | Found 0 files to inspect.
+2025-11-03 17:51:21,685 | INFO | Processed 0 files.

@@ -1,0 +1,25 @@
+{
+  "DownloadsPath": "E:/Downloadsx",
+  "Categories": {
+    "Documents": [
+      ".pdf",
+      ".doc",
+      ".docx",
+      ".txt",
+      ".xls",
+      ".xlsx",
+      ".ppt",
+      ".pptx"
+    ],
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg"],
+    "Videos": [".mp4", ".mkv", ".avi", ".mov", ".flv"],
+    "Music": [".mp3", ".wav", ".aac", ".flac", ".ogg"],
+    "Archives": [".zip", ".rar", ".tar", ".gz", ".7z"],
+    "Installers": [".exe", ".msi", ".dmg", ".pkg"],
+    "Others": []
+  },
+  "LargeFileThresholdMB": 500,
+  "Ignore": ["organize_downloads.py", "config.json", "logs"],
+  "LogFile": "logs/organize.log",
+  "ActionLogFile": "logs/actions.jsonl"
+}
